@@ -1,6 +1,6 @@
 ![](img/vdc_node.png)
 
-# Cloud Knowledgebase
+# ThreeDold Cloud Knowledgebase
 
 ## eVDC
 
@@ -18,6 +18,16 @@ The eVDC offers the tooling for :
 
 [](./img/vdc-3bot.png)
 
+> more info see: [evdc](evdc)
+
 ## Planetary FileSystem
 
+> more info see: [planetary filesystem](planetfs)
+
 ## IAC = Infrastructure As Code
+
+![](img/iac_intro.png)
+
+Infrastructure as code is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
+
+> more info see: [iac](iac)

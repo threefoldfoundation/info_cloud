@@ -1,5 +1,7 @@
 # ThreeFold Cloud benefits
 
+![](img/benefits.png)
+
 | Benefit                            | Description                                                            |
 | ---------------------------------- | ---------------------------------------------------------------------- |
 | [Security](usp_secure)             | ThreeFold Grid has been designed with gread security concepts in mind. |
