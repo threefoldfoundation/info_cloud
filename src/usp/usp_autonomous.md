@@ -1,0 +1,1 @@
+- The management of the grid and the workload running on it is not in the hands by humans, hereby excluding both human error and malicious hackers. Bots take over this role: we have defined the concept of a 3Bot as a human's virtual system administrator. How this exactly works can be read below in the deployment process security.

@@ -1,0 +1,13 @@
+- [Home](readme)
+- [unique benefits](usp)
+- [eVDC get started](evdc_getting_started)
+  - [create](evdc_create)
+  - [manage](evdc_manage)
+  - [pricing](evdc_pricing)
+  - [remove](evdc_remove)
+  - [upgrade](evdc_upgrade)
+  - [where to get tokens](buy_tft)
+- [kubernetes]
+  - [deploy](k8s_deploy)
+  - [add monitoring](k8s_monitor)
+- [overview secure2](overview_secure.md")
