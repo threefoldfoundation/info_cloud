@@ -15,13 +15,13 @@ To create your VDC, click `Deploy a VDC`.
 
 Only limited information is needed: a name, a secret password, and the size of your VDC (this can be adapted over time).
 
-![](./img/01_vdc_selection.png)
+![](img/01_vdc_selection.png)
 
 Now the VDC is being prepared to be used by you.
 Full deployment can start after payment.
 The amount to be paid is calculated to cover the capacity for the selected VDC size for a period of 1 month.
 
-![](./img/02_vdc_payment2.png)
+![](img/02_vdc_payment2.png)
 
 After payment, the process takes a while, as many steps happen behind the scene:
 
@@ -35,6 +35,6 @@ After payment, the process takes a while, as many steps happen behind the scene:
 After all these steps, your VDC is ready for exploitation !
 A kubeconfig file is generated and can be downloaded.
 
-Remark: keep this file secure and safe, as it contains all info for anyone to access the K8S cluster.
+Remark: keep this file secure and safe, as it contains all info for anyone to access the Kubernetes cluster.
 
-![](./img/08_vdc_deploy_success2.png)
+![](img/08_vdc_deploy_success2.png)

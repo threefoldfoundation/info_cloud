@@ -1,10 +1,10 @@
-# Cloud Wiki Site
+![](img/vdc_node.png)
 
-<!-- ![](img/vdc_node.png) -->
+# Cloud Knowledgebase
 
 ## eVDC
 
-![](./img/vdc.png)
+![](img/vdc.png)
 
 eVDC stand for "edge Virtual DataCenter" which is a solution that exists on the ThreeFold grid.
 

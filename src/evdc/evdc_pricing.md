@@ -22,7 +22,7 @@ For additional Kubernetes node, following prices apply:
 ## Billing
 
 A user prepays the setup of his eVDC to a eVDC provider, according to the above prices.
-Once paid, provisioning of hardware for K8S clusters can start.
+Once paid, provisioning of hardware for Kubernetes clusters can start.
 
 ## How to buy TFT
 

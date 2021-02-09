@@ -1,6 +1,6 @@
 # Why use TF VDC?
 
-![](./img/vdc_node.png)
+![](img/vdc_node.png)
 
 ## Benefit from Agility of Cloud
 

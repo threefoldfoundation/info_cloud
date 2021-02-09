@@ -7,7 +7,7 @@
   - [remove](evdc_remove)
   - [upgrade](evdc_upgrade)
   - [where to get tokens](buy_tft)
-- [kubernetes]
-  - [deploy](k8s_deploy)
-  - [add monitoring](k8s_monitor)
-- [overview secure2](overview_secure.md")
+- [kubernetes](kubernetes)
+  - [deploy](kubernetes_deploy)
+  - [add monitoring](kubernetes_monitor)
+- [releases & Support](support)
