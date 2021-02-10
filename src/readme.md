@@ -1,6 +1,6 @@
 ![](img/vdc_node.png)
 
-# ThreeDold Cloud Knowledgebase
+# ThreeFold Cloud Knowledgebase
 
 ## eVDC
 
