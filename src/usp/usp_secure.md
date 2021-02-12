@@ -18,7 +18,7 @@ some benefits:
 
 We have developed the service to have S3 storage split in an intelligent way into different shards, in a way that on one location, there is only part of the information stored in one place. Moreover, the data is described in a descriptive way so that a person aiming to hack into the low-level data (which is almost impossible in itself), will only find non-relevant information on this storage infrastructure.
 The fact that no data shard can be created only accessing one location, makes the storage quantum proof: no compute power can ‘imagine’ what these missing data are.
-More info on our dispersed storage mechanism can be found [here](https://manual.threefold.io/#/architecture_storage?id=dispersed-storage-architecture-design-philosophy).
+More info on our dispersed storage mechanism can be found [here](https://manual.threefold.io/#/quantumsafe_storage_concept?id=dispersed-storage-architecture-design-philosophy).
 
 This secure storage has been implemented into Minio S3 storage offering, available on the Threefold Grid.
 
