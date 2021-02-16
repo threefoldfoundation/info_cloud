@@ -89,7 +89,6 @@
 | [planetfs](page__threefold__threefold_fs.md) | ThreeFold Filesystem |
 | [planetnet](page__threefold__threefold_network.md) | Planetary Network = PAN |
 | [planetnetwork](page__threefold__threefold_network.md) | Planetary Network = PAN |
-| [planetoryfs](page__threefold__threefold_fs.md) | ThreeFold Filesystem |
 | [planetorynetwork](page__threefold__threefold_network.md) | Planetary Network = PAN |
 | [publisher](page__threefold__publisher.md) | Publishing System |
 | [publishertool](page__threefold__publisher.md) | Publishing System |
