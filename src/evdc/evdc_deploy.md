@@ -5,15 +5,15 @@ To provision any workload using TF eVDC, there are some pre-requisites that need
 - Get ThreeFold Connect App;ThreeFold Connect is a mobile app that facilitate you with your own 3Bot Wallet where and 3Bot ID; your digital identity on top of the ThreeFold Grid.
 - Get and store TFT into your TF Connect Wallet to reserve IT Capacity and pay for your workload on top of the TF Grid.
 
-> Read more on the prerequisites on [__TF Getting Started Manual__](sdk:sdk:all_getting_started)
+> Read more on the prerequisites on [**TF Getting Started Manual**](sdk:all_getting_started)
 
-## How to Deploy eVDC 
+## How to Deploy eVDC
 
-Go to [__eVDC Deployer website__](https://vdc.testnet.grid.tf/vdc/#/) and login the eVDC platform by using your [TF Connect account](sdk:sdk:threefold_connect_install). Follow the instructions on your desktop screen and on your TF Connect mobile app to log into the eVDC Deployer.
+Go to [**eVDC Deployer website**](https://vdc.testnet.grid.tf/vdc/#/) and login the eVDC platform by using your [TF Connect account](sdk:threefold_connect_install). Follow the instructions on your desktop screen and on your TF Connect mobile app to log into the eVDC Deployer.
 
 ![](img/evdc_login.png)
 
-Once logged in, click on __Deploy a VDC__ button.
+Once logged in, click on **Deploy a VDC** button.
 
 ![](img/evdc_deploy.png)
 
@@ -25,7 +25,7 @@ Depending on your selected eVDC size / dplan, you will now be redirected to the 
 
 ![](img/evdc_payment.png)
 
-Scan the QR page using your TFT Wallet on your TF Connect Mobile App, send the TFT to the displayed wallet address and confirm your payment. 
+Scan the QR page using your TFT Wallet on your TF Connect Mobile App, send the TFT to the displayed wallet address and confirm your payment.
 
 ![](img/scanqr.jpeg)
 
@@ -41,13 +41,13 @@ You can also access and manage your newly deployed eVDC on your 'List VDCs' page
 
 ![](img/deployer.png)
 
-> Read more on [__How to Access and Managed Your Deployed eVDCs__](evdc_manage)
+> Read more on [**How to Access and Managed Your Deployed eVDCs**](evdc_manage)
 
 ## Where to ask questions
 
 - Feel free to ask us any questions you might have on [our forum](https://forum.threefold.io) in the feedback category.
 - We also have a Telegram Group for TF Grid testers [here](https://t.me/joinchat/BwOvOxxgK59GmRoZ2_sM0w).
 
-*Please keep in mind that eVDC is currently running on testnet. Mainnet is planned to be released early 2021.*
+_Please keep in mind that eVDC is currently running on testnet. Mainnet is planned to be released early 2021._
 
-*Please forgive any instability you might encounter while our developers continue to work to bring you the best solutions possible and keep in mind the forum (linked directly above) is there for you to bring questions or report any issues.*
+_Please forgive any instability you might encounter while our developers continue to work to bring you the best solutions possible and keep in mind the forum (linked directly above) is there for you to bring questions or report any issues._
