@@ -5,11 +5,11 @@ To provision any workload using TF eVDC, there are some pre-requisites that need
 - Get ThreeFold Connect App;ThreeFold Connect is a mobile app that facilitate you with your own 3Bot Wallet where and 3Bot ID; your digital identity on top of the ThreeFold Grid.
 - Get and store TFT into your TF Connect Wallet to reserve IT Capacity and pay for your workload on top of the TF Grid.
 
-> Read more on the prerequisites on [**TF Getting Started Manual**](sdk:all_getting_started)
+> Read more on the prerequisites on [**TF Getting Started Manual**](sdk:info_sdk:all_getting_started)
 
 ## How to Deploy eVDC
 
-Go to [**eVDC Deployer website**](https://vdc.testnet.grid.tf/vdc/#/) and login the eVDC platform by using your [TF Connect account](sdk:threefold_connect_install). Follow the instructions on your desktop screen and on your TF Connect mobile app to log into the eVDC Deployer.
+Go to [**eVDC Deployer website**](https://vdc.testnet.grid.tf/vdc/#/) and login the eVDC platform by using your [TF Connect account](sdk:info_sdk:threefold_connect_install). Follow the instructions on your desktop screen and on your TF Connect mobile app to log into the eVDC Deployer.
 
 ![](img/evdc_login.png)
 
