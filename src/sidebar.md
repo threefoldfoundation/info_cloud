@@ -16,7 +16,7 @@
   - [deploy](kubernetes_deploy)
   - [add monitoring](kubernetes_monitor)
 - [releases & Support](support)
-- [Architecture](architecture)
+- [Architecture](cloud_architecture)
   - [3Node](architecture_3Node.md)
   - [Planetary Filesystem](threefold:quantumsafe_storage_concept)
   - [Quantum Safe Network](architecture_network.md)
