@@ -18,7 +18,7 @@
 - [releases & Support](support)
 - [Architecture](architecture)
   - [3Node](architecture_3Node.md)
-  - [Planetary Filesystem](threefold:info_threefold:quantumsafe_storage_concept)
+  - [Planetary Filesystem](threefold:quantumsafe_storage_concept)
   - [Quantum Safe Network](architecture_network.md)
   - [Planetary Lan](tf_lan.md)
   - [0-Container Virtual FS](sdk:architecture_flist)
