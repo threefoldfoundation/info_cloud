@@ -21,5 +21,5 @@
   - [Planetary Filesystem](threefold:info_threefold:quantumsafe_storage_concept)
   - [Quantum Safe Network](architecture_network.md)
   - [Planetary Lan](tf_lan.md)
-  - [0-Container Virtual FS](sdk:info_sdk:architecture_flist)
+  - [0-Container Virtual FS](sdk:architecture_flist)
   - [Compatibility with IT standards](architecture_compatibility.md)
