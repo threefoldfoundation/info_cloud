@@ -1,6 +1,6 @@
 # Manage Deployed eVDCs
 
-You can manage all of your successfully deployed eVDCs under by clicking on the 'LIST VDCS' button of the homepage of the [eVDC Deployer](vdc.testnet.grid.tf).
+You can manage all of your successfully deployed eVDCs under by clicking on the 'LIST VDCS' button of the homepage of the [eVDC Deployer](https://vdc.testnet.grid.tf).
 
 ![](img/deployer.png)
 
