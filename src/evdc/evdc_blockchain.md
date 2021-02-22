@@ -4,7 +4,7 @@ TF eVDC aims to give you a solution to deploy blockchain nodes with ease and eff
 
 ## Blockchain Node Deployment List
 
-- [Deploy Digibyte Full Node](evdc_digibyte) on the ThreeFold Grid!
+- [Deploy Digibyte Full Node](evdc_digibyte) on the TF Grid
+- [Deploy Presearch Node](evdc_presearch) on the TF Grid
 - Deploy Dash Node - Coming Soon!
 - Deploy Harmony Node - Coming Soon!
-- Deploy Presearch Node - Coming Soon!
