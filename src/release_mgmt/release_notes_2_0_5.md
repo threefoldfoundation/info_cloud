@@ -5,11 +5,11 @@ TF Grid 2.0.5 beta is a minor release which is focus on bug fixing and stability
 We have received quite a lot of feedback from the field regarding difficulty of installation and confusion around how identity works.
 These concerned have been addressed, documentation improved and 3sdk CLI tool simplified.
 
-- streamlined installation for normal and expert modes across all supported platforms
-- better visualization of reservations in chatflows and admin panel
-- admin panel components more defensive to help users reach successful reservations
-- customized views for solutions for easier management
-- step-by-step tutorials A new section has been created into the manual specially for this: [tutorials](getting_started_tutorials)
+- Streamlined installation for normal and expert modes across all supported platforms
+- Better visualization of reservations in chatflows and admin panel
+- Admin panel components more defensive to help users reach successful reservations
+- Customized views for solutions for easier management
+- Step-by-step tutorials: a new section has been created into the manual specially for this.
 
 The billing of the reservation has been updated. The amount of token required to make a reservation is now computed per hour. This allows to create very short living reservations. Detail of the new billing is documented in the [wiki](https://wiki.threefold.io/#/capacity_pricing_start?id=Threefold-grid-capacity-pricing-promotion).
 

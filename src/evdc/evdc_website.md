@@ -49,9 +49,9 @@ Go to your newly forked github repository and copy the Repository url on your fo
 
 Paste the url to the chatflow 'Repository url' form.
 
-![](website_paste.png)
+![](img/website_paste.png)
 
-Identify the main branch of your website, identify the main source folder of your website and click 'Next'
+Identify the branch of your website (ex. `main` ), identify the main source folder of your website and click 'Next'
 
 ![](img/website_identify.png)
 
