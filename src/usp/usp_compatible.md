@@ -15,6 +15,7 @@ The process for deploying workloads has been made easy as quite a lot of Helm te
 
 # Helm
 
-![](helm.png)
+![](helm.jpg)
 
 # Filesystem
+
