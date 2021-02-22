@@ -12,6 +12,6 @@
   - please help us test this release
 - 3.0: will be a major release planned for end Q1 2021
 
-> note: we automatically delete your eVDC's after 2 weeks.
+> Note: On testnet, we automatically delete your eVDC's after 2 weeks.
 
-> note: read our release notes of 2.5 to understand limitations and know issues.
+> Note: read our release notes of 2.5 to understand limitations and know issues.
