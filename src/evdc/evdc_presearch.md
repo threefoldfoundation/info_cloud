@@ -46,7 +46,7 @@ When you clicked it, you will then be directed to the Node stat page of your nod
 
 ## Accessing Your Deployed Node
 
-To find and access the Presearch Node you just deployed, simply go to your eVDC Admin Panel home and find the Digibyte Widget. Click on __My Workloads__ to go to the list of your successfully deployed Digibyte Nodes.
+To find and access the Presearch Node you just deployed, simply go to your eVDC Admin Panel home and find the Digibyte Widget. Click on __My Workloads__ to go to the list of your successfully deployed Presearch Node.
 
 ![](img/presearch_myworkload.png)
 
@@ -55,3 +55,5 @@ You can now click the link to go to your deployed Digibyte Node Stats Page.
 ![](img/presearch_access.png)
 
 Also on the [Presearch website](https://nodes.presearch.org/dashboard) you can now see the node. Stake at least 1000 PRE and your node becomes accessible for searches. 
+
+![](img/presearch_node_result.png)
