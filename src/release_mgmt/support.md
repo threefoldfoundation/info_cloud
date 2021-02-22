@@ -7,8 +7,8 @@
 
 # [Releases](release_notes)
 
-- 2.4: released Dec 2020 on testnet only
-- [2.5: being stabilized on on testnet, frequent changes do still happen](release_notes_2_4)
+- [2.4: released Dec 2020 on testnet only](release_notes_2_4_0)
+- [2.5: being stabilized on on testnet, frequent changes do still happen](release_notes_2_5_0)
   - please help us test this release
 - 3.0: will be a major release planned for end Q1 2021
 
