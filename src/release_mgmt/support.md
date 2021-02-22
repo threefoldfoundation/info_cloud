@@ -14,4 +14,4 @@
 
 > Note: On testnet, we automatically delete your eVDC's after 2 weeks.
 
-> Note: read our release notes of 2.5 to understand limitations and know issues.
+> Note: Please read our Release Notes of 2.5 to understand limitations and known issues.
