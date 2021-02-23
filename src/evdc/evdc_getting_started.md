@@ -2,7 +2,7 @@
 
 steps
 
-- [create your vdc](evdc_add)
+- [create your vdc](evdc_create)
 
 ## Where to ask questions
 
