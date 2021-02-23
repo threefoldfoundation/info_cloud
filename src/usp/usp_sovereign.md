@@ -1,4 +1,4 @@
-# Combine Agility of Cloud with Sovereignty of On-Premise Data Center
+# Combine Cloud Agility and Sovereignty of On-Premise Data Center
 
 ![](img/vdc_node.png)
 

@@ -6,7 +6,7 @@
 
 ![](img/vdc.png)
 
-eVDC stand for "edge Virtual DataCenter" which is a solution that exists on the ThreeFold grid.
+eVDC stand for "edge Virtual Data Center" which is a solution that exists on the ThreeFold grid.
 
 The eVDC is a virtual data center (out of the box) that creates easy and industry standard ways to deploy, scale and manage Unix workloads.
 
@@ -18,11 +18,11 @@ The eVDC offers the tooling for :
 
 [](./img/vdc-3bot.png)
 
-> more info see: [evdc](evdc)
+> more info see: [eVDC](evdc)
 
 ## Planetary FileSystem
 
-> more info see: [planetary filesystem](threefold:threefold_fs)
+> more info see: [Planetary Filesystem](threefold:threefold_fs)
 
 ## IAC = Infrastructure As Code
 
@@ -30,4 +30,4 @@ The eVDC offers the tooling for :
 
 Infrastructure as code is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
 
-> more info see: [iac](iac)
+> more info see: [IAC](iac)

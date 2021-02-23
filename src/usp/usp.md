@@ -1,4 +1,4 @@
-# ThreeFold Cloud benefits
+# ThreeFold Cloud Unique Benefits
 
 ![](img/benefits.png)
 
