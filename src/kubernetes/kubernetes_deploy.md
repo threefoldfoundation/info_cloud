@@ -1,14 +1,26 @@
-# Deploy Kubernetes Cluster
+# Kubernetes Cluster Actions
 
-The Kubernetes cluster comes with the creation of your VDC.
-
+#### Pre-required 
 - You'll need to log in through Threefold Connect, an authenticator for the ThreeFold ecosystem.
 - You can find more on ThreeFold Connect [here](https://manual.threefold.io/#/3botconnect_install).
 
-## Next, use the guided setup to create and configure your private VDC
+#### Getting Started 
+The Kubernetes cluster comes with the creation of your VDC.
 
-- Both Kubernetes and storage have their own flow – actions in order to deploy your own instance on top of the ThreeFold Grid.
-- If you're feeling lost, each live tool has a tutorial on its page here on the wiki.
+You can create this VDC with a deployed Kubernetes Cluster on the VDC deployment website : 
+- on testnet [here](https://vdc.testnet.grid.tf)
+- mainnet coming soon
+
+#### Upgrade
+
+- [Add a Node](evdc_upgrade)
+
+#### Downgrade 
+
+- [Remove a Node](evdc_downgrade)
+
+#### Manage
+- [Manage your Kubernetes Cluster](evdc_k8s)
 
 ## Where to ask questions
 
@@ -21,13 +33,12 @@ The Kubernetes cluster comes with the creation of your VDC.
 
 ---- 
 
-Extra info : 
+#### More info : K3S 
 
-## K3S 
+The deployed Kubernetes instance  is a lightweight K3S Kubernetes implementation in Zero-OS
 
-- This deployment creates the K3S Lightweight Kubernetes implementation in Zero-OS
+  ![](evdck3slogo.png)
 
-  ![](img/evdck3slogo.png)
 - K3S is full conformant production-ready Kubernetes distribution with the following changes:   
    - It is packaged as a single binary
    - It adds support to sqlite3 as default storage. Etcd3, MySQL and Postgres are also supported
