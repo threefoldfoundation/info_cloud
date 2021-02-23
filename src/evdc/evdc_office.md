@@ -1,12 +1,3 @@
-<!-- Todo
-
-- add # Title
-- add # Intro: explain what evdc office tools
-- add # Solution List: list all solutions under evdc office in bullet points, plus link to deployment tutorial
-    for example: 
-     File Browser: a peer to peer file storage system. [ Deployment Manual ](link)
-- See [evdc_blockchain.md](evdc_blockchain) for example on how this looks like. --->
-
 # Decentralized Office
 
 ![](img/evdc_mktplace_office.png)
@@ -22,9 +13,14 @@ ThreeFold believes that there should be a private and secure version of those ap
 
 ## Solutions List
 
-- [Taiga](evdc_taiga) : open-source solution for project management
-- [Cryptpad](evdc_cryptpad) : private-by-design doc collaboration tool, an alternative for MS Office and Google Docs
-- [Mattermost](evdc_mattermost) : a widely-trusted open source and self-hosted messaging platform that enables secure team collaboration.
-- [File Browser - to do]() : an open source, community-led "create your own cloud" type of solution which we have utilized and customized for the ThreeFold Now Marketplace.
-- [OroCRM](evdc_crm) : a self-hosted Customer Relationship Management system
-- [Commento - to do]() : lets you embed comments without giving up your privacy.
+- [__Taiga__](evdc_taiga) : open-source solution for project management
+- [__Cryptpad__](evdc_cryptpad) : private-by-design doc collaboration tool, an alternative for MS Office and Google Docs
+- [__Mattermost__](evdc_mattermost) : a widely-trusted open source and self-hosted messaging platform that enables secure team collaboration.
+
+
+Coming soon : 
+
+- __Document Server__
+- __File Browser__, an open source, community-led "create your own cloud" type of solution which we have utilized and customized for the ThreeFold Now Marketplace.
+- __OroCRM__, a self-hosted Customer Relationship Management system
+- __Commento__ : lets you embed comments without giving up your privacy
