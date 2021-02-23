@@ -15,9 +15,9 @@ Decentralized We is all about providing alternatives to the tools we use every d
 
 ## Solutions List
 
-- [Blog](evdc_blog)
-- [Website](evdc_website)
-- [Wiki](evdc_wiki)
-- [Discourse](evdc_discourse)
-- [Peertube](evdc_peertube)
-- [Video Chat](evdc_videochat) : a peer-to-peer video chatting platform. 
+- [Blog](evdc_blog) : a P2P alternative to Tumblr or Blogspot
+- [Website](evdc_website) : a P2P alternative to centralized cloud-hosted websites. Host your own website with access via an IP and a public domain
+- [Wiki](evdc_wiki) : create your online encyclopedia accessible via an IP and a public domain
+- [Discourse](evdc_discourse) : an open source forum built to educate members about civil community engagement
+- [Peertube](evdc_peertube) : an open-source video platform that uses peer-to-peer tech to reduce load on individual servers when viewing videos
+- [Video Chat](evdc_videochat) : a peer-to-peer video chatting platform 

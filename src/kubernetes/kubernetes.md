@@ -6,4 +6,4 @@ Kubernetes is a popular open-source container-orchestration system for automatin
 
 - [deploy](kubernetes_deploy)
 - [add monitoring](kubernetes_monitor)
-- [work with docker container images](container_images)
+- [work with docker container images](kubernetes_container_images)

@@ -54,9 +54,9 @@
 
 - [Releases & Support](support)
 - [Architecture](cloud_architecture)
-  - [3Node](architecture_3Node.md)
+  - [3Node](threefold:3node)
   - [Planetary Filesystem](threefold:quantumsafe_storage_concept)
   - [Quantum Safe Network](architecture_network.md)
   - [Planetary Lan](tf_lan.md)
   - [0-Container Virtual FS](sdk:architecture_flist)
-  - [Compatibility with IT standards](architecture_compatibility.md)
+  - [Compatibility with IT standards](usp_compatible.md)
