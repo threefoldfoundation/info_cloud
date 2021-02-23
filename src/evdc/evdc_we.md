@@ -9,7 +9,7 @@ for example:
 
 # Decentralized We
 
-![](evdc_mktplace_we)
+![](img/evdc_mktplace_we.png)
 
 Decentralized We is all about providing alternatives to the tools we use every day to share and connect with the people around us. These are secure and safe communication and publishing tools to ensure that what we share privately stays private and what we share publicly is still owned by us.
 

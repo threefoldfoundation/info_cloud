@@ -12,7 +12,7 @@ Extensive Docker documentation can be found [here](https://docs.docker.com).
 
 ## Kubernetes 
 
-![](img/ips-kubernetes.png)
+![](img/ips_kubernetes.png)
 
 
 Kubernetes is the standard for container orchestration.
