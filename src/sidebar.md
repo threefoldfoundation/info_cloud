@@ -15,6 +15,7 @@
 - [Kubernetes](kubernetes)
   - [Deploy](kubernetes_deploy)
   - [Add Monitoring](kubernetes_monitor)
+- [Planetary File System](planetary_fs)
 - [Marketplace](evdc_marketplace)
   - [Decentralized Office](evdc_office)
     - [Taiga](evdc_taiga)
