@@ -34,7 +34,7 @@
     - [Video Chat](evdc_videochat)
     - [Virtual Spaces - to do]()
     - [Knowledge Base - to do]()
-  - [Decentralized Developer - to do]()
+  - [Decentralized Developer - to do](evdc_devs)
     - [Gitea](evdc_gitea)
     - [Monitoring Stack](evdc_monitoring_stack)
     - [ZeroCI](evdc_zeroci)
