@@ -26,7 +26,7 @@ This secure storage has been implemented into Minio S3 storage offering, availab
 
 Deployment of IT workload using a so-called “Smart Contract for IT” makes the deployment process resilient to human error and hacking. The system is self-driving and self-healing, therefore removing the human requirement for deploying and operating IT infrastructure and services. This represents a breakthrough in IT. 3Bot records all transactions within the blockchain database (BCDB), ensuring an immutable record of any workload and enables the self-healing functionality as any workload can easily be restored if/when needed.
 
-![](info_sdk:smart_contract_it_arch)
+![](sdk:smart_contract_it_arch)
 
 
 ## Fully decentralized access
