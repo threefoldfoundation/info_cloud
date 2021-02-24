@@ -11,15 +11,10 @@ You can create this VDC with a deployed Kubernetes Cluster on the VDC deployment
 - on testnet [here](https://vdc.testnet.grid.tf)
 - mainnet coming soon
 
-#### Upgrade
+#### Managing your resources
 
 - [Add a Node](evdc_upgrade)
-
-#### Downgrade 
-
 - [Remove a Node](evdc_downgrade)
-
-#### Manage
 - [Manage your Kubernetes Cluster](evdc_k8s)
 
 
