@@ -11,7 +11,7 @@
 - [Quantum Safe Network Concept](threefold:quantumsafe_network_concept)
   - [Zero-OS Network](threefold:zos_network)
   - [ThreeFold Network = planetary network](threefold:threefold_network)
-  - [Web Gateway](threefold:webgateway)
+  - [Web Gateway](sdk:architecture_webgateway)
 - TFGrid
   - [3Node](threefold:3node)
   - [ThreeFold Connect](threefold:tfconnect)
