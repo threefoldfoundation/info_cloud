@@ -1,6 +1,6 @@
-# Why is TF VDC so secure?
+# Secure in all dimensions
 
-## Running on an OS with more security (minimal hacking surface)
+## Running on an OS with minimal hacking surface
 
 Zero-OS is a secure operating system that runs on the Threefold nodes.
 
@@ -26,11 +26,11 @@ This secure storage has been implemented into Minio S3 storage offering, availab
 
 Deployment of IT workload using a so-called “Smart Contract for IT” makes the deployment process resilient to human error and hacking. The system is self-driving and self-healing, therefore removing the human requirement for deploying and operating IT infrastructure and services. This represents a breakthrough in IT. 3Bot records all transactions within the blockchain database (BCDB), ensuring an immutable record of any workload and enables the self-healing functionality as any workload can easily be restored if/when needed.
 
-![](sdk:smart_contract_it_arch)
+![](img/smartcontractit_intro.png)
 
 
-## Fully decentralized access
+## Secure Decentralized access
 
-Access to your virtual data center happen through Threefold connect app. This app is a fully decentralized authentication mechanism, based on PKI technology.
+Access to your virtual data center happen through Threefold Connect App. This app is a fully decentralized multifactor authentication mechanism, based on PKI technology.
 
 ![](img/vdc_secure.png)
