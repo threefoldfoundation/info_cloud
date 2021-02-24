@@ -27,7 +27,7 @@ You can create this VDC with a deployed Kubernetes Cluster on the VDC deployment
 
 The deployed Kubernetes instance  is a lightweight K3S Kubernetes implementation in Zero-OS
 
-  ![](evdck3slogo.png)
+  ![](img/evdck3slogo.png)
 
 - K3S is full conformant production-ready Kubernetes distribution with the following changes:   
    - It is packaged as a single binary
