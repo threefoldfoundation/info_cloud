@@ -37,5 +37,13 @@ And you're done !
 
 ![](img/evdc_k8s_monitoring_14_lens.png)
 
+Lens gives insight in what is running in the Kubernetes cluster, with their state. 
+
+Through the built-in terminal, there is also a way to access the nodes, pods, deployments, ... in a command-based way using `kubectl`.
+
+![](img/31_vdc_terminal_k8s_nodes.png)
+![](img/32_vdc_terminal_k8s_pods.png)
+
+
 > For the installation of Kubernetes monitoring using the tooling on the Marketplace, please read [__Monitoring Stack__](evdc_monitoring_stack).
 
