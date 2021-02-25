@@ -27,9 +27,3 @@ Details on both master and workers are visible.
 ![](img/25_vdc_portal_compute_detail_master.png)
 
 ![](img/26_vdc_portal_storage_nodes.png)
-
-![](img/27_vdc_portal_wallet.png)
-
-![](img/31_vdc_terminal_k8s_nodes.png)
-
-![](img/32_vdc_terminal_k8s_pods.png)
