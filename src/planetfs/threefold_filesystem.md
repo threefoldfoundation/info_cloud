@@ -27,10 +27,10 @@ Together the form a Quantum-Safe Storage system.
 
 This concept scales forever, and any file system can be brought on top of it: 
 - S3 storage 
+- any backup system
 - an ftp-server
 - IPFS and Hypercore distributed file sharing protocols 
 - ...
-
 
 ![](img/quantum_safe_storage_scale.png)
 
