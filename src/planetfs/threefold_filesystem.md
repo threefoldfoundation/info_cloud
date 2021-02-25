@@ -37,6 +37,21 @@ Then download the Quantum Storage container onto your local machine, through the
 `git clone https://github.com/threefoldtech/quantum-storage.git`
 `docker build -t tf/quantum .`
 
+This will download, compile and prepare all what is needed to get a working container. 
 
+> Remark: On MacOS only a configuration with IPv4 and on Docker is available. On Ubuntu both IPv4 and IPv6 configurations are supported. 
 
-> To Do !
+For running the container, execute the following command :
+
+`docker run --rm -it --device /dev/fuse --cap-add CAP_SYS_ADMIN tf/quantum`
+
+For MacOS users and if port forwarding needed, execute : 
+
+`docker run --rm -it --device /dev/fuse --cap-add CAP_SYS_ADMIN -p 9000:9000 tf/quantum`
+
+As soon as the container is up and running, you can reach it via it's IP. In-built is also a Minio interface, on port 9000. 
+
+A UI for Minio S3 storage is available on the provided IP address. 
+
+![](img/planetaryfs_minio_ui.png)
+
