@@ -61,14 +61,8 @@ Execution of this bootstrap will show you that the back-end is ready for dispers
 
 As from now, copying files to the directory `/root/.threefold/mnt/zdbfs` automatically creates an operational backup of these files to the available storage, dispersed over the ThreeFold grid. 
 
---- 
-For MacOS users and if port forwarding needed, execute : 
-
-`docker run --rm -it --device /dev/fuse --cap-add CAP_SYS_ADMIN -p 9000:9000 tf/quantum`
-
-As soon as the container is up and running, you can reach it via it's IP. In-built is also a Minio interface, on port 9000. 
-
-A UI for Minio S3 storage is available on the provided IP address. 
-
-![](img/planetaryfs_minio_ui.png)
-
+The result of this exercise is a quantum-safe storage: 
+- The data is backed up in a seamless way;
+- The amount of info that can be stored is unlimited, up to petabytes;
+- If some storage nodes get lost, files can be repaired without a problem;
+- it is ready for any application or protocol to run on top of it. 
