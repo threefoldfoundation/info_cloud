@@ -1,13 +1,13 @@
 ![](img/planet_fs.png)
 
-# ThreeFold Quantum-Safe Storage
+# ThreeFold Planetary Secure File System (PSFS)
 
 Part of the VDC is a set of Storage Nodes, which can be used as storage infrastructure for files in any format. 
 
 ## Mount Any Files in your Storage Infrastructure
 
-The Quantum-Safe Storage System is a mechanism to mount any file system (in any format) on the grid, in a quantum-secure way. 
-It is currently available as a Docker file, and is meant to be integrated into the workload you run in the Kubernetes cluster. 
+The Planetary Secure Filesystem is a mechanism to mount any file system (in any format) on the grid, in a quantum-secure way. 
+
 This storage layer relies relies on 3 primitives of the ThreeFold technology : 
 
 - [0-db](https://github.com/threefoldtech/0-db) is the storage engine.
@@ -21,7 +21,7 @@ retrieved and missing 0-db's can even be rebuilt to keep full consistency. It's 
 
 - [0-db-fs](https://github.com/threefoldtech/0-db-fs) is the filesystem driver which uses 0-db as primary storage engine.  It manages the storage of directories and metadata in a dedicated namespace, and file payloads in another dedicated namespace.
 
-Together the form a Quantum-Safe Storage system. 
+Together they form a storage layer which is quantum secure : even the most powerful computer can't hack the system, because it is missing part of the information when breaking into one node. 
 
 ![](img/quantum_safe_storage.png)
 
