@@ -32,4 +32,11 @@ First download the ZDB config file. This file can be found in the upper right co
 
 ![](img/planetaryfs_zdbconfig.png)
 
+Then download the Quantum Storage container onto your local machine, through the following instructions on your terminal: 
+
+`git clone https://github.com/threefoldtech/quantum-storage.git`
+`docker build -t tf/quantum .`
+
+
+
 > To Do !
