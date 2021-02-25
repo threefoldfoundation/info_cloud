@@ -28,8 +28,8 @@ retrieved and missing 0-db's can even be rebuilt to keep full consistency. It's 
 
 Please find below a walkthrough on how to use the Planetary File System to backup your local machine on the ThreeFold Grid. 
 
-First download the ZDB config file. This file can be found in the upper right corner of the `VDC Storage Nodes` screen. 
+First download the ZDB config file. This file can be found in the upper right corner of the `VDC Storage Nodes` screen. 2 configurations are available: an IPv4 and an IPv6 version. 
 
-
+![](img/planetaryfs_zdbconfig.png)
 
 > To Do !
