@@ -44,25 +44,22 @@ First download the ZDB config file. This file can be found in the upper right co
 
 ![](img/planetaryfs_zdbconfig.png)
 
-Let's call this downloaded file `yourzdbsconfig.toml`. 
-
 As described in [Manage Storage Nodes](evdc_storage), this file contains the nodes with attributes and how to access them.  
 
 Download now the Planetary FileSystem bootstrap, available [here](https://github.com/threefoldtech/quantum-storage/releases/download/v0.0.1/planetaryfs-bootstrap-linux-amd64).
-
 
 > __Remark__: 
 For now, the bootstrap is only available as a Linux binary. For deployment on MacOS please install the binary in a Docker and execute this binary inside an Ubuntu machine using the command `docker run -it --cap-add SYS_ADMIN --device /dev/fuse ubuntu:20.04`
 
 For running the container, execute the following command :
 
-`./planetaryfs-bootstrap-linux-amd64 /tmp/yourzdbsconfig.toml`
+`./planetaryfs-bootstrap-linux-amd64 <yourzdbsconfig.toml>`
 
 Execution of this bootstrap will show you that the back-end is ready for dispersing the data. 
 
 ![](img/planetaryfs_bootstrap_ready.png)
 
-
+As from now, copying files to the directory `/root/.threefold/mnt/zdbfs` automatically creates a backup of these files to the available storage on the ThreeFold grid. 
 
 --- 
 For MacOS users and if port forwarding needed, execute : 
