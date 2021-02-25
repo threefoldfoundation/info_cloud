@@ -59,7 +59,7 @@ Execution of this bootstrap will show you that the back-end is ready for dispers
 
 ![](img/planetaryfs_bootstrap_ready.png)
 
-As from now, copying files to the directory `/root/.threefold/mnt/zdbfs` automatically creates a backup of these files to the available storage on the ThreeFold grid. 
+As from now, copying files to the directory `/root/.threefold/mnt/zdbfs` automatically creates an operational backup of these files to the available storage, dispersed over the ThreeFold grid. 
 
 --- 
 For MacOS users and if port forwarding needed, execute : 
