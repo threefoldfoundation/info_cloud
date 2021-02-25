@@ -21,10 +21,23 @@ retrieved and missing 0-db's can even be rebuilt to keep full consistency. It's 
 
 - [0-db-fs](https://github.com/threefoldtech/0-db-fs) is the filesystem driver which uses 0-db as primary storage engine.  It manages the storage of directories and metadata in a dedicated namespace, and file payloads in another dedicated namespace.
 
+Together the form a Quantum-Safe Storage system. 
+
+![](img/quantum_safe_storage.png)
+
+This concept scales forever, and any file system can be brought on top of it: 
+- S3 storage 
+- an ftp-server
+- IPFS and Hypercore distributed file sharing protocols 
+- ...
+
+
+![](img/quantum_safe_storage_scale.png)
+
 
 ## Getting Started
 
-### Back-up your Local Machine
+### Install 
 
 Please find below a walkthrough on how to use the Planetary File System to backup your local machine on the ThreeFold Grid. 
 
@@ -32,19 +45,21 @@ First download the ZDB config file. This file can be found in the upper right co
 
 ![](img/planetaryfs_zdbconfig.png)
 
-Then download the Quantum Storage container onto your local machine, through the following instructions on your terminal: 
+Let's call now the downloaded file `yourzdbsconfig.toml`. 
 
-`git clone https://github.com/threefoldtech/quantum-storage.git`
-`docker build -t tf/quantum .`
+Then download the Planetary FileSystem bootstrap, available [here](https://github.com/threefoldtech/quantum-storage/releases/download/v0.0.1/planetaryfs-bootstrap-linux-amd64)
 
-This will download, compile and prepare all what is needed to get a working container. 
 
-> Remark: On MacOS only a configuration with IPv4 and on Docker is available. On Ubuntu both IPv4 and IPv6 configurations are supported. 
+> Remark: For now, not natively available on MacOS, only a Linux binary is available for now, so please install the binary in a Docker and execute this binary inside an Ubuntu machine using the command `docker run -it --cap-add SYS_ADMIN --device /dev/fuse ubuntu:20.04`
 
 For running the container, execute the following command :
 
-`docker run --rm -it --device /dev/fuse --cap-add CAP_SYS_ADMIN tf/quantum`
+`./planetaryfs-bootstrap-linux-amd64 /tmp/yourzdbsconfig.toml`
 
+Execution of this bootstrap will show you that the files
+
+
+--- 
 For MacOS users and if port forwarding needed, execute : 
 
 `docker run --rm -it --device /dev/fuse --cap-add CAP_SYS_ADMIN -p 9000:9000 tf/quantum`
