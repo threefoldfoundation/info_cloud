@@ -27,6 +27,7 @@ Most _live_ solutions have brief deployment tutorials on their specific pages wi
 ### How to access the Marketplace
 
 - First you'll need to [deploy your eVDC](evdc_deploy)
+- Marketplace will be the default view on your admin panel
 - The applications on ThreeFold Marketplace can be deployed (launched) in a matter of minutes
 - All you need is to choose your solution and define the parameters of your network
 
