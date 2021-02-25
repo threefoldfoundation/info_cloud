@@ -2,9 +2,11 @@
 
 # ThreeFold Planetary Filesystem
 
+Part of the VDC is a set of Storage Nodes, which can be used as storage infrastructure for your Planetary Filesystem. 
+
 ## Mount Any Storage Anywhere
 
-The Planetary Filesystem is a mechanism to mount any file system anywhere on the grid. 
+The Planetary Filesystem is a mechanism to mount any file system (in any format) on the grid. 
 It is currently available as a Docker file, and is meant to be integrated into the workload you run in the Kubernetes cluster. 
 The Planetary Filesystem relies relies on 3 primitives of the ThreeFold technology : 
 
@@ -21,5 +23,13 @@ retrieved and missing 0-db's can even be rebuilt to keep full consistency. It's 
 
 
 ## Getting Started
+
+### Back-up your Local Machine
+
+Please find below a walkthrough on how to use the Planetary File System to backup your local machine on the ThreeFold Grid. 
+
+First download the ZDB config file. This file can be found in the upper right corner of the `VDC Storage Nodes` screen. 
+
+
 
 > To Do !
