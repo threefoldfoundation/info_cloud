@@ -1,8 +1,4 @@
-# Deploy a ETCD  eVDC
-
-By using eVDC you can now deploy and host your own website on top of the ThreeFold Grid.
-
-![](img/website_preview.png)
+# Deploy a ETCD key-value database in your eVDC
 
 ## Requirements
 
