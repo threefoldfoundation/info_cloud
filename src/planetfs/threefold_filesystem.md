@@ -1,14 +1,14 @@
 ![](img/planet_fs.png)
 
-# ThreeFold Planetary Filesystem
+# ThreeFold Quantum-Safe Storage
 
-Part of the VDC is a set of Storage Nodes, which can be used as storage infrastructure for your Planetary Filesystem. 
+Part of the VDC is a set of Storage Nodes, which can be used as storage infrastructure for files in any format. 
 
-## Mount Any Storage Anywhere
+## Mount Any Files in your Storage Infrastructure
 
-The Planetary Filesystem is a mechanism to mount any file system (in any format) on the grid. 
+The Quantum-Safe Storage System is a mechanism to mount any file system (in any format) on the grid, in a quantum-secure way. 
 It is currently available as a Docker file, and is meant to be integrated into the workload you run in the Kubernetes cluster. 
-The Planetary Filesystem relies relies on 3 primitives of the ThreeFold technology : 
+This storage layer relies relies on 3 primitives of the ThreeFold technology : 
 
 - [0-db](https://github.com/threefoldtech/0-db) is the storage engine.
 It is an always append database, which stores objects in an immutable format. It allows to
