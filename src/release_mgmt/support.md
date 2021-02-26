@@ -10,7 +10,7 @@
 - [2.4: released Dec 2020 on testnet only](release_notes_2_4_0)
 - [2.5: being stabilized on on testnet, frequent changes do still happen](release_notes_2_5_0)
   - please help us test this release
-- 3.0: will be a major release planned for end Q1 2021
+- 3.0: will be a major release, planning to be announced soon
 
 > Note: On testnet, we automatically delete your eVDC's after 2 weeks.
 
