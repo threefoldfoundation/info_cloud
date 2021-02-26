@@ -1,6 +1,6 @@
 # VDC Wallet on Stellar Network
 
-![](cloud:wallet_page.png)
+![](img/3bot_wallet_detail.png)
 
 ### Prepaid Wallets
 
