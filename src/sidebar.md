@@ -45,5 +45,5 @@
   - [Quantum Safe Network](threefold:quantumsafe_network_concept)
   - [Planetary Secure Network](threefold:threefold_network)
   - [0-Container Virtual FS](sdk:architecture_flist)
-  - [Compatibility with IT standards](usp_compatible)
+  - [Compatibility with IT standards](compatibility)
 - [Releases & Support](support)
