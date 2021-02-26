@@ -11,7 +11,7 @@ The list contains both peer-to-peer applications and off-the-shelf tooling to ma
 ## Functionalities
 
 - [TF Marketplace Solutions in your eVDC](evdc_tfnow)
-- [Kubernetes Cluster Deployment in your eVDC](evdc_k8s)
+
 
 ## Getting Started
 
