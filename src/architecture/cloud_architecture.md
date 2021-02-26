@@ -9,8 +9,8 @@
 - [Quantum Safe Storage Concept](threefold:quantumsafe_storage_concept)
   - [ThreeFold Filesystem](threefold:threefold_fs)
 - [Quantum Safe Network Concept](threefold:quantumsafe_network_concept)
-  - [Zero-OS Network](threefold:zos_network)
-  - [ThreeFold Network = planetary network](threefold:threefold_network)
+  - [Zero-OS Network](sdk:capacity_network)
+  - [ThreeFold Network = Planetary Network](threefold:threefold_network)
   - [Web Gateway](sdk:architecture_webgateway)
 - TFGrid
   - [3Node](threefold:3node)
