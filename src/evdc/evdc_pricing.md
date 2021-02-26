@@ -9,7 +9,7 @@ A eVDC comes in different shapes. The price of the monthly subscription fees is 
 - Diamond: 60 EUR per month for 10TB S3 storage, a Network Gateway, Monitoring, a Kubernetes Controller and 2 Kubernetes nodes (mid)
 - Platinum: 250 EUR per month for 20TB S3 storage, a Network Gateway, Monitoring, a Kubernetes Controller and 2 dedicated Kubernetes nodes
 
-**Note:** Above pricing is for Mainnet. Testnet pricing will be 1/10 of the Mainnet pricing. Please take into consideration that Testnet is not meant for production.
+**Note:** Above pricing is for Mainnet. Testnet pricing will be 1/10 of the Mainnet pricing. Please take into consideration that Testnet is not meant for production: continuity of operation for your VDC is not guaranteed, and the available capacity is inferior to the mainnet one.
 
 ### Adding nodes
 
