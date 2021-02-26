@@ -43,7 +43,7 @@
 - [Architecture](cloud_architecture)
   - [3Node](threefold:3node)
   - [Quantum Safe Storage](threefold:quantumsafe_storage_concept)
-  - [Quantum Safe Network](architecture_network.md)
+  - [Quantum Safe Network](threefold:quantumsafe_network_concept.md)
   - [Planetary Lan](threefold:threefold_network.md)
   - [0-Container Virtual FS](sdk:architecture_flist)
   - [Compatibility with IT standards](usp_compatible)
