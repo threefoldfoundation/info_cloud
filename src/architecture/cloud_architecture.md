@@ -17,7 +17,7 @@
   - [ThreeFold Connect](threefold:tfconnect)
 - Payments
   - [AutoPay](twin:autopay)
-  - [TFGrid Wallet](threefold:wallet)
+  - [TFGrid Wallet](cloud_wallet)
 
 > TODO: webgateway
 > TODO: zos_network
