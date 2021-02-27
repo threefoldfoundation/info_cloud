@@ -15,13 +15,13 @@ It is an always append database, which stores objects in an immutable format. It
 have history out-of-the-box, good performance on disk, low overhead, easy data structure and easy backup (linear copy and immutable files).
 
 - [0-stor-v2](https://github.com/threefoldtech/0-stor_v2) is used to disperse the data into chunks by performing 'forward looking error correcting code' (FLECC) on it and send the chunks to a safe location.
-It takes files in any format as input, encrypts this file in AES based on a key user-defined, then FLECC-encodes the file and spreads out the result
-to multiple 0-db's. The number of generated chunks is configurable, to make it more or less robust against loss of data through unavailable chunks. Even if some 0-db's are unreachable, the original data can still
-retrieved and missing 0-db's can even be rebuilt to keep full consistency. It's an essential element of the operational backup. 
+It takes files in any format as input, encrypts this file with AES based on a user-defined key, then FLECC-encodes the file and spreads out the result
+to multiple 0-dbs. The number of generated chunks is configurable, to make it more or less robust against loss of data through unavailable chunks. Even if some 0-dbs are unreachable, the original data can still
+retrieved and missing 0-dbs can even be rebuilt to keep full consistency. It's an essential element of the operational backup. 
 
-- [0-db-fs](https://github.com/threefoldtech/0-db-fs) is the filesystem driver which uses 0-db as primary storage engine.  It manages the storage of directories and metadata in a dedicated namespace, and file payloads in another dedicated namespace.
+- [0-db-fs](https://github.com/threefoldtech/0-db-fs) is the filesystem driver which uses 0-db as primary storage engine. It manages the storage of directories and metadata in a dedicated namespace, and file payloads in another dedicated namespace.
 
-Together they form a storage layer which is quantum secure : even the most powerful computer can't hack the system, because it is missing part of the information when breaking into one node. 
+Together they form a storage layer which is quantum secure: even the most powerful computer can't hack the system, because no single node contains all of the information needed to reconstruct the data.
 
 ![](img/quantum_safe_storage.png)
 
@@ -34,35 +34,47 @@ This concept scales forever, and any file system can be brought on top of it:
 
 ![](img/quantum_safe_storage_scale.png)
 
-## Getting Started
+## Try it Out
 
-### Install 
+### Intro
 
-Please find below a walkthrough on how to use the Planetary File System to backup your local machine on the ThreeFold Grid. 
+There is currently a demo of the Planetary Secure File System available, which uses the storage nodes of a ThreeFold VDC to back data up to the ThreeFold Grid. Below you'll find instructions for using a bootstrap executable file that runs on Linux or in a Linux Docker container to set up the complete environment necessary to use the file system. 
 
-First download the ZDB config file. This file can be found in the upper right corner of the `VDC Storage Nodes` screen. 2 configurations are available: an IPv4 and an IPv6 version. 
+Please note that this solution is currently for testing only and some important features are still under development.
+
+### VDC and Z-Stor Config
+
+If you haven't already, go ahead and [deploy a VDC](evdc_deploy). Then download the Z-Stor config file, found in the upper right corner of the `VDC Storage Nodes` screen. Unless you know that IPv6 works on your machine and within Docker, choose the IPv4 version of the file.
 
 ![](img/planetaryfs_zdbconfig.png)
 
-As described in [Manage Storage Nodes](evdc_storage), this file contains the nodes with attributes and how to access them.  
+As described in [Manage Storage Nodes](evdc_storage), this file contains the necessary information to connect with the 0-dbs running on the storage nodes in your VDC. It also contains an encryption key used to encrypt data that's uploaded as well as a field to specify your etcd endpoints. Using the defaults here is fine.
+
+### Bootstrap Executable
 
 Download now the Planetary FileSystem bootstrap, available [here](https://github.com/threefoldtech/quantum-storage/releases/download/v0.0.1/planetaryfs-bootstrap-linux-amd64).
 
+
 > __Remark__: 
-For now, the bootstrap is only available as a Linux binary. For deployment on MacOS please install the binary in a Docker and execute this binary inside an Ubuntu machine using the command `docker run -it --cap-add SYS_ADMIN --device /dev/fuse ubuntu:20.04`
+For now, the bootstrap executable is only available for Linux. We'll cover how to use it within an Ubuntu container in Docker, which will also work on MacOS.
 
-For running the container, execute the following command :
+First, we'll start an Ubuntu container with Docker, enabling fuse file system capabilities. In a terminal window, 
 
-`./planetaryfs-bootstrap-linux-amd64 <yourzdbsconfig.toml>`
+`docker run -it --name zdbfs --cap-add SYS_ADMIN --device /dev/fuse ubuntu:20.04`
 
-Execution of this bootstrap will show you that the back-end is ready for dispersing the data. 
+Next, we'll copy the Z-Stor config file and the bootstrap executable into the running container. In a separate terminal window, navigate to where you downloaded the files and run:
+
+`docker cp planetaryfs-bootstrap-linux-amd64 zdbfs:/root/`
+`docker cp <yourzstorconfig.toml> zdbfs:/root/`
+
+Back in the container's terminal window, `cd /root` and confirm that the two files are there with `ls`. Then run the bootstrap executable, specifying your config file:
+
+`chmod u+x planetaryfs-bootstrap-linux-amd64`
+`./planetaryfs-bootstrap-linux-amd64 <yourzstorconfig.toml>`
+
+Execution of this bootstrap will start up all necessary components and show you that the back-end is ready for dispersing the data.
 
 ![](img/planetaryfs_bootstrap_ready.png)
 
-As from now, copying files to the directory `/root/.threefold/mnt/zdbfs` automatically creates an operational backup of these files to the available storage, dispersed over the ThreeFold grid. 
+After that, your Planetary Secure File System will be mounted at `/root/.threefold/mnt/zdbfs`. Files copied there will automatically be stored on the Grid incrementally as chunks of a certain size are filled, by default 32Mb. In a future release, this will no longer be a limitation.
 
-The result of this exercise is a quantum-safe storage mechanism : 
-- The data is backed up in a seamless way;
-- The amount of info that can be stored is unlimited, up to petabytes;
-- If some storage nodes get lost, files can be repaired without a problem;
-- it is ready for any application or protocol to run on top of it. 
