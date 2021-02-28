@@ -1,8 +1,16 @@
 # Getting started with the eVDC
 
-steps
+Steps
 
-- [create your vdc](evdc_create)
+- [Create your vdc](evdc_create)
+- [Manage your vdc](evdc_manage)
+- [Remove your vdc](evdc_remove)
+- [Upgrade your vdc](evdc_upgrade)
+
+[Price Sheet](evdc_pricing)
+[Where to buy TFT](buy_tft)
+
+
 
 ## Where to ask questions
 

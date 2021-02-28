@@ -1,8 +1,8 @@
-# Introducing: ThreeFold NOW Marketplace
+# Introducing: The ThreeFold Marketplace
 
 ![](img/tfnow_home.png)
 
-- **ThreeFold NOW Marketplace** is a marketplace of open source peer-to-peer solutions that are built on top of ThreeFold_Grid, deployable via [eVDC Admin Panel](evdc).
+- **The ThreeFold Marketplace** is a collection of ready-made open-source peer-to-peer solutions that are built on top of ThreeFold Grid – the largest and most advanced peer-to-peer cloud in the world – deployable via [eVDC Admin Panel](evdc).
 - Its main goal is to enable simplified deployment of safe, secure, and private solutions that will decentralize our lives, without the necessity of technical system administration knowledge.
 - In its early stages on testnet, there are already offerings covering various fields from a peer-to-peer video sharing platform, to an online publisher, to office tools, and more.
 
@@ -22,15 +22,23 @@
 - **Office Tools**: A fully-secured, encrypted alternative to popular office tools and cloud services.
 - **Project Management**: A P2P alternative to centralized project management tool for multi-functional agile teams.
 
-### ThreeFold Now Information & Tutorials
+Most _live_ solutions have brief deployment tutorials on their specific pages within this wiki. And soon, all will be there!
 
-![](img/now_wiki.png)
+### How to access the Marketplace
 
-- Please visit [the wiki](https://now.threefold.io) where you can find much more information.
-- All _live_ solutions have brief deployment tutorials on their specific pages.
+- First you'll need to [deploy your eVDC](evdc_deploy)
+- Marketplace will be the default view on your admin panel
+- The applications on ThreeFold Marketplace can be deployed (launched) in a matter of minutes
+- All you need is to choose your solution and define the parameters of your network
 
-![](img/tfnow_home.png)
+### Key Benefits
+
+- You are in the center, not a third-party service provider!
+- Easy-to-deploy and ready-to-use
+- Core functionalities remain present in alternate open source solutions
+- Create a decentralized instance that you entirely own and manage
+- Full data privacy and ownership
+- Securely hosted on the peer-to-peer ThreeFold Grid
+- Pay only for the capacity that you use — no hidden fees or selling of your data
 
 > By using The ThreeFold Now Demo or the 3Bot you agree with our [Terms and Conditions](sdk:terms_conditions_cloud). See our [Legals](legal:legal) for more.
-
-> Read More on [How to Deploy eVDC](evdc_deploy) to Access TFNOW Marketplace

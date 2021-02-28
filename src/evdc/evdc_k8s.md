@@ -11,7 +11,24 @@ The IT industry is used to standard tooling for the deployment of their IT workl
 
 On the TF Grid a Kubernetes orchestrator can be deployed out of the box. We have implemented the [K3S](https://k3s.io) implementation, which is a full-blown Kubernetes offering, but using only half of the memory footprint, packaged as a single binary and made more lightweight so that it can run in resource-constrained locations (so fit for IoT, edge, ARM etc). 
 
-A VDC is in essence a Kubernetes cluster with a master node and different worker nodes, plus an IP address to expose the workload to the public internet. 
+#### More info on K3S 
+
+The deployed Kubernetes instance  is a lightweight K3S Kubernetes implementation in Zero-OS
+
+  ![](img/evdck3slogo.png)
+
+- K3S is full conformant production-ready Kubernetes distribution with the following changes:   
+   - It is packaged as a single binary
+   - It adds support to sqlite3 as default storage. Etcd3, MySQL and Postgres are also supported
+   - It wraps Kubernetes and other components in a single, simple launcher
+   - It is secure by default with reasonable defa&ults for lightweight environments
+   - It eliminates the need to expose a port on Kubernetes worker nodes fopr the kubelet API by exposing this API to the Kubernetes control plain nodes over a websocket tunnel. 
+   
+   More info can be found [here](https://github.com/rancher/k3s)
+   
+### VDC Compute : a Kubernetes Cluster
+
+The Compute part of the VDC is in essence a Kubernetes cluster with a master node and different worker nodes, plus an IP address to expose the workload to the public internet. 
 
 In the below screenshot, the VDC contains one master node and 2 worker nodes. 
 
