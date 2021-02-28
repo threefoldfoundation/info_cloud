@@ -2,7 +2,7 @@
 
 To provision any workload using TF eVDC, there are some pre-requisites that need to be done:
 
-- Get ThreeFold Connect App;ThreeFold Connect is a mobile app that facilitate you with your own 3Bot Wallet where and 3Bot ID; your digital identity on top of the ThreeFold Grid.
+- Get ThreeFold Connect App;ThreeFold Connect is a mobile app that facilitate you with your own 3Bot Wallet where and 3Bot ID; your digital identity on top of the ThreeFold_Grid.
 - Get and store TFT into your TF Connect Wallet to reserve IT Capacity and pay for your workload on top of the TF Grid.
 
 > Read more on the prerequisites on [**TF Getting Started Manual**](sdk:all_getting_started)

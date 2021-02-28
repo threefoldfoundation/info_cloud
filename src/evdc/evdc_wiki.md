@@ -1,6 +1,6 @@
 # Host a Wiki on TF Grid via eVDC
 
-By using eVDC you can now deploy and host your own wiki on top of the ThreeFold Grid.
+By using eVDC you can now deploy and host your own wiki on top of the ThreeFold_Grid.
 
 ![](img/evdc_wiki_11_wiki_result.png)
 

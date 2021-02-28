@@ -10,7 +10,7 @@ Through our partnership with the DigiByte Foundation, we empower the DGB communi
 
 You can now deploy your own DigiByte full Node via the ThreeFold Now Marketplace's dashboard on your eVDC admin panel in a few clicks.
 
-First step, find the __Digibyte Widget__ on the marketplace and click on __'Deploy'__ button. You will now will be directed to the chatflow of the deployment process.
+First step, find the **Digibyte Widget** on the marketplace and click on **'Deploy'** button. You will now will be directed to the chatflow of the deployment process.
 
 ![](img/digibyte_widget.png)
 
@@ -26,11 +26,11 @@ Create a new username and password for the access of your new Digibyte Node.
 
 ![](img/digibyte_username.png)
 
-Select the vdc capacity plan for your  Digibyte Node workload usage.
+Select the vdc capacity plan for your Digibyte Node workload usage.
 
 ![](img/digibyte_plan.png)
 
-Congratulations! you just successfully deployed a Digibyte Node on the ThreeFold Grid! You can now click on the given link to access your new Digibyte Node.
+Congratulations! you just successfully deployed a Digibyte Node on the ThreeFold_Grid! You can now click on the given link to access your new Digibyte Node.
 
 ![](img/digibyte_success.png)
 
@@ -41,7 +41,7 @@ When you clicked it, you will then be directed to the Node stat page of your new
 
 ## Accessing Your Deployed Node
 
-To find and access the Digibyte Node you just deployed, simply go to your eVDC Admin Panel home and find the Digibyte Widget. Click on __My Workloads__ to go to the list of your successfully deployed Digibyte Nodes.
+To find and access the Digibyte Node you just deployed, simply go to your eVDC Admin Panel home and find the Digibyte Widget. Click on **My Workloads** to go to the list of your successfully deployed Digibyte Nodes.
 
 ![](img/digibyte_myworkload.png)
 
