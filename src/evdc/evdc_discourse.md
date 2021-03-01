@@ -1,6 +1,7 @@
 # Deploy Discourse in your VDC
 
-...
+[Discourse](https://www.discourse.org/) is modern forum software for your community. Use it as a mailing list, discussion forum, long-form chat room, and more!
+
 
 ### Getting Started
 
