@@ -2,7 +2,7 @@
 
 Mattermost is a widely-trusted open-source and self-hosted collaboration tool, as well as a messaging platform that enables secure team collaboration. 
 
-### How to deploy
+### Getting Started
 
 In the marketplace, click on the `DEPLOY` button. 
 ![](img/evdc_mattermost_01_widget.png)
