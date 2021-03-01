@@ -35,6 +35,6 @@ Click on `Threefold Connect`, and use the Threefold Connect app on your mobile d
 
 ![](img/evdc_peertube_06_tfc_sso.png)
 
-Once you've done that, you'rte connected and you can start uploading your videos, or inviting others to join your Peertube server. 
+Once you've done that, you're connected and you can start uploading your videos, or inviting others to join your Peertube server. 
 
 ![](img/evdc_peertube_07_runs.png)
