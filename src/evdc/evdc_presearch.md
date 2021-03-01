@@ -1,6 +1,6 @@
 # How to Deploy a Presearch Node on eVDC
 
-Presearch has values which are aligned with ThreeFold to aim for a decentralized and an open internet which isn’t dominated by a handful of Big Tech companies.
+[Presearch](https://presearch.io) has values which are aligned with ThreeFold to aim for a decentralized and an open internet which isn’t dominated by a handful of Big Tech companies.
 
 ThreeFold helps you to operate a Presearch Node and to power the Presearch decentralized search engine. A node can be set up with just a few clicks.
 

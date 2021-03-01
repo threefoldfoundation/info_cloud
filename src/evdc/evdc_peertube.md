@@ -25,6 +25,8 @@ Now all info is available to create your Peertube environment. The url that give
 
 Now all what remains to be done, is the configuration of your Peertube instance.
 
+### Login using ThreeFold Connect App
+
 Login can be done through e-mail access but also using the ThreeFold Connect App 2-factor authentication. 
 
 ![](img/evdc_peertube_05_login.png)
