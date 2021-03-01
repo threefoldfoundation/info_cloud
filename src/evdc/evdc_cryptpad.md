@@ -1,6 +1,9 @@
 # Deploy Cryptpad in your VDC
 
-[Cryptpad]() is ...
+[Cryptpad](https://cryptpad.fr/) is a private-by-design alternative to the Office tools als offered by Microsoft and Google. 
+It has most of the same crucial functionalities you would be used to with existing tools.
+However, all the content stored on CryptPad is encrypted before being sent, which means nobody can access your data unless you give them the keys (not even us).
+Encryption happens in the browser that is used to access the "pads" – and therefore the central storage facility used does not see un-encrypted data and only sees encrypted data passing by.
 
 ### Getting Started
 
