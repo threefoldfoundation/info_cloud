@@ -4,7 +4,7 @@
 
 - ...
 
-## Get Started
+## Getting Started
 
 Once youre logged in the eVDC, find the __ETCD__ marketplace widget on your admin panel and click on __Deploy__ button.
 
