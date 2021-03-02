@@ -1,12 +1,15 @@
 # Deploy a ETCD key-value database in your eVDC
 
-## Requirements
+[etcd](https://etcd.io/) is a distributed reliable key-value store for the most critical data of a distributed system, with a focus on being :
 
-- ...
+- Simple: well-defined, user-facing API (gRPC)
+- Secure: automatic TLS with optional client cert authentication
+- Fast: benchmarked 10,000 writes/sec
+- Reliable: properly distributed using Raft
 
 ## Getting Started
 
-Once youre logged in the eVDC, find the __ETCD__ marketplace widget on your admin panel and click on __Deploy__ button.
+Once youre logged in the eVDC, find the __etcd__ marketplace widget on your admin panel and click on __Deploy__ button.
 
 ![](img/02_evdc_etcd_widget.png)
 
