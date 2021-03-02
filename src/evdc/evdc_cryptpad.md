@@ -19,8 +19,11 @@ You can choose to create a url which is part of your domain, or have one auto-ge
 
 ![](img/evdc_cryptpad_02_domain.png) 
 
-Choose the size of the capacity that you want to reserve for this solution. 
+Choose the size of the capacity that you want to reserve for this solution, both in terms of compute power, memory and storage capacity for your documents. 
+
 ![](img/evdc_cryptpad_03_flavour.png)
+![](img/evdc_cryptpad_04_storage.png)
+
 
 Now all info is available to create your Cryptpad environment. The url that gives access to it can be found on the next screen, or in the deployed solutions overview.
 
