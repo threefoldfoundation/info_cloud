@@ -18,7 +18,11 @@ Before starting to run your VDC, a welcome screen is shown, as well as `Terms an
 
 ![](img/23_vdc_portal_t_and_c.png)
 
-The portal shows you the Kubernetes cluster that has been created corresponding to the chosen size.
+The portal is made of two parts. In case you are in the Marketplace, you can easily switch to `MY VDC`by clicking the button in the upper right corner. 
+
+![](img/vdc_portal_marketplace.png)
+
+The `COMPUTE NODES` section of `MY VDC` part shows you the Kubernetes cluster that has been created corresponding to the chosen size.
 
 ![](img/24_vdc_portal_compute.png)
 
