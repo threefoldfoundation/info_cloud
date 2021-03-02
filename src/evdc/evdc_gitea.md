@@ -2,7 +2,7 @@
 
 [Gitea](https://gitea.io/en-us/) is a painless, self-hosted Git service. It is similar to GitHub, Bitbucket, and GitLab. Gitea is a fork of Gogs.
 
-# Get Started
+## Getting Started
 
 You can now deploy your own Gitea server via the ThreeFold Marketplace's dashboard on your eVDC admin panel in a few clicks.
 
