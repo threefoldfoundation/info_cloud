@@ -1,6 +1,8 @@
 # How to Deploy a ZeroCI server on eVDC
 
-[ZeroCI](https://github.com/threefoldtech/zeroCI) is ThreeFold's own ...
+[ZeroCI](https://github.com/threefoldtech/zeroCI) is ThreeFold's own continuous integration tool for developers looking to build on top of the decentralized ThreeFold Grid.
+
+It is useful for all languages, though it has some more specific features for Python projects that generates test summary into xml file. It is integrated with version control systems and Telegram.
 
 # Get Started
 
