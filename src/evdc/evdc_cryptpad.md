@@ -35,10 +35,10 @@ Login can be done through e-mail access but also using the ThreeFold Connect App
 
 ![](img/evdc_cryptpad_06_url.png)
 
-Click on `Threefold Connect`, and use the Threefold Connect app on your mobile device to tap the corresponding emoji. 
+Click on `Threefold Connect`, fill in your Threefold/3Bot ID and use the Threefold Connect app on your mobile device to tap the corresponding emoji. 
 
-![](img/evdc_cryptpad_07_tfc.png)
-![](img/evdc_cryptpad_08_tfc_sso.png)
+![](img/evdc_tfc_login.png)
+![](img/evdc_tfc_sso.png)
 
 Once you've done that, you're connected and you can start creating and sharing your private documents. 
 

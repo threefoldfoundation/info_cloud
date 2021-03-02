@@ -31,9 +31,10 @@ Login can be done through e-mail access but also using the ThreeFold Connect App
 
 ![](img/evdc_peertube_05_login.png)
 
-Click on `Threefold Connect`, and use the Threefold Connect app on your mobile device to tap the corresponding emoji. 
+Click on `Threefold Connect`, fill in your ThreeFold/3Bot ID and use the Threefold Connect app on your mobile device to tap the corresponding emoji. 
 
-![](img/evdc_peertube_06_tfc_sso.png)
+![](img/evdc_tfc_login.png)
+![](img/evdc_tfc_sso.png)
 
 Once you've done that, you're connected and you can start uploading your videos, or inviting others to join your Peertube server. 
 
