@@ -4,7 +4,7 @@
 
 It is useful for all languages, though it has some more specific features for Python projects that generates test summary into xml file. It is integrated with version control systems and Telegram.
 
-# Get Started
+## Getting Started
 
 You can now deploy your own ZeroCI server via the ThreeFold Marketplace's dashboard on your eVDC admin panel in a few clicks.
 
