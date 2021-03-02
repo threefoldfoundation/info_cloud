@@ -14,16 +14,11 @@ The health of the VDC you deploy can be monitored. A stack has been prepared tha
 
 ## What is Prometheus
 
-...
+[Prometheus](https://prometheus.io/) is a free software application used for event monitoring and alerting. It records real-time metrics in a time series database (allowing for high dimensionality).
 
 ## What is Grafana
 
-...
-
-## Requirements
-
-...
-
+[Grafana](https://grafana.com) has become the world’s most popular technology used to compose observability dashboards with everything from Prometheus & Graphite metrics, to logs and application data to power plants and beehives.
 
 ## Getting Started
 
