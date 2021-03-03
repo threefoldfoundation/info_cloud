@@ -21,7 +21,7 @@
 - External etcd datasource for kubernetes (config manager support, solution / cluster support)
 
 #### 3Bot SDK v2.5.0
-- New chatflows on network management and capacity pool
+- New chatflows on network management and capacity pool
 - Farmmgmt custom prices support and 3Bot deal
 - New K8s support for public IPs
 - More sizes support for K8s deployment
