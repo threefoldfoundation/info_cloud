@@ -9,21 +9,16 @@
 
 #### VDC v2.5.0 
 - Marketplace is now the default view for the VDC dashboard 
-- 'Update Dashboard' button 
-- Blockchain solution: Digibyte and Presearch 
+- Update Dashboard' button 
+- Blockchain soluion: Digibyte and Presearch 
 - 'Transaction History': 'List Transaction' button 
-- TF Connect sign-in for most solutions on the Marketplace: done
-        - gitea 
-        - peertube
-        - cryptpad
-        - zeroci
-        - mattermost (still issues to be finished by then )
-- Back up/restore feature on the VDC in progress
+- TF Connect sign-in for most solutions on the Marketplace: Gitea, Peertube, Cryptpad, Zero-CI, Mattermost
+- Back up/restore feature on the VDC
 - Updates Notification for new updates
 - QR Scan Top up PR ready
 - ZDBs expose over public IPv4
 - Kubernetes autoscaling
-- External etcd datasource for kubernetes (config manager support, solution / cluster support.)
+- External etcd datasource for kubernetes (config manager support, solution / cluster support)
 
 #### 3Bot SDK v2.5.0
 - New chatflows on network management and capacity pool
@@ -32,7 +27,6 @@
 - More sizes support for K8s deployment
 - Email notification for expiring pools and empty wallets
 - Rebrand 3Bot Marketplace as 3Bot Apps
-
 
 ### JS-NG v11.2.0
 - ETCD backend support
