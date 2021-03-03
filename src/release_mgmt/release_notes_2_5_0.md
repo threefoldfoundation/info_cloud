@@ -8,14 +8,14 @@
 - [Virtual Datacenter VDC](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/vdc)
 
 #### VDC v2.5.0 
-- Marketplace is now the default view for the VDC dashboard 
-- Update Dashboard' button 
-- Blockchain soluion: Digibyte and Presearch 
-- 'Transaction History': 'List Transaction' button 
-- TF Connect sign-in for most solutions on the Marketplace: Gitea, Peertube, Cryptpad, Zero-CI, Mattermost
-- Back up/restore feature on the VDC
-- Updates Notification for new updates
-- QR Scan Top up PR ready
+- Marketplace is now the default view for the VDC dashboard
+- Update Dashboard' button
+- Blockchain soluion: Digibyte and Presearch 
+- 'Transaction History': 'List Transaction' button 
+- TF Connect sign-in for most solutions on the Marketplace: Gitea, Peertube, Cryptpad, Zero-CI, Mattermost
+- Back up/restore feature on the VDC
+- Updates Notification for new updates
+- QR Scan Top up PR ready
 - ZDBs expose over public IPv4
 - Kubernetes autoscaling
 - External etcd datasource for kubernetes (config manager support, solution / cluster support)
