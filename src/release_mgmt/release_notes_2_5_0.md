@@ -49,7 +49,7 @@
 - Single ZOS binary
 - Elevated containers support
 
-### O-stor v2 v0.1.1
+### 0-stor v2 v0.1.1
 - Revert to the original way to do namespace authentication
 
 ### TF Explorer 0.4.9
