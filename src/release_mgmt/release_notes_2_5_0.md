@@ -2,7 +2,7 @@
 
 ## Component Upgrades
 
-### JS-SDK V11.2.0
+### JS-SDK v11.2.0
 - [3Bot Deployer](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/threebot_deployer)
 - [Solution Marketplace](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/marketplace)
 - [Virtual Datacenter VDC](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/vdc)
@@ -44,7 +44,7 @@
 - Domains validation
 - Ownership validation
 
-### ZOS 0.4.9
+### ZOS v0.4.9
 - Major ZOS network refactoring
 - Single ZOS binary
 - Elevated containers support
@@ -52,7 +52,7 @@
 ### 0-stor v2 v0.1.1
 - Revert to the original way to do namespace authentication
 
-### TF Explorer 0.4.9
+### TF Explorer v0.4.9
 - Improvements on the escrow and payments
 - Retries capability on error
 - Drop support for TFTA and FreeTFT
@@ -64,7 +64,5 @@
 - Faster pool expiration checks
 - Validation for farmer ID on both node and gateway registration
 
-### 0-DB-FS V0.1.2
+### 0-DB-FS v0.1.2
 - Add autons fuse option to create required namespace on initialization
-
-
