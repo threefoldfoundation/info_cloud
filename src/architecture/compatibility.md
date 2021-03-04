@@ -15,7 +15,7 @@ For more info, please read [Planetary Filesystem](threefold_filesystem).
 
 ## Dockers & Kubernetes
 
-Next to this, also Kubernetes, best known container orchestrator, runs on the Threefold grid and can be used to orchestrate containers.
+Next to this, also Kubernetes, best known container orchestrator, runs on the ThreeFold_Grid and can be used to orchestrate containers.
 
 Containers can hold any object. As they are supported on the TF Grid, the complexity of installing any IT workload is reduced to simple container management.
 

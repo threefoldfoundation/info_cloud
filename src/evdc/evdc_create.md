@@ -2,12 +2,12 @@
 
 You can creating your own Virtual Data Center in just a few clicks.
 
-Go to the [eVDC deployer website](https://vdc.testnet.grid.tf) and log in using your Threefold Connect App.
+Go to the [eVDC deployer website](https://vdc.testnet.grid.tf) and log in using your Threefold Connect App. 
+You can find more on ThreeFold Connect [here](https://manual.threefold.io/#/threefold_connect_install).
 
-- You'll see the option to create your Virtual Data Center.
-- Simply choose the option you want to launch from the menu.
-- You'll need to log in through Threefold Connect, an authenticator for the full ThreeFold ecosystem.
-- You can find more on ThreeFold Connect [here](https://manual.threefold.io/#/threefold_connect_install).
+You'll see the option to deploy your own Virtual Data Center.
+
+![](img/00_vdc_homepage.png)
 
 ## Steps
 

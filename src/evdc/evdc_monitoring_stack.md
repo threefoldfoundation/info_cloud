@@ -1,17 +1,24 @@
-# # Monitor Kubernetes Clusters using Monitoring Stack
-TODO 
-- intro: what is mnonitoring stack what are included in monitoring stack
+# Monitor Kubernetes Clusters using Monitoring Stack
+
+<!--- TODO 
+- intro: what is monitoring stack what are included in monitoring stack
 - explain what is prometheus, what's the use / what can it monitor
-- explain what isgrafana , what can it monitor, what's the use / what can it monitor
+- explain what is grafana , what can it monitor, what's the use / what can it monitor
 - requirements: explain requirements
-- getting started explain deploymnent steps
+- getting started explain deployment steps
 - use case: give 1 example of monitoring on the deployed  grafana / prometheus
---------------
-
-
+-------------->
 The health of the VDC you deploy can be monitored. A stack has been prepared that offers monitoring through Prometheus and Grafana. A Helm chart `kube-prometheus-stack` is available, which offers Prometheus and Grafana as tooling to monitor your VDC. 
 
-## Monitoring Walkthrough
+## What is Prometheus
+
+[Prometheus](https://prometheus.io/) is a free software application used for event monitoring and alerting. It records real-time metrics in a time series database (allowing for high dimensionality).
+
+## What is Grafana
+
+[Grafana](https://grafana.com) has become the world’s most popular technology used to compose observability dashboards with everything from Prometheus & Graphite metrics, to logs and application data to power plants and beehives.
+
+## Getting Started
 
 The monitoring stack is available as a solution in the marketplace. 
 
