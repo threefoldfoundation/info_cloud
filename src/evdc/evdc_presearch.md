@@ -38,7 +38,7 @@ Congratulations! you just successfully deployed a Presearch Node on the ThreeFol
 
 ![](img/presearch_success.png)
 
-When you clicked it, you will then be directed to the Node stat page of your node where you can find all the information you need to start building solutions on top of your Node.
+When you clicked it, you will then be directed to the Node stat page of your node where you can find all the information you need to monitor your node, including the log data showing your node activity. 
 
 ![](img/presearch_stat1.png)
 ![](img/presearch_stat2.png)
