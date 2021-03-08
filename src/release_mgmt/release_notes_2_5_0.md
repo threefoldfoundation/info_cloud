@@ -9,22 +9,22 @@
 
 #### VDC v2.5.0 
 - Marketplace is now the default view for the VDC dashboard
-- Update Dashboard' button
-- Blockchain soluion: Digibyte and Presearch 
-- 'Transaction History': 'List Transaction' button 
+- `Update Dashboard` button
+- Blockchain solution: Digibyte and Presearch 
+- Transaction History: `List Transaction` button 
 - TF Connect sign-in for most solutions on the Marketplace: Gitea, Peertube, Cryptpad, Zero-CI, Mattermost
 - Back up/restore feature on the VDC
 - Updates Notification for new updates
-- QR Scan Top up PR ready
+- QR Scan Top up
 - ZDBs expose over public IPv4
 - Kubernetes autoscaling
-- External etcd datasource for kubernetes (config manager support, solution / cluster support)
+- External etcd datasource for Kubernetes (config manager support, solution / cluster support)
 
 #### 3Bot SDK v2.5.0
 - New chatflows on network management and capacity pool
-- Farmmgmt custom prices support and 3Bot deal
-- New K8s support for public IPs
-- More sizes support for K8s deployment
+- Farm management custom prices support and 3Bot deal
+- New Kubernetes support for public IPs
+- More sizes support for Kubernetes deployment
 - Email notification for expiring pools and empty wallets
 - Rebrand 3Bot Marketplace as 3Bot Apps
 
@@ -33,7 +33,7 @@
 - Mongo backend support
 
 ### JS-Ansible v0.1.0
-- Ansible modules that creates an IT automation capability.
+- Ansible modules that create an IT automation capability
 - One-to-one mapping with the grid
 - Added on generic modules
  identity, wallet, pool, network, volume, container, ipv4, k8s, zdb, subdomain, tcp reverse proxy, 4to6, workloads
