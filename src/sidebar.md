@@ -37,6 +37,7 @@
   - [Blockchain Solutions](evdc_blockchain)
     - [Digibyte](evdc_digibyte)
     - [Presearch](evdc_presearch)
+  - [Link a solution to your domain name](evdc_marketplace_webdomain)
 - [Architecture](cloud_architecture)
   - [3Node](threefold:3node)
   - [Kubernetes](evdc_k8s)
