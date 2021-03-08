@@ -48,11 +48,11 @@ The `Refresh` button reloads the webpage.
 
 ## Accessing Your Deployed Node
 
-To find and access the Presearch Node you just deployed, simply go to your eVDC Admin Panel home and find the Digibyte Widget. Click on **My Workloads** to go to the list of your successfully deployed Presearch Node.
+To find and access the Presearch Node you just deployed, simply go to your eVDC Admin Panel home and find the Presearch Widget. Click on **My Workloads** to go to the list of your successfully deployed Presearch Node.
 
 ![](img/presearch_myworkload.png)
 
-You can now click the link to go to your deployed Digibyte Node Stats Page.
+You can now click the link to go to your deployed Presearch Node Stats Page.
 
 ![](img/presearch_access.png)
 
