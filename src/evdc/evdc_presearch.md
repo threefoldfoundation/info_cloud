@@ -39,9 +39,12 @@ Congratulations! you just successfully deployed a Presearch Node on the ThreeFol
 ![](img/presearch_success.png)
 
 When you clicked it, you will then be directed to the Node stat page of your node where you can find all the information you need to monitor your node, including the log data showing your node activity. 
+The node normally restarts with updates of the images, but can also be restarted manually with the `Restart` button. 
+The `Refresh` button reloads the webpage. 
 
 ![](img/presearch_stat1.png)
 ![](img/presearch_stat2.png)
+![](img/presearch_stat3.png)
 
 ## Accessing Your Deployed Node
 
