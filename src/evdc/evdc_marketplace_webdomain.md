@@ -2,7 +2,7 @@
 
 A solution can be deployed under an auto-generated url or can be linked to your own domain. 
 
-## How to link solution to your own domain ? 
+## How to link a marketplace solution to your own domain ? 
 
 During the chatflow, the question will be asked to select a subdomain. Select the option `Choose a custom subdomain`to publish your solution to your own domain.
 
