@@ -18,11 +18,11 @@ Create a name for your new node deployment. This name will be used to identify y
 
 ![](img/presearch_create.png)
 
-Select the domain type for your Digibyte Node. For deployment with random subdomain, select 'Choose subdomain for me on a gateway',. For deployment with a particular available subdomain, select 'Choose a custom subdomain on a gateway. To deploy a Digibyte Node using your own domain, select 'choose a custom domain'.
+Select the domain type for your Presearch Node. For deployment with random subdomain, select `Choose subdomain for me on a gateway`. For deployment with a particular available subdomain, select 'Choose a custom subdomain on a gateway. To deploy a Presearch Node using your own domain, select 'choose a custom domain'.
 
 ![](img/presearch_domain.png)
 
-Copy your registration code from your Presearch account for the access of your new Digibyte Node.
+Copy your registration code from your Presearch account.
 
 ![](img/presearch_registration_code_copy.png)
 
