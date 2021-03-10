@@ -10,3 +10,6 @@ http*
 "*
 docshttp*
 .vscode
+.DS_Store
+
+
