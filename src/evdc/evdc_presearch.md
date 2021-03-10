@@ -18,11 +18,11 @@ Create a name for your new node deployment. This name will be used to identify y
 
 ![](img/presearch_create.png)
 
-Select the domain type for your Digibyte Node. For deployment with random subdomain, select 'Choose subdomain for me on a gateway',. For deployment with a particular available subdomain, select 'Choose a custom subdomain on a gateway. To deploy a Digibyte Node using your own domain, select 'choose a custom domain'.
+Select the domain type for your Presearch Node. For deployment with random subdomain, select `Choose subdomain for me on a gateway`. For deployment with a particular available subdomain, select 'Choose a custom subdomain on a gateway. To deploy a Presearch Node using your own domain, select 'choose a custom domain'.
 
 ![](img/presearch_domain.png)
 
-Copy your registration code from your Presearch account for the access of your new Digibyte Node.
+Copy your registration code from your Presearch account.
 
 ![](img/presearch_registration_code_copy.png)
 
@@ -38,18 +38,21 @@ Congratulations! you just successfully deployed a Presearch Node on the ThreeFol
 
 ![](img/presearch_success.png)
 
-When you clicked it, you will then be directed to the Node stat page of your node where you can find all the information you need to start building solutions on top of your Node.
+When you clicked it, you will then be directed to the Node stat page of your node where you can find all the information you need to monitor your node, including the log data showing your node activity. 
+The node normally restarts with updates of the images, but can also be restarted manually with the `Restart` button. 
+The `Refresh` button reloads the webpage. 
 
 ![](img/presearch_stat1.png)
 ![](img/presearch_stat2.png)
+![](img/presearch_stat3.png)
 
 ## Accessing Your Deployed Node
 
-To find and access the Presearch Node you just deployed, simply go to your eVDC Admin Panel home and find the Digibyte Widget. Click on **My Workloads** to go to the list of your successfully deployed Presearch Node.
+To find and access the Presearch Node you just deployed, simply go to your eVDC Admin Panel home and find the Presearch Widget. Click on **My Workloads** to go to the list of your successfully deployed Presearch Node.
 
 ![](img/presearch_myworkload.png)
 
-You can now click the link to go to your deployed Digibyte Node Stats Page.
+You can now click the link to go to your deployed Presearch Node Stats Page.
 
 ![](img/presearch_access.png)
 

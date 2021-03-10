@@ -11,7 +11,7 @@
 - [Quantum Safe Network Concept](threefold:quantumsafe_network_concept)
   - [Zero-OS Network](sdk:capacity_network)
   - [ThreeFold Network = Planetary Network](threefold:threefold_network)
-  - [Web Gateway](sdk:architecture_webgateway)
+  - [Web Gateway](sdk:archi_webgateway)
 - TFGrid
   - [3Node](threefold:3node)
   - [ThreeFold Connect](threefold:tfconnect)
@@ -19,5 +19,5 @@
   - [AutoPay](twin:autopay)
   - [TFGrid Wallet](cloud_wallet)
 
-> TODO: webgateway
-> TODO: zos_network
+<!--- >> Coming soon: webgateway
+> Coming soon: zos_network --->
