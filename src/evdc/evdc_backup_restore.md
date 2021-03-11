@@ -9,7 +9,7 @@ Two types of back-ups are available :
 - entries starting with `config` of the configurations
 - entries starting with `vdc` are back-ups of the data
 
-You could also find the information about your network, your wallet key, wallet secret and VDC expiration date on your eVDC Wallet Homepage.
+**Remark** : please be aware that the backups taken will only refer to the eVDC configuration info and data, not to the persistent storage volumes that are part of the deployed solutions. 
 
 > Read more on [__Manual Backup__](evdc_manual_backup)
 
