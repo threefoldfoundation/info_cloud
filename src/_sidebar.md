@@ -38,12 +38,13 @@
     - [Digibyte](evdc_digibyte)
     - [Presearch](evdc_presearch)
   - [Link to your domain name](evdc_marketplace_webdomain)
+<!--- 
 - [Architecture](cloud_architecture)
   - [3Node](threefold:3node)
   - [Kubernetes](evdc_k8s)
-  - [Quantum Safe Storage](sdk:archi_storage)
-  - [Quantum Safe Network](sdk:archi_qsnetwork)
+  - [Quantum Safe Storage](threefold:quantumsafe_storage_concept)
+  - [Quantum Safe Network](threefold:quantumsafe_network_concept)
   - [Planetary Secure Network](threefold:threefold_network)
   - [0-Container Virtual FS](sdk:architecture_flist)
-  - [Compatibility with IT standards](compatibility)
+  - [Compatibility with IT standards](compatibility)    --->
 - [Releases & Support](support)
