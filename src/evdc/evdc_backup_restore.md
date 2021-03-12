@@ -6,10 +6,9 @@ Back-ups are available for 1 month, after which it will be deleted automatically
 ![](img/evdc_backup_restore.png)
 
 Two types of back-ups are available : 
-- entries starting with `config` of the configurations
-- entries starting with `vdc` are back-ups of the data
-
-**Remark** : please be aware that the backups taken will only refer to the eVDC configuration info and data, not to the persistent storage volumes that are part of the deployed solutions. 
+- entries starting with `config` are the backups of the cluster configurations and secrets
+- entries starting with `vdc` are back-ups of the data on the deployed solutions. 
+**Remark** : the backups taken will only refer to the eVDC data, not to the persistent storage volumes that are part of the deployed solutions. If these volumes are to be backed up and recovered, they require specific action within the deployed solution. 
 
 > Read more on [__Manual Backup__](evdc_manual_backup)
 
