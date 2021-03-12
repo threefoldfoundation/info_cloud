@@ -12,7 +12,7 @@
 
 The TFGateway works be reading the reservation detail from the TFExplorer. It then convert these reservation into configuration readable by the TCP Router server or CoreDNS and write them into a redis server.
 
-Both CoreDNS and the TCP router are watching redis and reloads there internal configuration evrytime there is a change in redis.
+Both CoreDNS and the TCP router are watching redis and reloads there internal configuration everytime there is a change in redis.
 
 ### Binaries needed
 - redis server
