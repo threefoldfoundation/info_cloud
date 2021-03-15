@@ -14,4 +14,4 @@ Two types of back-ups are available :
 
 > Read more on [__Restore__](evdc_restore)
 
-> Read more on [__Delete Backup__](evdc_delete)
+> Read more on [__Delete Backup__](evdc_backup_delete)
