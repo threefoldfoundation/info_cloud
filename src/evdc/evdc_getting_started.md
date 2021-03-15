@@ -2,10 +2,11 @@
 
 Steps
 
-- [Create your vdc](evdc_create)
-- [Manage your vdc](evdc_manage)
-- [Remove your vdc](evdc_remove)
-- [Upgrade your vdc](evdc_upgrade)
+- [Create your VDC](evdc_create)
+- [Access your VDC](evdc_access)
+- [Manage Your VDC](evdc_my_vdc)
+- [Upgrade your VDC](evdc_upgrade)
+- [Remove your VDC](evdc_remove)
 
 [Price Sheet](evdc_pricing)
 [Where to buy TFT](buy_tft)
