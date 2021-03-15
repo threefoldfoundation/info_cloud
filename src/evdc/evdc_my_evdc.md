@@ -16,4 +16,5 @@ You can easily access My VDC page by simply clicking on `My VDC` button on the t
 - [Manage Compute Nodes in your eVDC](evdc_compute)
 - [Manage Storage Nodes in your eVDC](evdc_storage)
 - [eVDC Wallet](evdc_wallet)
+- [eVDC Backup & Restore](evdc_backup_restore)
 - [Manage your workloads in a Kubernetes Cluster](evdc_k8s)
