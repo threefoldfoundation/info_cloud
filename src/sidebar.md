@@ -1,4 +1,8 @@
 - [Home](readme)
+- [TFGrid](threefold:grid_why)
+  - [Grid introduction](threefold:grid_what)
+  - [Cloud Units](threefold:cloud_units)
+  - [Pricing](tfgrid_pricing)
 - [Unique Benefits](usp)
   - [Security](usp_secure)
   - [Decentralized](usp_decentralized)

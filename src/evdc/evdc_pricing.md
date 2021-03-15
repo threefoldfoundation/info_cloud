@@ -26,4 +26,4 @@ Once paid, provisioning of hardware for Kubernetes clusters can start.
 
 ## How to buy TFT
 
-All info on how to buy TFT can be found [here](https://wiki.threefold.io/#/how_to_buy_and_sell)
+All info on how to buy TFT can be found [here](threefold:how_to_buy_and_sell)
