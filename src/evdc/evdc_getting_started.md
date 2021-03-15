@@ -4,7 +4,7 @@ Steps
 
 - [Create your VDC](evdc_create)
 - [Access your VDC](evdc_access)
-- [Manage Your VDC](evdc_my_vdc)
+- [Manage Your VDC](evdc_my_evdc)
 - [Upgrade your VDC](evdc_upgrade)
 - [Remove your VDC](evdc_remove)
 
