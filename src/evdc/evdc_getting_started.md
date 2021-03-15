@@ -1,7 +1,5 @@
 # Getting started with the eVDC
 
-!!!include:evdc_my_evdc
-
 Steps
 
 - [Create your vdc](evdc_create)

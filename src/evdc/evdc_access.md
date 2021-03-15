@@ -1,4 +1,4 @@
-# Manage your VDC
+# Access your VDC
 
 The VDCs under your control can be found by clicking on the `LIST VDCS` button of the homepage.
 
@@ -18,7 +18,7 @@ Before starting to run your VDC, a welcome screen is shown, as well as `Terms an
 
 ![](img/23_vdc_portal_t_and_c.png)
 
-The portal is made of two parts. In case you are in the Marketplace, you can easily switch to `MY VDC`by clicking the button in the upper right corner. 
+The portal is made of two parts. In case you are in the Marketplace, you can easily switch to `MY VDC` by clicking the button in the upper right corner. 
 
 ![](img/vdc_portal_marketplace.png)
 
