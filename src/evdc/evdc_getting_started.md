@@ -8,8 +8,8 @@ Steps
 - [Upgrade your VDC](evdc_upgrade)
 - [Remove your VDC](evdc_remove)
 
-[Price Sheet](evdc_pricing)
-[Where to buy TFT](buy_tft)
+- [Price Sheet](evdc_pricing)
+- [Where to buy TFT](buy_tft)
 
 
 

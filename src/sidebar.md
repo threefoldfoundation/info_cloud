@@ -24,6 +24,8 @@
 - [Kubernetes](kubernetes)
   - [Deploy](kubernetes_deploy)
   - [Add Monitoring](kubernetes_monitor)
+  - [Work with docker container images](kubernetes_container_images)
+  - [Solution architecture](evdc_k8s)
 - [Planetary File System](threefold_filesystem)
 - [Marketplace](evdc_marketplace)
   - [Introducing Marketplace](evdc_tfnow)
