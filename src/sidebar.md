@@ -14,6 +14,7 @@
   - [Manage](evdc_manage)
   - [Remove](evdc_remove)
   - [Upgrade](evdc_upgrade)
+  - [Back-up and Restore](evdc_backup_restore)
   - [Pricing](evdc_pricing)
   - [Where to get tokens](buy_tft)
 - [Kubernetes](kubernetes)
