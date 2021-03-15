@@ -24,6 +24,16 @@ For additional Kubernetes node, following prices apply:
 A user prepays the setup of his eVDC to a eVDC provider, according to the above prices.
 Once paid, provisioning of hardware for Kubernetes clusters can start.
 
+## Top up
+
+After creation of your VDC, you have transferred an amount that is sufficient for your VDC to remain up and running for 1 month. 
+
+2 weeks before expiration, you will receive a request to top up your wallet, so that it has the sufficient funding available to remain available. 
+
+![](img/evdc_expiration_warning.png)
+
+You can top up your VDC wallet by transferring TFTs to the indicated address, or by scanning the QR code in the `Wallet Information`.
+
 ## How to buy TFT
 
 All info on how to buy TFT can be found [here](threefold:how_to_buy_and_sell)
