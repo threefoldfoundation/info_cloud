@@ -1,30 +1,34 @@
-# Upgrade VDC Capacity
+# How to Upgrade eVDC Capacity
 
-Your VDC can be upgraded also when it is up and running.
+To upgrade eVDC Capacity, you can extend your kubernetes cluster by adding an additional worker node, simply through a few clicks.
 
-## Extend a Kubernetes cluster
+On your __Compute Nodes__ page, click on __Add Node__ button on the top right corner of the page.
 
-A Kubernetes cluster can be extended with additional worker nodes, through a few steps.
+![](img/addnode.png)
 
-Click on the `Àdd Node`button.
+Select the preferred node size you would like to add onto your Kubernetes Cluster, and click 'Next' button.
 
-![](img/00_kubernetes_extension_add_node.png)
+![](img/nodesize.png)
 
-Select the size of the node (Small, Medium, Big).
+On the next page you will be asked of whether you would like to use your existing TFT balance within your eVDC Wallet, or transfer TFT exclusively to pay for this new node. 
+You can either scan the QR code or transfer the requested amount of TFTs to the indicated wallet address (remark: you need to also copy the Memo Text !). On this tutorial we assume that you use the QR scan option.
 
-![](img/01_kubernetes_extension_select_size.png)
+![](img/paymethod.png) 
 
-Choose whether this additional node needs to be exposed directly to the internet with a public IPv4 address.
+On the payment page, you would be instructed to transfer some TFT to pay for your new node, by sending your TFT from an external Stellar wallet to your eVDC Wallet. In this tutorial we would be using inside the ThreeFold Connect Mobile App as our medium of transfer.
 
-![](img/02_kubernetes_extension_public_ip.png)
+![](img/paynode.png)
 
-Choose the way to pay: with a new token transfer or using already transferred tokens (but this will shorten the time before the reservation will expire).
+Scan the QR Code by using ThreeFold Connect app on your phone and confirm your payment. 
 
-![](img/03_kubernetes_extension_payment_choice.png)
+![](img/scanqr.jpeg)
 
-After these steps, execution of the extension will start.
+The payment screen will automatically reload itself if payment is successful and start to deploy the new node immidiately. The new node deployment will take a few minutes, please do not close this deployment window in the meantime.
 
-![](img/04_kubernetes_extension_deploy.png)
-![](img/05_kubernetes_extension_deploy_workload.png)
-![](img/06_kubernetes_extension_update_expiration.png)
-![](img/07_kubernetes_extension_success.png)
+![](img/extendnodeprocess.png)
+
+Once the new node deployment is finished, you will be directed to the final screen that shows that your eVDC has been extended / upgraded successfuly. You can now go back to 'My VDC' page and see that a new worker node has been deployed successfully.
+
+![](img/newnode.png)
+
+> Go back to [__'Compute Nodes Management Manual'__](evdc_compute)

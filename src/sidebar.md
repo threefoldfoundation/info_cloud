@@ -9,7 +9,7 @@
   - [Autonomous](usp_autonomous)
   - [Compatible](usp_compatible)
   - [Sovereign](usp_sovereign)
-- [eVDC get started](evdc_getting_started)
+- [eVDC Get Started](evdc_getting_started)
   - [Create](evdc_create)
   - [Access](evdc_access)
   - [My VDC](evdc_my_evdc)
