@@ -49,6 +49,7 @@
     - [Digibyte](evdc_digibyte)
     - [Presearch](evdc_presearch)
   - [Link to your domain name](evdc_marketplace_webdomain)
+  - [Releases & Support](support)
 <!--- - [Architecture](cloud_architecture)
   - [3Node](threefold:3node)
   - [Kubernetes](evdc_k8s)
@@ -57,4 +58,3 @@
   - [Planetary Secure Network](threefold:threefold_network)
   - [0-Container Virtual FS](sdk:architecture_flist)
   - [Compatibility with IT standards](compatibility)   --->
-- [Releases & Support](support)
