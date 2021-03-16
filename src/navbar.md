@@ -7,5 +7,5 @@
   - [ThreeFold Blog](https://new.threefold.io/farming/blog)
 - Related Websites
   - [FreeFlow Nation](http://www.freeflownation.org/)
-  - [Alliance for a Conscious Internet](http://consciousinternet.org//)
+  - [Alliance for a Conscious Internet](https://new.threefold.io/aci)
   - [Planetary Matchmakers](https://www.freeflowmatchmakers.com/)
