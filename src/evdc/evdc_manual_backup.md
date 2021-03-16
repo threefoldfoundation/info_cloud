@@ -1,6 +1,6 @@
 # Manual Back-Up
 
-Creating a manual back-up might relevant when you want to save a particular configuration. 
+Creating a manual back-up might be relevant when you want to save a particular configuration. 
 
 Executing a back-up is easy : 
 

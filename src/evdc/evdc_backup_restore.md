@@ -1,6 +1,6 @@
 # eVDC Backup and Restore
 
-Each eVDC is backed up at regular intervals (for now daily). Next to these regular backups, also manual back-ups can be made. 
+Each eVDC is backed up at regular intervals. Next to these regular backups, also manual back-ups can be made. 
 Back-ups are available for 1 month, after which it will be deleted automatically. 
 
 ![](img/evdc_backup_restore.png)
