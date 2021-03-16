@@ -4,8 +4,8 @@
 
 **More info:**
 
-- [Quantum Safe Compute Concept]()
-  - [Zero-OS Filesystem](threefold:zos_fs)
+<!-- - [Quantum Safe Compute Concept](threefold:quantumsafe_compute_concept)
+  - [Zero-OS Filesystem](threefold:zos_fs) --> 
 - [Quantum Safe Storage Concept](threefold:quantumsafe_storage_concept)
   - [ThreeFold Filesystem](threefold:threefold_fs)
 - [Quantum Safe Network Concept](threefold:quantumsafe_network_concept)
@@ -22,4 +22,5 @@
 <!--- >> Coming soon: webgateway
 > Coming soon: zos_network --->
 
-<!-- - [Quantum Safe Compute Concept](threefold:quantumsafe_compute_concept) -->
+<!-- Need to add: quantumsafe_compute_concept on threefold main wiki -->
+
