@@ -1,10 +1,10 @@
 - ThreeFold
-  - [ThreeFold website](https://new.threefold.io)
+  - [ThreeFold Website](https://new.threefold.io)
   - [Knowledge Base](https://new.threefold.io/info/threefold)
   - [TFGrid Capacity Explorer](https://explorer.grid.tf/)
   - [TF Token Stats](https://tokenstats.threefoldtoken.com/)
-  - [Blog](https://new.threefold.io/farming/blog)
-  - [Manual for TFGrid](https://manual-testnet.threefold.io/)
+  - [Manual for TFGrid](https://new.threefold.io/info/sdk)
+  - [ThreeFold Blog](https://new.threefold.io/farming/blog)
 - Related Websites
   - [FreeFlow Nation](http://www.freeflownation.org/)
   - [Alliance for a Conscious Internet](http://consciousinternet.org//)
