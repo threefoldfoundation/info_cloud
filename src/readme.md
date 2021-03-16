@@ -22,7 +22,7 @@ The eVDC offers the tooling for:
 
 <br/>
 
-![](img/vdc_3bot.png)
+![](img/evdc.png)
 
 <br/>
 
