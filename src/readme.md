@@ -30,6 +30,7 @@ The eVDC offers the tooling for:
 
 ## Planetary FileSystem
 
+<!-- This link to the planetary filesystem does not work. -->
 > For more info see: [Planetary Filesystem](threefold:threefold_fs)
 
 ## Infrastructure As Code (IAC)

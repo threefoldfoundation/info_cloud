@@ -22,9 +22,10 @@ On the TF grid a Kubernetes orchestrator can be deployed out of the box. We have
 
 ![](img/helm.jpg)
 
-The process for deploying workloads on a Kubernetes cluster can be made easy through the use of Helm templates. These templates are YAML-formatted resource descriptions tyhat Kubernetes can understand.
+The process for deploying workloads on a Kubernetes cluster can be made easy through the use of Helm templates. These templates are YAML-formatted resource descriptions that Kubernetes can understand.
 A [nice guide](https://helm.sh/docs/chart_template_guide/) describes all ins and outs of this widely used way of defining workload fit for Kubernetes.
 
 # Filesystem
 
+<!-- planetary filesystem link is not correct and does not work -->
 For storage, any file system will be supported, see our [planetary_filesystem](threefold:threefold_fs) for more detail.
