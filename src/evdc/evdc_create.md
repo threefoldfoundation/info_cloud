@@ -13,7 +13,7 @@ You'll see the option to deploy your own Virtual Data Center.
 
 To create your VDC, click `Deploy a VDC`.
 
-Only limited information is needed: a name, a secret password, and the size of your VDC (this can be adapted over time).
+Only limited information is needed: a name, a secret password, and the size of your VDC (this can be adapted over time).  At this point in time the charge for VDC resources on test comes in at 10% of the commefcial cost later on mainnet.  Capacity is available at very affordable pricing.
 
 ![](img/01_vdc_selection.png)
 

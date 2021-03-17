@@ -4,7 +4,7 @@
 
 ## Benefit from Agility of Cloud
 
-TF VDC allows you to create a Virtual Data Center woth a few clicks and some information that needs to be provided. It comes with tooling that is well understood in most developers' communities.
+TF VDC allows you to create a Virtual Data Center with a few clicks and some information that needs to be provided. It comes with tooling that is well understood in most developers' communities.
 
 Docker containers and the orchestration of these by Kubernetes framework offers the following benefits:
 
@@ -43,8 +43,8 @@ The ThreeFold_Grid and the eVDC solution have an anwser to the challenges and cr
 
 ### Local secure capacity
 
-The Tf Grid is designed to create capacity everywhere. In remote places where a power socket meets network connectivity to well know places for IT infrastructure to exists local office building, private and public datacenters. It is therefore possible to create cloud infrastructure local on premise that presents the same benefits as the large sclae cloud infrastructure out on the TF Grid. Even better companies can BE their own internet (cloud infrastructure)
+The Tf Grid is designed to create capacity everywhere. In remote places where a power socket meets network connectivity to well know places for IT infrastructure to exists: local office buildings or private and public datacenters. It is therefore possible to create cloud infrastructure local on premise that presents the same benefits as the large scale cloud infrastructure out on the TF Grid. Even better companies can BE their own internet (cloud infrastructure)
 
-Zero-OS is the operating system that runs on ThreeFold_Grid hardware infrastructure and is available on hardware in any form factor. It is very easy to install, operates autonomous and stateless and has incredible security and privacy features.
+Zero-OS is the operating system that runs on ThreeFold_Grid hardware and is available for hardware in many form factors. It is very easy to install, operates autonomous and stateless and has incredible security and privacy features.
 
-Zero-OS is designed to enable server to become part of the ThreeFold_Grid everywhere (and owned by anyone). One key element to make this possible is to have an absolute minimal hacking surface on the physical server. In the end servers will exist in many different locations, are owned by anywone. So a key element to secure applications run on and data stored on these servers is that there is zero possibility for any human being to interact with these servers. They do not have a login facility, they do not store and access credentials, they have no interface for people to interact in any possible way with these servers.
+Zero-OS is designed to enable servers to become part of the ThreeFold_Grid everywhere (and owned by anyone). One key element to make this possible is to have an absolute minimal hacking surface on the physical server. In the end servers will exist in many different locations, are owned by anyone. So a key element to secure applications run and data stored on these servers is that there is zero possibility for any human being to interact with these servers. They do not have a login facility, they do not store and access credentials, they have no interface for people to interact in any possible way with these servers.
