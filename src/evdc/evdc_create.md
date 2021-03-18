@@ -19,7 +19,10 @@ Only limited information is needed: a name, a secret password, and the size of y
 
 Now the VDC is being prepared to be used by you.
 Full deployment can start after payment.
-The amount to be paid is calculated to cover the capacity for the selected VDC size for a period of 1 month.
+
+Pay either by scanning the QR code using the Threefold Connect app (only app that we are sure it is able to read the QR info, both address, amount, currency and memo text, we can't guarantee that this QR code is readable by other Stellar mobile wallets). 
+
+The calculated amount to be paid covers the capacity for the selected VDC size for a period of 1 month.
 
 ![](img/02_vdc_payment2.png)
 
