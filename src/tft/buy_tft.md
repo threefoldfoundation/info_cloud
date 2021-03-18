@@ -6,6 +6,4 @@ You can buy TFTs on following exchanges :
 - on [BTC-Alpha](https://btc-alpha.com/en/)
 - on [Stellar](https://interstellar.exchange)
 
-or through [Mazraa](https://www.mazraa.io/)
-
 > TODO: link to the wiki's
