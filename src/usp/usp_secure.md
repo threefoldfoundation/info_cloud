@@ -17,9 +17,9 @@ some benefits:
 - Linkage for applications to the outside world is managed through the web gateways. These web gateways terminate all incoming traffic pretending to the the server and then initiate a new client service connection to the real application server.  This internal client server connection is initiated by the (real) application server, not from the outside.  This only allows external traffic that is inititiated and accepted from inside.
 - There is no TCP/IP traffic allowed coming from the outside. Data is picked up from the inside.
 
-## Quantum save Storage
+## Quantum safe Storage
 
-The quantum save storage solution splits data objects in an intelligent way into different parts, such that only part of the information stored in one place. Moreover, the data is described in a way such that a person aiming to hack into the low-level data (which is almost impossible in itself), will only find non-relevant information on this storage infrastructure.
+The quantum safe storage solution splits data objects in an intelligent way into different parts, such that only part of the information stored in one place. Moreover, the data is described in a way such that a person aiming to hack into the low-level data (which is almost impossible in itself), will only find non-relevant information on this storage infrastructure.
 The fact that no data part can be (re-)created by accessing one location, makes the storage quantum proof: no compute power can ‘imagine’ what the other data parts are by looking at the datapart of a single location.
 More info on our quntum safe storage mechanism can be found [here](https://manual.threefold.io/#/quantumsafe_storage_concept?id=dispersed-storage-architecture-design-philosophy).
 
