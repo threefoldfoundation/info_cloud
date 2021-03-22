@@ -1,6 +1,6 @@
 # Monitor K8s clusters
 
-The health of the VDC you deploy can be monitored. A stack has been prepared that offers monitoring through Prometheus and Grafana. A Helm chart `kube-prometheus-stack` is available, which offers Prometheus and Grafana as tooling to monitor your VDC.
+You can monitor the health of the eVDC you deploy. A stack has been prepared to offer monitoring through Prometheus and Grafana. A Helm chart `kube-prometheus-stack` is available, which provides Prometheus and Grafana as tooling to monitor your VDC.
 
 ## Walktrough for the Setup of Monitoring
 

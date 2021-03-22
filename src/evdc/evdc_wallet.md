@@ -1,8 +1,8 @@
 # eVDC Wallet
 
-Each eVDC is equiped with its own wallet, with the main purpose to fund capacity reservation to keep the eVDC alive by tusing TFT balance into your eVDC wallet as your capacity reservation payment method.
+Each eVDC comes with a wallet to fund capacity reservation. It will keep the eVDC alive by using your eVDC wallet's TFT balance as your capacity reservation payment method.
 
-You could also find the information about your network, your wallet key, wallet secret and VDC expiration date on your eVDC Wallet Homepage.
+You could also find the information about your network, wallet key, wallet secret and VDC expiration date on your eVDC Wallet Homepage.
 
 > Read more on [__How to Access your eVDC Wallet__](evdc_wallet_access)
 

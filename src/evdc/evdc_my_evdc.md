@@ -6,7 +6,7 @@ The panel `My VDC` gives an overview of the resources that make up your Kubernet
 
 ## Switch Panels to My VDC
 
-You can easily access My VDC page by simply clicking on `My VDC` button on the top right corner of your eVDC Admin Panel.
+You can easily access My VDC page by simply clicking on `My VDC` button on your eVDC Admin Panel's top right corner.
 
 ![](img/evdc_myvdc.png)
 

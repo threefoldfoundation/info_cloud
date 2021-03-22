@@ -1,20 +1,20 @@
 # How to Deploy a Presearch Node on eVDC
 
-[Presearch](https://presearch.io) has values which are aligned with ThreeFold to aim for a decentralized and an open internet which isn’t dominated by a handful of Big Tech companies.
+[Presearch](https://presearch.io)'s values are aligned with ThreeFold's mission to enable a decentralized and open internet.
 
-ThreeFold helps you to operate a Presearch Node and to power the Presearch decentralized search engine. A node can be set up with just a few clicks.
+ThreeFold helps you to operate a Presearch Node and to power, the Presearch decentralized search engine. You can set up a node within just a few clicks.
 
 Presearch Nodes are used to process user search requests, and node operators earn Presearch PRE tokens for joining and supporting the network.
 
 # Get Started
 
-You can now deploy your own Presearch search Node via the ThreeFold Now Marketplace's dashboard on your eVDC admin panel in a few clicks.
+You can now deploy your Presearch search Node via the ThreeFold Now Marketplace's dashboard on your eVDC admin panel in a few clicks.
 
-First step, find the **Presearch Widget** on the marketplace and click on **'Deploy'** button. You will now will be directed to the chatflow of the deployment process.
+First, find the **Presearch Widget** on the marketplace and click on **'Deploy'** button. You will now be directed to the chat flow of the deployment process.
 
 ![](img/presearch_widget.png)
 
-Create a name for your new node deployment. This name will be used to identify your deployment on your 'Deployed Solutions' list.
+Create a name for your new node deployment. You will use this name to identify your deployment on your 'Deployed Solutions' list.
 
 ![](img/presearch_create.png)
 
@@ -39,7 +39,7 @@ Congratulations! you just successfully deployed a Presearch Node on the ThreeFol
 ![](img/presearch_success.png)
 
 When you clicked it, you will then be directed to the Node stat page of your node where you can find all the information you need to monitor your node, including the log data showing your node activity. 
-The node normally restarts with updates of the images, but can also be restarted manually with the `Restart` button. 
+The node normally restarts with updates of the images and restarted manually with the `Restart` button. 
 The `Refresh` button reloads the webpage. 
 
 ![](img/presearch_stat1.png)

@@ -9,11 +9,11 @@ The IT industry is used to standard tooling for the deployment of their IT workl
 - Docker is the standard for containers
 - Kubernetes is the standard for container orchestration
 
-On the TF Grid a Kubernetes orchestrator can be deployed out of the box. We have implemented the [K3S](https://k3s.io) implementation, which is a full-blown Kubernetes offering, but using only half of the memory footprint, packaged as a single binary and made more lightweight so that it can run in resource-constrained locations (so fit for IoT, edge, ARM etc). 
+On the TF Grid, you can deploy a Kubernetes orchestrator out of the box. We have implemented the [K3S](https://k3s.io) implementation, which is a full-blown Kubernetes offering.  It uses only half of the memory footprint while being packaged as a single binary and made more lightweight to run in resource-constrained locations (so fit for IoT, edge, ARM etc). 
 
 #### More info on K3S 
 
-The deployed Kubernetes instance  is a lightweight K3S Kubernetes implementation in Zero-OS
+The deployed Kubernetes instance is a lightweight K3S Kubernetes implementation in Zero-OS.
 
   ![](img/evdck3slogo.png)
 
@@ -24,11 +24,11 @@ The deployed Kubernetes instance  is a lightweight K3S Kubernetes implementation
    - It is secure by default with reasonable defa&ults for lightweight environments
    - It eliminates the need to expose a port on Kubernetes worker nodes fopr the kubelet API by exposing this API to the Kubernetes control plain nodes over a websocket tunnel. 
    
-   More info can be found [here](https://github.com/rancher/k3s)
+   You can find more info [here](https://github.com/rancher/k3s)
    
-### VDC Compute : a Kubernetes Cluster
+### VDC Compute: a Kubernetes Cluster
 
-The Compute part of the VDC is in essence a Kubernetes cluster with a master node and different worker nodes, plus an IP address to expose the workload to the public internet. 
+The Compute part of the VDC is in essence, a Kubernetes cluster with a master node and different worker nodes. It comes with an IP address to expose the workloads to the public internet. 
 
 In the below screenshot, the VDC contains one master node and 2 worker nodes. 
 
@@ -40,4 +40,4 @@ Any tooling for managing your Kubernetes cluster, both for workload provisioning
 
 > Please read [__Monitoring__](evdc_monitoring_k8s) to deploy monitoring tools on your Kubernetes cluster. 
 
-The process for deploying workloads has been made easy as quite a lot of Helm templates have been made available, ready for usage on the grid. The `Marketplace` widget are created with the help of Helm Charts, which can be found [here](https://github.com/threefoldtech/vdc-solutions-charts), but evidently you can also create your own Helm Charts and deploy them onto your Kubernetes cluster. 
+The process for deploying workloads has been made easy as many Helm templates have been made available, ready for usage on the grid. The `Marketplace` widget are created with the help of Helm Charts, which can be found [here](https://github.com/threefoldtech/vdc-solutions-charts), but evidently you can also create your own Helm Charts and deploy them onto your Kubernetes cluster. 

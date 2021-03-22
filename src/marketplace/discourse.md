@@ -1,10 +1,11 @@
 ## Discourse
-Discourse is an open source Internet forum and mailing list management software application.
+Discourse is an open-source Internet forum and mailing list management software application.
 
-# Steps to deploy solution
+# Steps to deploy the solution
 
-#### Add the solution name. Keep in mind it will also be the subdomain.
-Choosing the name of the solution to be deployed. This allows the user to view the solution's reservation info in the dashboard deployed solutions
+#### Add the solution name. Note that this will also be the subdomain.
+Choosing the name of the solution to be deployed. This allows the user to view the solution's reservation info in the dashboard deployed solutions.
+
 ![](img/discourse_1.png)
 
 #### Enter your SMTP server configuration

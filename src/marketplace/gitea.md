@@ -3,7 +3,8 @@
 ## Steps
 
 ### Solution name
-Choosing the name of the solution to be deployed. This allows the user to view the solution's reservation info in the dashboard deployed solutions
+Choosing the name of the solution to be deployed. This allows the user to view the solution's reservation info in the dashboard deployed solutions.
+
 ![](img/gitea_1.png)
 
 ### Select pool for your solution to be deployed on

@@ -1,5 +1,6 @@
 # Getting started with the eVDC
 
+
 Steps
 
 - [Create your VDC](evdc_create)
@@ -7,7 +8,6 @@ Steps
 - [Manage Your VDC](evdc_my_evdc)
 - [Upgrade your VDC](evdc_upgrade)
 - [Remove your VDC](evdc_remove)
-
 - [Price Sheet](evdc_pricing)
 - [Where to buy TFT](buy_tft)
 
@@ -20,4 +20,4 @@ Steps
 
 _Please keep in mind that eVDC is currently running on testnet. Mainnet is planned to be released early 2021._
 
-_Please forgive any instability you might encounter while our developers continue to work to bring you the best solutions possible and keep in mind the forum (linked directly above) is there for you to bring questions or report any issues._
+_Please forgive any instability you might encounter while our developers continue to work to bring you the best solutions possible. The forum (linked directly above) is there for you to bring questions or report any issues._

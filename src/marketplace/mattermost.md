@@ -1,10 +1,10 @@
 # Mattermost
-Mattermost is a flexible, open source messaging platform that enables secure team collaboration
+Mattermost is a flexible, open source messaging platform that enables secure team collaboration.
 
 # Steps to deploy solution
 
-#### Add the solution name. Keep in mind it will also be the subdomain.
-Choosing the name of the solution to be deployed. This allows the user to view the solution's reservation info in the dashboard deployed solutions
+#### Add the solution name. KNote that this will also be the subdomain.
+Choosing the name of the solution to be deployed. This allows the user to view the solution's reservation info in the dashboard deployed solutions.
 ![](img/mattermost_1.png)
 
 #### Select disk size for your database

@@ -4,13 +4,13 @@
 
 There are a few things you need to know when you want to publish a blog:
 
-- Title: Is the title shown on your published content.
-- Repository URL: is a valid git repository URL where your content lives.
-- Branch: is the deployment branch that exists on your git repository to be used as the version of your content to publish.
+- Title: This is the title shown on your published content.
+- Repository URL: A valid git repository URL where your content lives.
+- Branch: The deployment branch on your git repository shows your content version to be published.
 
 Example of a Blog repository: [https://github.com/threefoldfoundation/www_tfblog](https://github.com/threefoldfoundation/www_tfblog)
 
-This name will be used to identify this blog on your 'deployed blogs list' on the 3Bot Admin Panel Dashboard. Keep in mind that this name would also be used as your blog's subdomain (a part of your blog's address).
+You will use this name to identify this blog on your 'deployed blogs list' on the 3Bot Admin Panel Dashboard. Remember that this name would also be used as your blog's subdomain (a part of your blog's address).
 
 ![](img/blog_1.png)
 
