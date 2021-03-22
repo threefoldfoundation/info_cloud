@@ -13,12 +13,15 @@ You'll see the option to deploy your own Virtual Data Center.
 
 To create your eVDC, click `Deploy a VDC`.
 
-Only limited information is needed: a name, a secret password, and the size of your eVDC (can be edited over time).
+Only limited information is needed: a name, a secret password, and the size of your eVDC (can be edited over time).  Currently, the cost for VDC resources on testnet comes at 10% of the commercial mainnet cost, making it super affordable.
 
 ![](img/01_vdc_selection.png)
 
 Now the eVDC is setting up for you.
 Full deployment can start after payment.
+
+Pay either by scanning the QR code on the Threefold Connect app (only app available to read the QR info; address, amount, currency and memo text. We can't guarantee that this QR code is readable by other Stellar mobile wallets). 
+
 The amount to be paid is calculated to cover the selected eVDC size capacity for one month.
 
 ![](img/02_vdc_payment2.png)

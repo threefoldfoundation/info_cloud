@@ -12,7 +12,7 @@ A decentralized architecture stimulates equality by disabling the accumulation o
 
 Moreover, a centrally organized internet architecture is unsustainable: the internet already consumes as much as 10% of the world ́s power generation today. The extremely high entry cost for setting up data centers and the high dependency on reliable power and network infrastructure are major factors that restrain digital infrastructure growth in emerging markets.
 
-ThreeFold brings your data center to where you need it to be, on any scale, and very close to where it's being consumed — facilitating infrastructure setup at the edge.
+ThreeFold brings your data center to where you need it to be, on any scale, and very close to where it's being produced and consumed — facilitating infrastructure setup at the edge.
 
 Related Reading:
 - [ThreeFold Blog: Decentralizing the Internet](https://threefold.io/blog/post/decentralzing_the_internet/)

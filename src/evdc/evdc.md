@@ -1,6 +1,6 @@
 # ThreeFold eVDC
 
-ThreeFold edge-Virtual Data Center (eVDC) is your private scalable cloud on the ThreeFold_Grid, currently available on TF Grid 2.4 testnet.
+ThreeFold edge-Virtual Data Center (eVDC) is your private scalable cloud on the ThreeFold_Grid, currently available on TF Grid 2.5 testnet.
 
 ThreeFold has created the largest active peer-to-peer cloud (the TF Grid) on the planet, which runs any Unix IT workload.
 

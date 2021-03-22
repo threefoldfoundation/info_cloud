@@ -48,6 +48,7 @@
   - [Blockchain Solutions](evdc_blockchain)
     - [Digibyte](evdc_digibyte)
     - [Presearch](evdc_presearch)
+    - [Polygon](evdc_polygon)
   - [Link to your domain name](evdc_marketplace_webdomain)
   - [Releases & Support](support)
 <!--- - [Architecture](cloud_architecture)

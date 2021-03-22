@@ -8,10 +8,9 @@
 # [Releases](release_notes)
 
 - [2.4: released Dec 2020 on testnet only](release_notes_2_4_0)
-- [2.5: being stabilized on on testnet, frequent changes do still happen](release_notes_2_5_0)
+- [2.5: released in February on testnet](release_notes_2_5_0)
+- [2.6: plannend to be released in March on testnet](release_notes_2_0_6)
   - please help us test this release
 - 3.0: will be a major release, planning to be announced soon
 
-> Note: On testnet, we automatically delete your eVDC's after 2 weeks.
-
-> Note: Please read our Release Notes of 2.5 to understand limitations and known issues.
+> Note: Please read our Release Notes of the latest released version to understand limitations and known issues.
