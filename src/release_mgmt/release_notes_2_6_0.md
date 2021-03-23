@@ -37,7 +37,7 @@
 ### Component Upgrades
 - [0-DB](https://github.com/threefoldtech/0-db)
 - [0-DB-FS](https://github.com/threefoldtech/0-db-fs)
-- [0-Stor](https://github.com/threefoldtech/0-stor)
+- [0-Stor-v2](https://github.com/threefoldtech/0-stor)
 
 
 ### New on QSFS V0.2.0
@@ -50,7 +50,7 @@
 - Retreive and Restore: easily recreate and restore data by retreiving it as metadata stor 
 - Added rust-based monitoring / repair tool to check backend health and prevent data loss
 
-### 0-stor Gen2 v0.2
+### 0-stor-v2 v0.2
 - Use build time optimization to reduce the size of the final binaries
 - Implement real error types, improving feedback to users
 - Better handling of some code paths
