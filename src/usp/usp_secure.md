@@ -22,7 +22,7 @@ Some benefits:
 The quantum safe storage solution splits data objects in an intelligent way into different parts, such that only part of the information stored in one place. Moreover, the data is described in a way such that a person aiming to hack into the low-level data (which is almost impossible in itself), will only find non-relevant information on this storage infrastructure.
 The fact that no data part can be (re-)created by accessing one location, makes the storage quantum proof: no compute power can ‘imagine’ what the other data parts are by looking at the data part of a single location.
 
-You can find more info on our dispersed storage mechanism [here](threefold:quantumsafe_storage_concept?id=dispersed-storage-architecture-design-philosophy).
+You can find more info on our dispersed storage mechanism [here](sdk:archi_qsstorage).
 
 Quantum safe storage has been completely overhauled and is available as a filesystem, inside VDC's, in containers deployed by 3bot's and on local systems that deploy the binaries and use the TF Grid as a backend storage system.
 
