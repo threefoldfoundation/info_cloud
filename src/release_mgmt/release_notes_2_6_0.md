@@ -34,7 +34,7 @@
 
 ## Quantum FileSystem (QSFS) V0.2.0
 
-### Component Upgrades
+### Components
 - [0-DB](https://github.com/threefoldtech/0-db)
 - [0-DB-FS](https://github.com/threefoldtech/0-db-fs)
 - [0-Stor](https://github.com/threefoldtech/0-stor)
