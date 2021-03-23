@@ -60,7 +60,7 @@
 - Verify 0-db namespace for sufficient capacity before writing and sharding attempt
 - Support unhealthy backends when writing
 
-## ZOS 0.5.0
+## ZOS 0.4.9
 - added ZOS capacity collecting and reporting feature
 - Made ZOS do flist cache periodic clean up
 - added optional Yggdrasil ip inside ZOS containers
