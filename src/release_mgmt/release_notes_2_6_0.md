@@ -50,7 +50,7 @@
 - Retreive and Restore: easily recreate and restore data by retreiving it as metadata stor 
 - Added rust-based monitoring / repair tool to check backend health and prevent data loss
 
-#### 0-stor Gen2 v0.2
+### 0-stor Gen2 v0.2
 - Use build time optimization to reduce the size of the final binaries
 - Implement real error types, improving feedback to users
 - Better handling of some code paths
