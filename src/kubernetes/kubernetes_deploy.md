@@ -2,7 +2,7 @@
 
 #### Pre-required 
 - You'll need to log in through Threefold Connect, an authenticator for the ThreeFold ecosystem.
-- You can find more on ThreeFold Connect [here](https://manual.threefold.io/#/3botconnect_install).
+- You can find more on ThreeFold Connect [here](sdk:threefold_connect_install).
 
 #### Getting Started 
 The Kubernetes cluster comes with the creation of your VDC.
