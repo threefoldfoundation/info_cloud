@@ -2,7 +2,7 @@
  # ThreeFold Cloud 2.6
 
 
-## JS-SDK v11.4.0
+## JS-SDK v11.2.0
 
 ### Component Upgrades
 - [3Bot Deployer](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/threebot_deployer)
