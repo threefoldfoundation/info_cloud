@@ -1,9 +1,10 @@
 
  # ThreeFold Cloud 2.6
 
-## Component Upgrades
 
-### JS-SDK v11.4.0
+## JS-SDK v11.4.0
+
+### Component Upgrades
 - [3Bot Deployer](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/threebot_deployer)
 - [Solution Marketplace](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/marketplace)
 - [Virtual Datacenter VDC](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/vdc)
@@ -31,7 +32,13 @@
 - Email notification for expiring pools empty wallets
 - Rebranded 3Bot Marketplace as 3Bot Apps
 
-### Quantum FileSystem (QSFS) V0.2.0
+## Quantum FileSystem (QSFS) V0.2.0
+
+### Component Upgrades
+- [0-DB](https://github.com/threefoldtech/0-db)
+- [0-DB-FS](https://github.com/threefoldtech/0-db-fs)
+- [0-Stor](https://github.com/threefoldtech/0-stor)
+
 - Integrated etcd redundant backend
 - Time-based upload using z-stor for all storage containers
 - Support index dirty detection in 0-DB
@@ -40,23 +47,7 @@
 - Retreive and Restore: easily recreate and restore data by retreiving it as metadata stor 
 - Added rust-based monitoring / repair tool to check backend health and prevent data loss
 
-### Digital Twin v0.2.0 (Demo)
-- Full chat and messaging features: Add gifs, block contact, send files
-- Responsive Mobile layout
-- TF connect SSO for quick sign up
-- Integrated meeting feature (video chat feature)
-- Integrated File manager (file cloud and storage)
-- Decentralized and private connection with Planetary network on the backend
-- Full redesign with Modern ThreeFold Branding
-
-### ZOS 0.5.0
-- added ZOS capacity collecting and reporting feature
-- Made ZOS do flist cache periodic clean up
-- added optional Yggdrasil ip inside ZOS containers
-- Periodical billing info handling
-- Support small memory containers (100MB)
-
-### 0-stor Gen2 v0.2
+#### 0-stor Gen2 v0.2
 - Use build time optimization to reduce the size of the final binaries
 - Implement real error types, improving feedback to users
 - Better handling of some code paths
@@ -66,5 +57,18 @@
 - Verify 0-db namespace for sufficient capacity before writing and sharding attempt
 - Support unhealthy backends when writing
 
+## ZOS 0.5.0
+- added ZOS capacity collecting and reporting feature
+- Made ZOS do flist cache periodic clean up
+- added optional Yggdrasil ip inside ZOS containers
+- Periodical billing info handling
+- Support small memory containers (100MB)
 
-
+## Digital Twin v0.2.0 (Demo)
+- Full chat and messaging features: Add gifs, block contact, send files
+- Responsive Mobile layout
+- TF connect SSO for quick sign up
+- Integrated meeting feature (video chat feature)
+- Integrated File manager (file cloud and storage)
+- Decentralized and private connection with Planetary network on the backend
+- Full redesign with Modern ThreeFold Branding
