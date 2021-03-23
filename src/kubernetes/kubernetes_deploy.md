@@ -27,6 +27,6 @@ You can create this VDC with a deployed Kubernetes Cluster on the VDC deployment
 
 *Please keep in mind that eVDC is currently running on testnet. Mainnet is planned for early 2021.*
 
-*Please forgive any instability you might encounter while our developers continue to work to bring you the best solutions possible and keep in mind the forum (linked directly above) is there for you to bring questions or report any issues.*
+*Please forgive any instability you might encounter while our developers continue to work to bring you the best solutions possible. Keep in mind that the forum (linked directly above) is there for you to ask questions or report any issues.*
 
 ---- 

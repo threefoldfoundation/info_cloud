@@ -4,7 +4,7 @@
 
 ![](img/evdcadmin.png)
 
-Through this panel you can easily deploy and manage pre-configured applications in your VDC. Deployment on these solutions is only a few clicks away. 
+Through this panel, you can easily deploy and manage pre-configured applications in your VDC. Deployment on these solutions is only a few clicks away. 
 
 The list contains both peer-to-peer applications and off-the-shelf tooling to manage your Kubernetes cluster.
 
@@ -15,6 +15,6 @@ The list contains both peer-to-peer applications and off-the-shelf tooling to ma
 
 ## Getting Started
 
-You'll need to first deploy an eVDC in order to get started with the Marketplace. Learn how to do that [here](evdc_deploy).
+You'll first need to deploy an eVDC to get started with the Marketplace. Learn how to do that [here](evdc_deploy).
 
 Once you deploy your eVDC, the Marketplace will be your default view on the admin panel.

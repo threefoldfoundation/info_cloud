@@ -8,7 +8,7 @@
 - getting started explain deployment steps
 - use case: give 1 example of monitoring on the deployed  grafana / prometheus
 -------------->
-The health of the VDC you deploy can be monitored. A stack has been prepared that offers monitoring through Prometheus and Grafana. A Helm chart `kube-prometheus-stack` is available, which offers Prometheus and Grafana as tooling to monitor your VDC. 
+You can monitor the health of the VDC you deploy. A stack has been prepared that offers monitoring through Prometheus and Grafana. A Helm chart `kube-prometheus-stack` is available, which offers Prometheus and Grafana as tooling to monitor your VDC. 
 
 ## What is Prometheus
 
@@ -16,7 +16,7 @@ The health of the VDC you deploy can be monitored. A stack has been prepared tha
 
 ## What is Grafana
 
-[Grafana](https://grafana.com) has become the world’s most popular technology used to compose observability dashboards with everything from Prometheus & Graphite metrics, to logs and application data to power plants and beehives.
+[Grafana](https://grafana.com) has become the world’s most popular technology used to compose observability dashboards with everything from Prometheus & Graphite metrics to logs and application data to power plants and beehives.
 
 ## Getting Started
 
@@ -24,16 +24,16 @@ The monitoring stack is available as a solution in the marketplace.
 
 ![](img/evdc_k8s_monitoring_01_mktpl.png)
 
-Click `Deploy` and go through a simple chatflow to configure the monitoring on your cluster. 
+Click `Deploy` and go through a simple chat flow to configure the monitoring on your cluster. 
 
 ![](img/evdc_k8s_monitoring_02_mktpl2.png)
 
 A few elements need to be provided. 
-First give your monitoring the name you want (will be part of the url).
+First, give your monitoring the name you want (it will be part of the url).
 
 ![](img/evdc_k8s_monitoring_03_name.png)
 
-You can configure the url to be auto-generated, or part of your own domain. 
+You can configure the URL to be auto-generated or part of your domain. 
 
 ![](img/evdc_k8s_monitoring_04_subdomain.png)
 
@@ -49,7 +49,7 @@ Now there is enough information to set up the monitoring stack on your Kubernete
 
 ![](img/evdc_k8s_monitoring_07_init.png)
 
-And that's it: the url's are available to access your monitoring solution, with both UIs on Prometheus and Grafana. 
+And that's it: the URLs are available to access your monitoring solution, with both UIs on Prometheus and Grafana. 
 
 ![](img/evdc_k8s_monitoring_08_success.png)
 

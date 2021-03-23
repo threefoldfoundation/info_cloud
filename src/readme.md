@@ -1,6 +1,6 @@
 ![](img/cloud_node.png)
 
-# ThreeFold Peer-2-Peer Cloud Knowledge Base
+# ThreeFold Peer-to-Peer Cloud Knowledge Base
 
 ## eVDC
 
@@ -10,15 +10,13 @@
 
 <br/>
 
-eVDC stands for "edge Virtual Data Center" which is a solution that exists on the ThreeFold grid.
+ThreeFold edge-Virtual Data Center (eVDC) is your scalable private cloud on the ThreeFold_Grid. eVDC is a virtual data center (out of the box) that brings an easy way to deploy, scale and manage Unix workloads according to industry standards, on the edge. It comes with the most popular tooling available on the market to run applications. It runs on the ThreeFold Grid.
 
-The eVDC is a virtual data center (out of the box) that creates easy and industry standard ways to deploy, scale and manage Unix workloads.
+eVDC offers the tooling for:
 
-The eVDC offers the tooling for:
-
-- Deploying containerized Unix IT applications on the grid
-- Setting up Kubernetes clusters that able to orchestrate and manage containers running on the Threefold grid and containers hosted on external clouds (hybrid cloud management)
-- Storing data in a very secure way and presenting this storage facility in the most used and understood interface: a file system
+- Deploying containerized Unix IT applications on the grid.
+- Setting up Kubernetes clusters to orchestrate and manage containers running on the Threefold grid and containers hosted on external clouds (hybrid cloud management).
+- Storing data in a highly secure way, using the most used and understood interface: a file system.
 
 <br/>
 
@@ -41,6 +39,6 @@ The eVDC offers the tooling for:
 
 <br/>
 
-Infrastructure as code is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
+Infrastructure as code is a way to manage and provision computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
 
 > For more info see: [IAC](iac)

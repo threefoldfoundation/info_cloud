@@ -3,8 +3,8 @@ CryptPad is the Zero Knowledge realtime collaborative editor.
 
 # Steps to deploy solution
 
-#### Add the solution name. Keep in mind it will also be the subdomain.
-Choosing the name of the solution to be deployed. This allows the user to view the solution's reservation info in the dashboard deployed solutions
+#### Add the solution name. Note that this will also be the subdomain.
+Choosing the name of the solution to be deployed. This allows the user to view the solution's reservation info in the dashboard deployed solutions.
 ![](img/cryptpad_1.png)
 
 #### Enter your website title, repo url and branch

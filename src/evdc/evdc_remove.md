@@ -2,7 +2,7 @@
 
 # Remove a VDC
 
-Removing a VDC simply can be done by clicking on the bin icon. 
+Removing a VDC can be done by clicking on the bin icon. 
 
 ![](img/01_vdc_remove_button.png)
 
