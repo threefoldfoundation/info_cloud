@@ -34,10 +34,13 @@
 
 ## Quantum FileSystem (QSFS) V0.2.0
 
-### Components
+### Component Upgrades
 - [0-DB](https://github.com/threefoldtech/0-db)
 - [0-DB-FS](https://github.com/threefoldtech/0-db-fs)
 - [0-Stor](https://github.com/threefoldtech/0-stor)
+
+
+### New on QSFS V0.2.0
 
 - Integrated etcd redundant backend
 - Time-based upload using z-stor for all storage containers
