@@ -55,17 +55,20 @@
 - Implement real error types, improving feedback to users
 - Better handling of some code paths
 - Test connectivity to the metadata cluster before starting
-- Add a Test subcommand to verify the configuration file, metadata cluster connectivity, and 0-db backend connectivity
+- Added a Test subcommand to verify the configuration file, metadata cluster connectivity, and 0-db backend connectivity
 - Zstor.log. :Add a logfile for operations.
-- Verify 0-db namespace for sufficient capacity before writing and sharding attempt
+- Verified 0-db namespace for sufficient capacity before writing and sharding attempt
 - Support unhealthy backends when writing
 
-## ZOS 0.4.9
+## ZOS 0.4.10
 - added ZOS capacity collecting and reporting feature
 - Made ZOS do flist cache periodic clean up
 - added optional Yggdrasil ip inside ZOS containers
 - Periodical billing info handling
 - Support small memory containers (100MB)
+- Replaced Firecracker to Cloud-hypervisor for virtualization
+- support new k8s special size
+- Fixed CPU limits on container
 
 ## Digital Twin v0.2.0 (Demo)
 - Full chat and messaging features: Add gifs, block contact, send files
