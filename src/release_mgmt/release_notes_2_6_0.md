@@ -64,7 +64,7 @@
 - Made ZOS do flist cache periodic clean up
 - Support small memory containers (100MB)
 - Replaced Firecracker to Cloud-hypervisor for virtualization
-- support new k8s special size
+- Support new k8s special size
 - Fixed CPU limits on container
 
 ## Digital Twin v0.2.0 (Demo)
