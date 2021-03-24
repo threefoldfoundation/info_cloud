@@ -55,9 +55,9 @@
 - Implement real error types, improving feedback to users
 - Better handling of some code paths
 - Test connectivity to the metadata cluster before starting
-- Added a Test subcommand to verify the configuration file, metadata cluster connectivity, and 0-db backend connectivity
-- Zstor.log. :Add a logfile for operations.
-- Verified 0-db namespace for sufficient capacity before writing and sharding attempt
+- Added a Test subcommand to verify the configuration file, metadata cluster connectivity, and 0-DB backend connectivity
+- Zstor.log. : Add a logfile for operations.
+- Verified 0-DB namespace for sufficient capacity before writing and sharding attempt
 - Support unhealthy backends when writing
 
 ## ZOS 0.4.10
@@ -70,7 +70,7 @@
 ## Digital Twin v0.2.0 (Demo)
 - Full chat and messaging features: Add gifs, block contact, send files
 - Responsive Mobile layout
-- TF connect SSO for quick sign up
+- TF Connect SSO for quick sign up
 - Integrated meeting feature (video chat feature)
 - Integrated File manager (file cloud and storage)
 - Decentralized and private connection with Planetary network on the backend
