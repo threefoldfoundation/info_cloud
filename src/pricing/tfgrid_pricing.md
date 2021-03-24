@@ -2,7 +2,7 @@
 
 # PROMOTION: Grid Pricing Q1 2021 for DIY capacity
 
-> Prices on testnet are 1/10 of prices mentioned below.
+> Prices on testnet are 1/10 of prices mentioned below. 
 
 - DIY = Do It Yourself Capacity
 - pricing is done based on cloud units (see [cloud_units](threefold:cloud_units))
