@@ -5,7 +5,15 @@ It using an adapted version of the Plasma framework that empowers Ethereum-based
 
 # System/VDC Requirements 
 
-**Preliminary Remark** : Polygon nodes require at least 60 GB of hard drive storage. That is the reason it will only run on a Diamond VDC, or a silver/gold/platinum version that has been upgraded with more storage.
+Minimum system requirements for a Matic node are: 
+- 16 GiB of memory
+- 4 core CPU 
+- 60 GB disk space (and extendable)
+- 2 different machines for Sentry and Validator node. Having a single machine to run both, the Sentry and Validator nodes will run into issues. 
+
+**Remark** : 
+The minimum system requirement of 60 GB of hard drive storage is the reason it will only run on a Diamond VDC, or a silver/gold/platinum version that has been upgraded with more storage.
+
 
 # Get Started
 
