@@ -32,7 +32,7 @@
 - Email notification for expiring pools empty wallets
 - Rebranded 3Bot Marketplace as 3Bot Apps
 
-## Quantum FileSystem (QSFS) V0.2.0
+## Quantum FileSystem (QSFS) V0.0.4
 
 ### Component Upgrades
 - [0-DB](https://github.com/threefoldtech/0-db)
