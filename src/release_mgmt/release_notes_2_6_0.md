@@ -61,10 +61,7 @@
 - Support unhealthy backends when writing
 
 ## ZOS 0.4.10
-- added ZOS capacity collecting and reporting feature
 - Made ZOS do flist cache periodic clean up
-- added optional Yggdrasil ip inside ZOS containers
-- Periodical billing info handling
 - Support small memory containers (100MB)
 - Replaced Firecracker to Cloud-hypervisor for virtualization
 - support new k8s special size
