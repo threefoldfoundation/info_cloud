@@ -68,4 +68,4 @@ To find and access the Polygon Node you just deployed, simply go to your eVDC Ad
 
 You can now click the link to go to your deployed Polygon Node Stats Page.
 
-![](img/polygon_access.png)
+![](img/polygon_access.png) 
