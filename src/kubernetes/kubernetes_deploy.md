@@ -1,7 +1,7 @@
 # Kubernetes Cluster Actions
 
 #### Pre-required 
-- You'll need to log in through Threefold Connect, an authenticator for the ThreeFold ecosystem.
+- You'll need to log in through Threefold Connect, an authenticator for the ThreeFold Companies.
 - You can find more on ThreeFold Connect [here](sdk:threefold_connect_install).
 
 #### Getting Started 
