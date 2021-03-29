@@ -1,6 +1,6 @@
 ![](img/planet_fs.png)
 
-# ThreeFold Planetary Secure File System (PSFS)
+# ThreeFold Quantum Safe Filesystem (QSFS)
 
 Part of the eVDC is a set of Storage Nodes, which can be used as a storage infrastructure for files in any format. 
 
@@ -40,7 +40,7 @@ Any Quantum-Safe File System has 4 storage layers :
 - ZDB-FS fuse layer
 - ZSTOR for the dispersed storage
 
-Now, there are 2 ways to run the Planetary Filesystem: 
+Now, there are 2 ways to run the Quantum Safe Filesystem: 
 - In self-management mode for the metadata;
 - A 'Quantum Storage Enabled' mode.
 
@@ -63,7 +63,7 @@ As described in [Manage Storage Nodes](evdc_storage), this file contains the nec
 
 #### Bootstrap Executable
 
-Download now the Planetary FileSystem bootstrap, available [here](https://github.com/threefoldtech/quantum-storage/releases/download/v0.0.1/planetaryfs-bootstrap-linux-amd64).
+Download now the Quantum Safe Filesystem bootstrap, available [here](https://github.com/threefoldtech/quantum-storage/releases/download/v0.0.1/planetaryfs-bootstrap-linux-amd64).
 
 
 > __Remark__: 

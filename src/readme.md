@@ -26,10 +26,10 @@ eVDC offers the tooling for:
 
 > For more info see: [eVDC](evdc)
 
-## Planetary FileSystem
+## Quantum Safe Filesystem
 
 <!-- This link to the planetary filesystem does not work. -->
-> For more info see: [Planetary Filesystem](threefold:threefold_fs)
+> For more info see: [Quantum Safe Filesystem](threefold:threefold_fs)
 
 ## Infrastructure As Code (IAC)
 

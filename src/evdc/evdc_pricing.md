@@ -2,7 +2,7 @@
 
 ## Price
 
-An eVDC comes in different shapes. The price of the monthly subscription fees is expressed here in EUR. The equivalent amount in TFT at a TFT price of 0.10 USD will be billed.
+An eVDC comes in different shapes. The price of the monthly subscription fees is expressed here in USD. The equivalent amount in TFT at a TFT price of 0.10 USD will be billed.
 
 - Silver: 15 USD per month for a small Kubernetes Controller and 1 worker node, 4 GB memory, 100 GB ZDB Storage, a Network Gateway
 - Gold: 30 USD per month for a small Kubernetes Controller and 1 worker node, 4 GB memory, 2TB ZDB Storage, a Network Gateway

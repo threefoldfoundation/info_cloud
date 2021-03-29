@@ -11,7 +11,7 @@ This implies that a simple installation of the Zero-OS image converts the hardwa
 
 We have created a Fuse based filesystem, any storage interface can be build on top of this.
 
-For more info, please read [Planetary Filesystem](threefold_filesystem).
+For more info, please read [Quantum Safe Filesystem](threefold_filesystem).
 
 ## Dockers & Kubernetes
 
