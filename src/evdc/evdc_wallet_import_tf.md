@@ -5,7 +5,7 @@ You can transfer your TFT from eVDC mainnet or testnet, and import your wallet i
 ## Prerequisites
 
 - An active eVDC on testnet / mainnet, with some TFT funds on its [eVDC Wallet](evdc_wallet)
-- ThreeFold Connect App (TF Connect App). TF Connect App is equipped with a built-in wallet. Read more on how to download a TF Connect App [here](sdk:threefold_connect_install) if you have not downloaded yet.
+- ThreeFold Connect App (TF Connect App). TF Connect App is equipped with a built-in wallet. Read more on how to download a TF Connect App [here](threefold:threefold_connect) if you have not downloaded yet.
 
 ## Import eVDC Wallet to TF Connect Wallet
 

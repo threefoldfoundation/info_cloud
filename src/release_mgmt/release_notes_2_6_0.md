@@ -42,12 +42,12 @@
 
 ### New on QSFS V0.2.0
 
-- Integrated etcd redundant backend
+- Add support for Etcd as metadata backend
 - Time-based upload using z-stor for all storage containers
 - Support index dirty detection in 0-DB
 - Upload changed (dirty) index, use ETCD to keep required metadata
 - Multi level ZDB stor to support millions of backend files
-- Retreive and Restore: easily recreate and restore data by retreiving it as metadata stor 
+- Retrieve and restore: esily recreate and restore data by retrieving it from the metadata store
 - Added rust-based monitoring / repair tool to check backend health and prevent data loss
 
 ### 0-stor-v2 v0.2
