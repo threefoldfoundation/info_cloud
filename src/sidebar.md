@@ -46,7 +46,7 @@
     - [Presearch](evdc_presearch)
     - [Polygon](evdc_polygon)
   - [Link to your domain name](evdc_marketplace_webdomain)
-  - [Releases & Support](support)
+- [Releases & Support](support)
 <!--- - [Architecture](cloud_architecture)
   - [3Node](threefold:3node)
   - [Kubernetes](evdc_k8s)
