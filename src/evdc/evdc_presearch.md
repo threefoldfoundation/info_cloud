@@ -28,15 +28,15 @@ Copy your registration code from your Presearch account.
 
 Paste this code into the text field when requested.
 
-![](img/presearch_registration_code_paste.png  ':size=600')
+![](img/presearch_registration_code_paste.png)
 
 Select the vdc capacity plan for your Presearch Node workload usage. For now, the smallest size (silver) is sufficient.
 
-![](img/presearch_plan.png  ':size=600')
+![](img/presearch_plan.png)
 
 Congratulations! you just successfully deployed a Presearch Node on the ThreeFold_Grid! You can now click on the given link to access your new Presearch Node.
 
-![](img/presearch_success.png  ':size=600')
+![](img/presearch_success.png)
 
 When you clicked it, you will then be directed to the Node stat page of your node where you can find all the information you need to monitor your node, including the log data showing your node activity. 
 The node normally restarts with updates of the images and restarted manually with the `Restart` button. 
@@ -58,4 +58,4 @@ You can now click the link to go to your deployed Presearch Node Stats Page.
 
 Also on the [Presearch website](https://nodes.presearch.org/dashboard) you can now see the node. Stake at least 1000 PRE and your node becomes accessible for searches.
 
-![](img/presearch_node_connected.png  ':size=600')
+![](img/presearch_node_connected.png)

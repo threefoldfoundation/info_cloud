@@ -8,16 +8,16 @@ On your __Compute Nodes__ page, click on __Add Node__ button on the top right co
 
 Select the preferred node size you would like to add onto your Kubernetes Cluster, and click 'Next' button.
 
-![](img/nodesize.png)
+![](img/nodesize.png ':size=600')
 
 On the next page you will be asked of whether you would like to use your existing TFT balance within your eVDC Wallet, or transfer TFT exclusively to pay for this new node. 
 You can either scan the QR code or transfer the requested amount of TFTs to the indicated wallet address (remark: you need to also copy the Memo Text !). On this tutorial we assume that you use the QR scan option.
 
-![](img/paymethod.png) 
+![](img/paymethod.png ':size=600') 
 
 On the payment page, you would be instructed to transfer some TFT to pay for your new node, by sending your TFT from an external Stellar wallet to your eVDC Wallet. In this tutorial we would be using inside the ThreeFold Connect Mobile App as our medium of transfer.
 
-![](img/paynode.png)
+![](img/paynode.png ':size=600')
 
 Scan the QR Code by using ThreeFold Connect app on your phone and confirm your payment. 
 
@@ -25,7 +25,7 @@ Scan the QR Code by using ThreeFold Connect app on your phone and confirm your p
 
 The payment screen will automatically reload itself if payment is successful and start to deploy the new node immidiately. The new node deployment will take a few minutes, please do not close this deployment window in the meantime.
 
-![](img/extendnodeprocess.png)
+![](img/extendnodeprocess.png ':size=600')
 
 Once the new node deployment is finished, you will be directed to the final screen that shows that your eVDC has been extended / upgraded successfuly. You can now go back to 'My VDC' page and see that a new worker node has been deployed successfully.
 
