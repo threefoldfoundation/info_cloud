@@ -21,7 +21,7 @@ On the payment page, you would be instructed to transfer some TFT to pay for you
 
 Scan the QR Code by using ThreeFold Connect app on your phone and confirm your payment. 
 
-![](img/scanqr.jpeg)
+![](img/scanqr.jpeg ':size=400')
 
 The payment screen will automatically reload itself if payment is successful and start to deploy the new node immidiately. The new node deployment will take a few minutes, please do not close this deployment window in the meantime.
 

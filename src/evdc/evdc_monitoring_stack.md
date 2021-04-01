@@ -22,36 +22,36 @@ You can monitor the health of the VDC you deploy. A stack has been prepared that
 
 The monitoring stack is available as a solution in the marketplace. 
 
-![](img/evdc_k8s_monitoring_01_mktpl.png)
+![](img/evdc_k8s_monitoring_01_mktpl.png ':size=200')
 
 Click `Deploy` and go through a simple chat flow to configure the monitoring on your cluster. 
 
-![](img/evdc_k8s_monitoring_02_mktpl2.png)
+![](img/evdc_k8s_monitoring_02_mktpl2.png ':size=200')
 
 A few elements need to be provided. 
 First, give your monitoring the name you want (it will be part of the url).
 
-![](img/evdc_k8s_monitoring_03_name.png)
+![](img/evdc_k8s_monitoring_03_name.png ':size=600')
 
 You can configure the URL to be auto-generated or part of your domain. 
 
-![](img/evdc_k8s_monitoring_04_subdomain.png)
+![](img/evdc_k8s_monitoring_04_subdomain.png ':size=600')
 
 This information is enough to prepare the Monitoring Stack. 
 
-![](img/evdc_k8s_monitoring_05_deploying.png)
+![](img/evdc_k8s_monitoring_05_deploying.png ':size=600')
 
 Choose the size of the hardware to be reserved for your monitoring solution. 
 
-![](img/evdc_k8s_monitoring_06_flavour.png)
+![](img/evdc_k8s_monitoring_06_flavour.png ':size=600')
 
 Now there is enough information to set up the monitoring stack on your Kubernetes cluster. 
 
-![](img/evdc_k8s_monitoring_07_init.png)
+![](img/evdc_k8s_monitoring_07_init.png ':size=600')
 
 And that's it: the URLs are available to access your monitoring solution, with both UIs on Prometheus and Grafana. 
 
-![](img/evdc_k8s_monitoring_08_success.png)
+![](img/evdc_k8s_monitoring_08_success.png ':size=600')
 
 ![](img/evdc_k8s_monitoring_09_prometheus.png)
 

@@ -16,23 +16,23 @@ First, find the **Digibyte Widget** on the marketplace and click on **'Deploy'**
 
 Create a name for your new node deployment. You will use this name to identify your deployment on your 'Deployed Solutions' list.
 
-![](img/digibyte_create.png)
+![](img/digibyte_create.png ':size=600')
 
 Select the domain type for your Digibyte Node. For deployment with random subdomain, select 'Choose subdomain for me on a gateway',. For deployment with a particular available subdomain, select 'Choose a custom subdomain on a gateway. To deploy a Digibyte Node using your own domain, select 'choose a custom domain'.
 
-![](img/digibyte_domain.png)
+![](img/digibyte_domain.png ':size=600')
 
 Create a new username and password to access your new Digibyte Node.
 
-![](img/digibyte_username.png)
+![](img/digibyte_username.png  ':size=600')
 
 Select the vdc capacity plan for your Digibyte Node workload usage.
 
-![](img/digibyte_plan.png)
+![](img/digibyte_plan.png  ':size=600')
 
 Congratulations! you just successfully deployed a Digibyte Node on the ThreeFold_Grid! You can now click on the given link to access your new Digibyte Node.
 
-![](img/digibyte_success.png)
+![](img/digibyte_success.png  ':size=600')
 
 When you clicked it, you will then be directed to the Node stat page of your new Digibyte Node, where you can find all the information you need to start building solutions on top of your Digibyte Node.
 

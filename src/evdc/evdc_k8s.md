@@ -15,7 +15,7 @@ On the TF Grid, you can deploy a Kubernetes orchestrator out of the box. We have
 
 The deployed Kubernetes instance is a lightweight K3S Kubernetes implementation in Zero-OS.
 
-  ![](img/evdck3slogo.png)
+  ![](img/evdck3slogo.png ':size=200')
 
 - K3S is full conformant production-ready Kubernetes distribution with the following changes:   
    - It is packaged as a single binary

@@ -19,19 +19,19 @@ Once you're logged in the eVDC, find the **Blog** marketplace widget on your adm
 
 Create a name for your blog. This name will be used to identify your deployment on your 'Deployed Solutions' list.
 
-![](img/evdc_blog_01_name.png)
+![](img/evdc_blog_01_name.png ':size=600')
 
 Select the domain type for your blog. For deployment with random subdomain, select `Choose subdomain for me on a gateway`. For deployment with a particular available subdomain, select `Choose a custom subdomain on a gateway`. To host a blog using your own domain, select `choose a custom domain`.
 
-![](img/evdc_blog_02_domain.png)
+![](img/evdc_blog_02_domain.png ':size=600')
 
 Select the vdc capacity plan for your blog usage.
 
-![](img/evdc_blog_03_config.png)
+![](img/evdc_blog_03_config.png ':size=600')
 
 Add your blog repository files to the deployment.
 
-![](img/evdc_blog_04_configuration.png)
+![](img/evdc_blog_04_configuration.png ':size=600')
 
 - Repository url: the url address of your blog's source codes on github
 - Branch: the main official working version of your project. Read more about github branch [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches)
@@ -39,22 +39,23 @@ Add your blog repository files to the deployment.
 
 To create a blog from a template website from ThreeFold, go to [Template Website](https://github.com/threefoldtech/blog_example) on github and click on fork.
 
-![](img/evdc_blog_07_fork.png)
+![](img/evdc_blog_07_fork.png ':size=600')
 
 Go to your newly forked github repository and copy the Repository url on your forked repository
 
-![](img/evdc_blog_08_repo_copy.png)
+![](img/evdc_blog_08_repo_copy.png ':size=600')
 
 Paste the url to the chatflow 'Repository url' form.
 
 Identify the branch of your website (ex. `main` ), identify the main source folder of your website and click `Next`.
 
-![](img/evdc_blog_04_configuration.png)
+![](img/evdc_blog_04_configuration.png ':size=600')
 
 Now the VDC has all what is needed to deploy your blog.
 
 Congratulations! you just successfully hosted a website on the ThreeFold_Grid!
-![](img/evdc_blog_05_success.png)
+
+![](img/evdc_blog_05_success.png ':size=600')
 
 Click on the domain to open and preview your newly hosted blog.
 

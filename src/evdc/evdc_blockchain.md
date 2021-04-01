@@ -8,12 +8,13 @@ TF eVDC aims to give you a solution to deploy blockchain nodes with ease and eff
 
 - [__Digibyte Full Node__](evdc_digibyte) 
 - [__Presearch Node__](evdc_presearch) 
+- [__Polygon Node__](evdc_polygon) 
+
 
 Coming soon :
 - Dash
 - Elrond
 - Harmony
-- Matic
 - Neo
 - Skale
 - TomoChain

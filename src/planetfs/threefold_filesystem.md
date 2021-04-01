@@ -85,7 +85,7 @@ Back in the container's terminal window, `cd /root` and confirm that the two fil
 
 This bootstrap's execution will start up all necessary components and show you that the back-end is ready for dispersing the data.
 
-![](img/planetaryfs_bootstrap_ready.png)
+![](img/planetaryfs_bootstrap_ready.png ':size=600')
 
 After that, your Planetary Secure File System will be mounted at `/root/.threefold/mnt/zdbfs`. Files copied there will automatically be stored on the grid incrementally as fragments of a certain size are filled, by default 32Mb. In a future release, this will no longer be a limitation.
 
@@ -107,9 +107,9 @@ Adding storage nodes manually is simple: press the `+ ADD NODE` button.
 
 You'll be asked to deploy this storage node either on the same farm or on another one. The choice is a balance between security (have the data in multiple locations makes it more resilient against disaster). 
 
-![](img/planetaryfs_farm.png)
+![](img/planetaryfs_farm.png ':size=600')
 
 If you choose `Yes`, select the farm of your choice, and then pay for the extra capacity. 
 
-![](img/planetaryfs_pay.png)
+![](img/planetaryfs_pay.png ':size=600')
 

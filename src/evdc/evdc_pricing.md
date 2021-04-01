@@ -28,7 +28,7 @@ After the creation of your eVDC, you have transferred an amount that is sufficie
 
 Two weeks before expiration, you will receive a request to top up your wallet so that it has sufficient funding available to remain available. 
 
-![](img/evdc_expiration_warning.png)
+![](img/evdc_expiration_warning.png ':size=400')
 
 You can top up your VDC wallet by transferring TFTs to the indicated address or by scanning the QR code in the `Wallet Information`.
 

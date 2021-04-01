@@ -21,31 +21,31 @@ You can deploy a Polygon node on the TFGrid with a few clicks. The widget enable
 
 First step, find the **Polygon Widget** on the marketplace and click on **'Deploy'** button. You will now will be directed to the chatflow of the deployment process.
 
-![](img/polygon_widget.png)
+![](img/polygon_widget.png ':size=200')
 
 Create a name for your new node deployment. This name will be used to identify your deployment on your 'Deployed Solutions' list.
 
-![](img/polygon_01_name.png)
+![](img/polygon_01_name.png ':size=600')
 
 Select the domain type for your Polygon Node. For deployment with random subdomain, select `Choose subdomain for me on a gateway`. For deployment with a particular available subdomain, select 'Choose a custom subdomain on a gateway. To deploy a Polygon Node using your own domain, select 'choose a custom domain'.
 
-![](img/polygon_02_subdomain.png)
+![](img/polygon_02_subdomain.png ':size=600')
 
 Select the VDC capacity plan for compute and memory for your Polygon Node. 
 
-![](img/polygon_03_configuration.png)
+![](img/polygon_03_configuration.png ':size=600')
 
 Choose a password and remember it. It will be needed to access your node's web page. 
 
-![](img/polygon_04_accesscode.png)
+![](img/polygon_04_accesscode.png ':size=600')
 
 The next field is only needed if you intend to deploy a full node. If so, fill in the RPC URL to Ethereum. If you leave this field blank, a Sentry node will be generated. 
 
-![](img/polygon_05_rpcurl_eth.png)
+![](img/polygon_05_rpcurl_eth.png ':size=600')
 
 Congratulations! you just successfully deployed a Polygon/Matic Node on the ThreeFold_Grid! You can now click on the given link to access your new Node.
 
-![](img/polygon_06_success.png)
+![](img/polygon_06_success.png ':size=600')
 
 Clicking on this url will lead you to the stat page of your node, where you can find all the information you need to monitor your node, including the log data showing your node activity. 
 

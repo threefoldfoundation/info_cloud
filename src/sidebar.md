@@ -31,7 +31,7 @@
     - [Wiki](evdc_wiki)
     - [Discourse](evdc_discourse)
     - [Peertube](evdc_peertube)
-    - [Video Chat](evdc_videochat)
+   <!--- > - [Video Chat](evdc_videochat) --->
   - [Decentralized Office](evdc_office)
     - [Cryptpad](evdc_cryptpad)
     - [Mattermost](evdc_mattermost)

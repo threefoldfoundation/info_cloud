@@ -7,7 +7,7 @@ You can find more on ThreeFold Connect [here](threefold:threefold_connect).
 
 You'll see the option to deploy your own Virtual Data Center.
 
-![](img/00_vdc_homepage.png)
+![](img/00_vdc_homepage.png ':size=600') 
 
 ## Steps
 
@@ -15,7 +15,7 @@ To create your eVDC, click `Deploy a VDC`.
 
 Only limited information is needed: a name, a secret password, and the size of your eVDC (can be edited over time).  Currently, the cost for VDC resources on testnet comes at 10% of the commercial mainnet cost, making it super affordable.
 
-![](img/01_vdc_selection.png)
+![](img/01_vdc_selection.png ':size=600')
 
 Now the eVDC is setting up for you.
 Full deployment can start after payment.
@@ -24,7 +24,7 @@ Pay either by scanning the QR code on the Threefold Connect app (only app availa
 
 The amount to be paid is calculated to cover the selected eVDC size capacity for one month.
 
-![](img/02_vdc_payment2.png)
+![](img/02_vdc_payment2.png ':size=600')
 
 After payment, the process takes a while, as many steps happen behind the scene:
 
@@ -40,4 +40,4 @@ A kubeconfig file is generated and can be downloaded.
 
 Remark: keep this file secure and safe, as it contains all info for anyone to access the Kubernetes cluster.
 
-![](img/08_vdc_deploy_success2.png)
+![](img/08_vdc_deploy_success2.png ':size=600')

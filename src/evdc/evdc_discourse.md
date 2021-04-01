@@ -11,25 +11,26 @@ In the marketplace, click on the `DEPLOY` button.
 
 Give your solution a name.
 
-![](img/evdc_discourse_01_name.png)
+![](img/evdc_discourse_01_name.png ':size=600')
 
 You can choose to create a url which is part of your domain, or have one auto-generated. 
 
-![](img/evdc_discourse_02_domain.png)
+![](img/evdc_discourse_02_domain.png ':size=600')
 
 Choose the resource you intend to use for your Discourse solution. 
 
-![](img/evdc_discourse_03_flavour.png)
+![](img/evdc_discourse_03_flavour.png ':size=600')
 
 Discourse comes with a mysql database that can be accessed by creating a username and password. 
 
-![](img/evdc_discourse_04_configuration.png)
+![](img/evdc_discourse_04_configuration.png ':size=600')
 
 Your Discourse instance requires an e-mail service. A few attributes are needed to connect your e-mail server. 
 
-![](img/evdc_discourse_05_mailsetup.png)
+![](img/evdc_discourse_05_mailsetup.png ':size=600')
 
 Now all info is available to create your Discourse server. 
+
 ![](img/evdc_discourse_06_success.png)
 
 The url that gives access to it can be found on the next screen, or in the deployed solutions overview. 

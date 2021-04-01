@@ -14,19 +14,19 @@ The first step, find the **ZeroCI Widget** on the marketplace and click on the *
 
 Create a name for your solution. This name will be used to identify your deployment on your `Deployed Solutions` list.
 
-![](img/evdc_zeroci_01_name.png)
+![](img/evdc_zeroci_01_name.png ':size=600')
 
 Select the domain type. For deployment with a random subdomain, select `Choose subdomain for me on a gateway`. For deployment with a particular available subdomain, select 'Choose a custom subdomain on a gateway. To deploy a ZeroCI server using your domain, select `choose a custom domain`.
 
-![](img/evdc_zeroci_02_domain.png)
+![](img/evdc_zeroci_02_domain.png ':size=600')
 
 Select the VDC capacity plan for your ZeroCI server workload usage. This plan depends on the amount of workload you intend to store on the 
 
-![](img/evdc_zeroci_03_flavour.png)
+![](img/evdc_zeroci_03_flavour.png ':size=600')
 
 Congratulations! you just successfully deployed a ZeroCI server on the ThreeFold_Grid! You can now click on the given link to access it.
 
-![](img/evdc_zeroci_04_success.png)
+![](img/evdc_zeroci_04_success.png ':size=600')
 
 When you clicked it, you will then be directly requested to log in using your ThreeFold Connect app.
 
@@ -36,11 +36,11 @@ The deployed version comes with a easy login using the two-factor authenticated 
 
 Fill in the ThreeFold / 3Bot ID that you created. 
 
-![](img/evdc_tfc_login.png)
+![](img/evdc_tfc_login.png ':size=400')
 
 Press `Sign In`. You will see a screen with an emoji and a corresponding one on your mobile device. Type your password on your smartphone, or authenticity yourself with the biometrics credentials in the app. And click on the emoji that matches the emoji on the login screen on your computer.
 
-![](img/evdc_tfc_sso.png)
+![](img/evdc_tfc_sso.png ':size=400')
 
 You're ready to build and configure your Continuous Integration scenarios into ZeroCI!
 
@@ -51,7 +51,7 @@ You're ready to build and configure your Continuous Integration scenarios into Z
 
 To find and access the ZeroCI server you just deployed, go to your eVDC Admin Panel home and find the ZeroCI Widget. Click on **My Workloads** to go to the list of your successfully deployed ZeroCI instance.
 
-![](img/evdc_zeroci_06_myworkload.png)
+![](img/evdc_zeroci_06_myworkload.png ':size=200')
 
 You can now click the link to go to your deployed ZeroCI.
 

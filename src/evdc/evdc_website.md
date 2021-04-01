@@ -15,23 +15,23 @@ By using eVDC you can now deploy and host your own website on top of the ThreeFo
 
 Once youre logged in the eVDC, find the **Website** marketplace widget on your admin panel and click on **Deploy** button.
 
-![](img/website_startnew.png)
+![](img/website_startnew.png ':size=600')
 
 Create a name for your new website. This name will be used to identify your deployment on your 'Deployed Solutions' list.
 
-![](img/website_name.png)
+![](img/website_name.png ':size=600')
 
 Select the domain type for your own website. For deployment with random subdomain, select 'Choose subdomain for me on a gateway',. For deployment with a particular available subdomain, select 'Choose a custom subdomain on a gateway. To host a website using your own domain, select 'choose a custom domain'.
 
-![](img/website_domain.png)
+![](img/website_domain.png ':size=600')
 
 Select the vdc capacity plan for your website usage
 
-![](img/website_capacity.png)
+![](img/website_capacity.png ':size=600')
 
 Add your website repository files to the deployment.
 
-![](img/website_identify.png)
+![](img/website_identify.png ':size=600')
 
 - Repository url: the url address of your website's source codes on github
 - Branch: the main official working version of your project. Read more about github branch [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches)
@@ -39,26 +39,26 @@ Add your website repository files to the deployment.
 
 To create a website from a template website from ThreeFold, go to [Template Website](https://github.com/threefoldfoundation/website_example) on github and click on fork.
 
-![](img/website_fork.png)
+![](img/website_fork.png ':size=600')
 
 Go to your newly forked github repository and copy the Repository url on your forked repository
 
-![](img/website_copy.png)
+![](img/website_copy.png ':size=600')
 
 Paste the url to the chatflow 'Repository url' form.
 
-![](img/website_paste.png)
+![](img/website_paste.png ':size=600')
 
 Identify the branch of your website (ex. `main` ), identify the main source folder of your website and click 'Next'
 
-![](img/website_identify.png)
+![](img/website_identify.png ':size=600')
 
 Wait a few minutes while your new website is being deployed...
 
-![](img/website_deploy.png)
+![](img/website_deploy.png ':size=600')
 
 Congratulations! you just successfully hosted a website on the ThreeFold_Grid!
-![](img/website_success.png)
+![](img/website_success.png ':size=600')
 
 Click on the website domain to open and preview your newly hosted website.
 
