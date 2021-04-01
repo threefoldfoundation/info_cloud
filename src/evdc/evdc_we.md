@@ -11,8 +11,9 @@ Decentralized We is all about providing alternatives to the tools we use every d
 - [__Wiki__](evdc_wiki) : create your online encyclopedia accessible via an IP and a public domain
 - [__Discourse__](evdc_discourse) : an open source forum built to educate members about civil community engagement
 - [__Peertube__](evdc_peertube) : an open-source video platform that uses peer-to-peer tech to reduce load on individual servers when viewing videos
-- [__Video Chat__](evdc_videochat) : a peer-to-peer video chatting platform 
+
 
 Coming soon :
 - __Mozilla Hubs__ Virtual Space 
 - __Bookstack__ Knowledge Base
+- __Video Chat__, a peer-to-peer video chatting platform 
