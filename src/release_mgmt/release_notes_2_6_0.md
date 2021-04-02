@@ -66,6 +66,10 @@
 - Replaced Firecracker to Cloud-hypervisor for virtualization
 - Support new k8s special size
 - Fixed CPU limits on container
+- Upgraded the 0-db's running on the grid
+- Add support for creating and using macVtap interfaces for public traffic on vms
+- Disable COW on vm disk backends
+- Better VM cleanup
 
 ## Digital Twin v0.2.0 (Demo)
 - Full chat and messaging features: Add gifs, block contact, send files
