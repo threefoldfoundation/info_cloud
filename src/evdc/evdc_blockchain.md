@@ -12,6 +12,7 @@ TF eVDC aims to give you a solution to deploy blockchain nodes with ease and eff
 
 
 Coming soon :
+- CasperLabs
 - Dash
 - Elrond
 - Harmony
