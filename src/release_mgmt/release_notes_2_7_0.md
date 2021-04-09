@@ -15,14 +15,8 @@ Live on testnet - April 11, 2021.
 - Marketplace solution: Owncloud file hosting services deployable using TF Connect Authentication
 - Marketplace solution: Mastodon decentralized social network deployable using TF Connect Authentication
 - Marketplace solution: Polygon (Matic) Full-, Sentry-, and Validator Node solution deployment
+- Added notification to migrate remaining TFT before deleting a VDC
 
-#### 3Bot SDK v2.6.0
-- New chatflows on network management and capacity pool
-- Farm management custom prices support
-- New Kubernetes support for public IPs
-- More sizes support for Kubernetes deployment
-- Email notification for expiring pools empty wallets
-- Rebranded 3Bot Marketplace as 3Bot Apps
 
 ## ThreeFold Connect App v2.6.0 
 
@@ -42,6 +36,7 @@ Live on production (Android OS and iOS) - April 11, 2021.
 - Added 'exchange trade transaction history' feature to TF Wallet
 - Fee rework: changed fund transaction to fee bump transaction
 - Fee rework: excluded fee entries from transaction overview
+
 
 ## Farm Management Tool v1.0
 - Added automation for classic network monitoring 
