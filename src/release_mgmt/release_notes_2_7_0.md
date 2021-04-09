@@ -24,7 +24,9 @@ Live on testnet - April 11, 2021.
 - Email notification for expiring pools empty wallets
 - Rebranded 3Bot Marketplace as 3Bot Apps
 
-## ThreeFold Connect v2.6.0 
+## ThreeFold Connect App v2.6.0 
+
+Live on production (Android OS and iOS) - April 11, 2021.
 
 ### Component Upgrades
 - [TF Wallet](https://github.com/threefoldtech/threefold_wallet)
@@ -33,9 +35,9 @@ Live on testnet - April 11, 2021.
 
 #### ThreeFold Wallet v2.6.0
 - New TFT Vesting Feature
-- Major upgrade on Vuetify Material Component Framework used for the interface.
-- Implemented dependabot changes keeping dependencies secure and up-to-date. 
-- Consistent Currency formatting.
+- Major upgrade on Vuetify Material Component Framework used for the interface
+- Implemented dependabot changes keeping dependencies secure and up-to-date
+- Consistent Currency formatting
 - Wallet drag and drop fixes
 - Added 'exchange trade transaction history' feature to TF Wallet
 - Fee rework: changed fund transaction to fee bump transaction
