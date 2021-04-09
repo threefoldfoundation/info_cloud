@@ -1,6 +1,7 @@
 
  # ThreeFold Cloud 2.6
-
+ 
+Live on testnet - April 2, 2021.
 
 ## JS-SDK v11.2.0
 
