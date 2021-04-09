@@ -43,3 +43,7 @@ Live on production (Android OS and iOS) - April 11, 2021.
 - Fee rework: changed fund transaction to fee bump transaction
 - Fee rework: excluded fee entries from transaction overview
 
+## Farm Management Tool v1.0
+- Added automation for classic network monitoring 
+- Added automation for farm network creation
+- Added automation for node power management
