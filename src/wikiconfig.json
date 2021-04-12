@@ -1,0 +1,7 @@
+{
+  "name": "info_cloud",
+  "depends": [],
+  "sitereplace":[],
+  "wordreplace":[],
+  "filereplace":[]
+}
