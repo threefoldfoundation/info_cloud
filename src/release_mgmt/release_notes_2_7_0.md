@@ -34,9 +34,8 @@ Live on production (Android OS and iOS) - April 11, 2021.
 - Consistent Currency formatting
 - Wallet drag and drop fixes
 - Added 'exchange trade transaction history' feature to TF Wallet
-- Fee rework: changed fund transaction to fee bump transaction
+- Fee rework: changed fund transaction to fee bump transaction
 - Fee rework: excluded fee entries from transaction overview
-
 
 ## Farm Management Tool v1.0
 - Added automation for classic network monitoring 
