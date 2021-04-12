@@ -1,6 +1,5 @@
 # Getting started with the eVDC
 
-
 Steps
 
 - [Create your VDC](evdc_create)
@@ -10,8 +9,6 @@ Steps
 - [Remove your VDC](evdc_remove)
 - [Price Sheet](evdc_pricing)
 - [Where to buy TFT](buy_tft)
-
-
 
 ## Where to ask questions
 
