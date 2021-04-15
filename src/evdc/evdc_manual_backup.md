@@ -1,10 +1,10 @@
-# Manual Back-Up
+## Create a manual back-up
 
-Creating a manual back-up might be relevant when you want to save a particular configuration. 
+When you want to save particular configurations, a manual back-up always comes in handy. 
 
 Executing a back-up is easy : 
 
-- Click on the `+ CREATE BACKUP` button in the upper right corner
+- Click on the `+ CREATE BACKUP` button in the upper right corner.
 - Give your backup a name and press `CONFIRM`. 
 
-Now the back-up has been made and is available for restore purposes for 1 month. 
+Now the back-up has been made and can be restored for a period of 1 month before being deleted. 

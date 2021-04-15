@@ -1,24 +1,18 @@
 # Kubernetes Cluster Actions
 
-#### Pre-required 
-- You'll need to log in through Threefold Connect, an authenticator for the ThreeFold ecosystem.
-- You can find more on ThreeFold Connect [here](threefold:threefold_connect).
+## Pre-requirement
 
-#### Getting Started 
-The Kubernetes cluster comes with the creation of your VDC.
+- Log in through Threefold Connect, with a 2 Step Verification to secure your account with both your password and your phone. You can find more on ThreeFold Connect [here](threefold:threefold_connect).
 
-You can create this VDC with a deployed Kubernetes Cluster on the VDC deployment website : 
-- on testnet [here](https://vdc.testnet.grid.tf)
-- mainnet coming soon
+## Getting Started 
 
-#### Managing your resources
+### Deploy your eVDC
 
-- [Add a Node](evdc_upgrade)
-- [Remove a Node](evdc_downgrade)
-- [Manage your Kubernetes Cluster](evdc_k8s)
+The Kubernetes cluster comes with the creation of your eVDC. You can find how to deploy your eVDC [here](evdc) and all you need to know around the management of your eVDC [here](evdc_getting_started).
 
+!!!include:kubernetes_monitor
 
----
+!!!include:kubernetes_container_images
 
 ## Where to ask questions
 
