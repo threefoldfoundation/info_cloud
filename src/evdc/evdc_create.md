@@ -40,3 +40,11 @@ Once the above steps are copleted, your eVDC will be ready for exploitation. A k
 > Note: keep this file secure and safe, as it contains all the information required to share access to your Kubernetes cluster.
 
 ![](img/08_vdc_deploy_success2.png ':size=600')
+
+## More Info:
+
+  - [Access your VDC](evdc_access) - How to access your eVDC.
+  - [Your VDC Admin Panel](evdc_my_evdc) - An introduction to your Admin Panel.
+  - [Manage Compute Nodes](evdc_compute) - An overview of how to manage your peer-to-peer compute nodes.
+  - [Manage Storage Nodes](evdc_storage) - An overview of how to manage your peer-to-peer storage nodes.
+  - [Wallet](evdc_wallet) - An overview of how to manage your wallet.

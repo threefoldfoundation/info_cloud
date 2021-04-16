@@ -38,4 +38,5 @@ You can top-up your VDC wallet by transferring TFTs to the indicated address or 
 
 ## More Info
 
-- Learn how to buy TFT [here](threefold:how_to_buy_and_sell)
+- Learn how to buy TFT [here](threefold:how_to_buy_and_sell).
+- See how to manage your [Wallet](evdc_wallet).

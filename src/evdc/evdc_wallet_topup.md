@@ -24,6 +24,7 @@ Reload your eVDC Wallet Information page on your desktop after the successful tr
 
 ![](img/transfer_success.png)
 
-More info:
+## More info:
 - Go back to [My eVDC Wallet page](evdc_wallet)
 - Read more on [how to upgrade eVDC Capacity](evdc_upgrade) by using the TFT balance in your eVDC Wallet.
+- How to [Import your eVDC Wallet to an External Wallet](evdc_wallet_import).

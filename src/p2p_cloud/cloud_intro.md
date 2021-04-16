@@ -36,3 +36,10 @@ If you are new to ThreeFold and peer-to-peer systems, you're about to discover a
 P2P is a movement within software development that will turn centralized and web3 into decentralized, secure and sustainable protocols that can scale infinitely. Instead of having a single point of control (like in public clouds) or replicating the data across many nodes (like in blockchain), applications and files built on P2P architectures remove the need from any intermediaries as well as replication of the data. Instead data is broken into shards (like puzzle pieces) and every shard is stored in a different server. This reduces the risk of censorship while also making it incredibly secure and sustainable. 
 
 P2P is therefore a trustless infrastructure that allows users and developers to have real data ownership while reclaiming control over their data. 
+
+## More info:
+
+- [P2P Cloud Products](cloud_products) - An introduction to the core products of ThreeFold P2P Cloud.
+- [P2P Cloud Benefits](usp) - A walk through the benefits of using ThreeFold P2P Cloud.
+- [Architecture](cloud_architecture) - Dive into the architecture that powers the ThreeFold P2P Cloud.
+- [Web 2.0 vs Web 3.0 vs P2P](cloud_compare) - How ThreeFold P2P Cloud compares to a Public Cloud or a Blockchain.

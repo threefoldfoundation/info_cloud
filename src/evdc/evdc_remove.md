@@ -9,3 +9,9 @@ This will open a pop-up to confirm the deletion of the VDC. To remove the VDC, a
 ![](img/02_vdc_remove_confirm.png ':size=400')
 
 The remaining money on the prepaid wallet will be sent back to the originator account (the one that provisioned it with TFT). 
+
+## More Info:
+
+More info:
+- Go back to the [Compute Nodes Management](evdc_compute) section.
+- How to [Manage your Kubernetes Cluster](evdc_k8s).

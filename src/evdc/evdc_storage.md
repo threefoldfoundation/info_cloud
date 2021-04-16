@@ -31,3 +31,8 @@ Z-STOR also allows the reconstruction of the data, loading existing data (as lon
 In the below configuration, data is sharded (chunked) into three pieces (each hosted on a different node with indicated IPv6 address), with two shards being sufficient to recompose the data. 
 
 ![](img/evdc_k8s_storage_zstor_config2.png ':size=400')
+
+## More Info:
+
+  - [Back-up and Restore](evdc_backup_restore) - An introduction to how to create and restore back-ups.
+ 

@@ -14,7 +14,7 @@ This enables users to see the available capacity on the TF Grid Explorer and res
 
 TFT is the official currency of ThreeFold P2P Cloud. It is a decentralized digital currency that represents a unit of reservation of capacity (compute, storage, network).
 
-Learn more about TFT here.
+Learn more about TFT [here](threefold:token_home).
 
 ## The operating system: Zero-OS 
 
@@ -29,7 +29,7 @@ There is no shell, local nor remote attached to Zero-OS. It does not allow for i
 
 The compute, storage and network primitives can only be accessed via a 'Smart Contract for IT'.
 
-Learn more about Zero-OS here Learn more about compute, storage and network on the TF Grid here.
+Learn more about Zero-OS [here](threefold:part2_3node_primitive_workloads). 
 
 ## The servers: 3Nodes
 
@@ -37,9 +37,11 @@ The ThreeFold Grid is the first autonomous cloud grid in the world and is comple
 
 All 3Nodes connected to the ThreeFold Grid are booted with the Zero-OS operating system. The 3Nodes will register themselves autonomously to the blockchain database called the TF Directory. Once registered in the TF Directory, the capacity of the 3Nodes will become available on the TF Grid Explorer. We call this proof-of-capacity. This brings a major benefit to users as compared to many blockchain protocols that run on public cloud providers.
 
-You can have your own dedicated node, while others use load balancers to distribute activity across nodes. Almost all compute (EVDC) and storage (QSFS) services are extremely easy to work with, making it easy to switch nodes or even to switch between your compute and storage dedicated nodes.
+You can have your own dedicated node, while others use load balancers to distribute activity across nodes. Almost all compute (EVDC) and storage (QSFS) services are extremely easy to work with, making it easy to switch 3Nodes or even to switch between your compute and storage dedicated 3Nodes.
 
-It's important to note that nodes do not store private information such as private keys. All these remains available only to your virtual system administrator - 3bot.
+It's important to note that 3Nodes do not store private information such as private keys. All these remains available only to your virtual system administrator - 3bot.
+
+Learn more about 3Nodes [here](threefold:part1_the_3node).
 
 ## Smart Contract for IT
 
@@ -52,7 +54,7 @@ While sticking to these principles, it provides the basis to consider and descri
 
 Everything from the reservation of storage and compute to the management of your development environment is handled by the Smart Contract for IT. The smart contract creates and registers the IT requirements in the blockchain database. Zero-OS nodes then cooperate with the smart contract execution code. 
 
-Learn more about smart contract for IT here.
+Learn more about smart contract for IT [here](tftech:smart_contract_for_it).
 
 ## The virtual system administrator: 3Bot
 3Bot is a virtual system administrator that manages the user’s IT workloads. It can manage millions of objects and remains fully private to its owner as every 3Bot is equipped of a private key. This ensures an immutable record of any workload as well as a self-healing functionality to restore these workloads if/when needed.
@@ -65,9 +67,30 @@ While using ThreeFold P2P Cloud, you deploy your own private environment. This m
 
 3Bot is equipped with a cryptographic 2-factor authentication mechanism. You can log in to your 3Bot via the ThreeFold Connect app on your device which contains your private key. 
 
-Learn more about 3Bot here.
+Learn more about 3Bot [here](threefold:part4_3bot_digital_avatar_digital_self).
 
-## More Info:
+## How Mature is the TF Grid today?
 
-Learn more about ThreeFold's technology here   TODO > link to threefold technology to learn more
+- Our Zero-OS is beta quality and is at its 2nd major release.
+- The workloads can be registered using json format for our Smart Contract for IT layer.
+- Experts can use any development language on the grid.
+- We need more developers and copywriters to help expand the technology and knowledge base.
 
+## TF Grid for tech experts
+
+- 3Bot serves as your virtual system administrator, see [SDK](http://sdk.threefold.io).
+- It's a very powerful tool that allows you to automate & manage thousands of virtual workloads.
+- Python language can be used to extend this tool and make it your own.
+- This software is beta quality but usable for production. Be reminded that the workload itself is running on Zero-OS and the Smart Contract for IT layer, which is production quality.
+
+*Note: This was last updated March 2021.*
+
+## More info:
+
+- [P2P Cloud Products](cloud_products) - An introduction to the core products of ThreeFold P2P Cloud.
+- [eVDC Get Started](evdc_getting_started) - Start your peer-to-peer cloud journey with eVDC
+- [QSFS Get Started](threefold_filesystem) - Learn how to store peer-to-peer with QSFS
+- [Marketplace Get Started](evdc_marketplace) - Deploy peer-to-peer apps on top of your eVDC.
+- [P2P Cloud Benefits](usp) - A walk through the benefits of using ThreeFold P2P Cloud.
+- [Architecture](cloud_architecture) - Dive into the architecture that powers the ThreeFold P2P Cloud.
+- [Web 2.0 vs Web 3.0 vs P2P](cloud_compare) - How ThreeFold P2P Cloud compares to a Public Cloud or a Blockchain.

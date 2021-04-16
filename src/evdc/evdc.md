@@ -18,6 +18,9 @@ EVDC offers the following computing benefits:
 - Self-healing and self-driving functionalities to ensure your workloads are always up and running.
 - Hyper-competitive prices considering the advanced technology stack
 
-## Deploy your eVDC
+## More info:
 
-Follow the instructions on [eVDC Deployer](evdc_deployer) to deploy an eVDC; your private scalable cloud on the ThreeFold_Grid.
+  - [Get Started](evdc_getting_started) - An overview of how to get started with eVDC.
+  - [Create a VDC](evdc_create) - How to create your eVDC.
+  - [Pricing](evdc_pricing) - An overview of the pricing packages for eVDC.
+  - [Where to get tokens](buy_tft) - Explains where and how you can get TFT to run your eVDC.

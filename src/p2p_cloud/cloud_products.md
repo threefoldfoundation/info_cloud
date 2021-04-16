@@ -84,7 +84,14 @@ IAC offers three main advantages:
 - IaC shifts the power into the developer’s hands. As the infrastructure provisioning becomes more reliable and consistent, developers can start focusing on the application development. They can script once and use that code multiple times, saving time and effort while keeping complete control.
 - Automation removes the risk associated with human error, like manual misconfiguration; removing this can decrease downtime and increase reliability. 
 
+## More info:
 
+- [eVDC Get Started](evdc_getting_started) - Start your peer-to-peer cloud journey with eVDC
+- [QSFS Get Started](threefold_filesystem) - Learn how to store peer-to-peer with QSFS
+- [Marketplace Get Started](evdc_marketplace) - Deploy peer-to-peer apps on top of your eVDC.
+- [P2P Cloud Benefits](usp) - A walk through the benefits of using ThreeFold P2P Cloud.
+- [Architecture](cloud_architecture) - Dive into the architecture that powers the ThreeFold P2P Cloud.
+- [Web 2.0 vs Web 3.0 vs P2P](cloud_compare) - How ThreeFold P2P Cloud compares to a Public Cloud or a Blockchain.
 
 
 

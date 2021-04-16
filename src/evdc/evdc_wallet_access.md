@@ -12,7 +12,8 @@ You will then be redirected to your eVDC Wallet page.
 
 ![](img/walletinfo.png)
 
-More Info:
-- How to [Top-up Your TFT Balance onto Your eVDC Wallet](evdc_wallet_topup).
-- How to [Import your eVDC Wallet to an External Wallet](evdc_wallet_import).
+## More Info:
+
 - Go back to ['eVDC Management' Manual](evdc_manage).
+- How to [Top-up TFT on your eVDC Wallet](evdc_wallet_topup).
+- How to [Import your eVDC Wallet to an External Wallet](evdc_wallet_import).

@@ -23,3 +23,11 @@ The portal has two parts - VDC and Marketplace. Marketplace offers various ready
 In case you are in the Marketplace, you can easily switch to `MY VDC` by clicking the button in the upper right corner. 
 
 ![](img/vdc_portal_marketplace.png ':size=600')
+
+## More Info:
+
+  - [Your VDC Admin Panel](evdc_my_evdc) - An introduction to your Admin Panel.
+  - [Manage Compute Nodes](evdc_compute) - An overview of how to manage your peer-to-peer compute nodes.
+  - [Manage Storage Nodes](evdc_storage) - An overview of how to manage your peer-to-peer storage nodes.
+  - [Wallet](evdc_wallet) - An overview of how to manage your wallet.
+  - [Where to get tokens](buy_tft) - Explains where and how you can get TFT to run your eVDC.

@@ -44,8 +44,8 @@ You can then go back to your `Compute Nodes` section and it will display the new
 
 ![](img/newnode.png)
 
+## More info:
 
-More info:
 - Go back to the [Compute Nodes Management](evdc_compute) section.
-- [Downgrade your eVDC](evdc_downgrade) compute capacity by removing worker nodes.
+- Learn how to [Downgrade your eVDC](evdc_downgrade) compute capacity by removing worker nodes.
 - How to [Manage your Kubernetes Cluster](evdc_k8s).

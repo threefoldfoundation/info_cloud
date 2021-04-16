@@ -18,6 +18,8 @@ Therefore, it is highly recommended to import your testnet eVDC Wallet to an ext
 
 - You can transfer your TFT from eVDC mainnet or testnet, and import your wallet into __ThreeFold Connect Wallet__ or a third party Stellar wallet (mainnet), like , __Solar Wallet__, or __Interstellar Wallet__. 
 
-More info: 
+## More Info:
+
+- Go back to [My eVDC Wallet page](evdc_wallet)
 - Read a [manual]((evdc_wallet_import_tf)) on how to import your eVDC Wallet to your ThreeFold Connect Wallet (Mobile App).
 - Read a [manual](evdc_wallet_import_solar) on how to import your eVDC Wallet to a Solar Wallet (Third-party App).

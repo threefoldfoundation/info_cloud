@@ -20,8 +20,16 @@ In the `STORAGE NODES` section of the `MY VDC` screen shows you the reserved har
 
 ## Functionalities
 
-- [Manage Compute Nodes](evdc_compute)
-- [Manage Storage Nodes](evdc_storage)
-- [eVDC Wallet](evdc_wallet)
-- [eVDC Backup & Restore](evdc_backup_restore)
-- [Manage your Kubernetes Cluster](evdc_k8s)
+- [Manage your Compute Nodes](evdc_compute)
+- [Manage your Storage Nodes](evdc_storage)
+- [Manage your eVDC Wallet](evdc_wallet)
+- [Backup & Restore your eVDCs](evdc_backup_restore)
+- [Manage your Kubernetes Clusters](evdc_k8s)
+
+
+## More Info:
+
+  - [Upgrade your eVDC](evdc_upgrade) - A guide on  how to upgrade your eVDC compute and storage.
+  - [Remove an eVDC](evdc_remove) - A guide on how to downgrade your eVDC compute and storage.
+  - [Pricing](evdc_pricing) - An overview of the pricing packages for eVDC.
+  - [Where to get tokens](buy_tft) - Explains where and how you can get TFT to run your eVDC.
