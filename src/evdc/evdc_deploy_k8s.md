@@ -13,13 +13,8 @@ The Kubernetes cluster comes with the creation of your VDC.
   - It is secure by default with reasonable defa&ults for lightweight environments
   - It eliminates the need to expose a port on Kubernetes worker nodes fopr the kubelet API by exposing this API to the Kubernetes control plain nodes over a websocket tunnel.
   More info can be found [here](https://github.com/rancher/k3s)
-<<<<<<< HEAD
   - You'll need to log in through Threefold Connect, an authenticator for the ThreeFold Companies.
     You can find more on ThreeFold Connect [here](sdk:threefold_connect_install).
-=======
-  - You'll need to log in through Threefold Connect, an authenticator for the ThreeFold ecosystem.
-    You can find more on ThreeFold Connect [here](threefold:threefold_connect).
->>>>>>> 3c822dc8a9abf95357bd1c63ec1865c2ef721545
 
 ## Next, use the guided setup to create and configure your private VDC
 
