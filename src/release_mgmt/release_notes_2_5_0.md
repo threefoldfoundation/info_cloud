@@ -1,5 +1,7 @@
  # ThreeFold Cloud 2.5
 
+Live on testnet - February 28, 2021.
+
 ## Component Upgrades
 
 ### JS-SDK v11.2.0
