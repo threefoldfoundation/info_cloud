@@ -20,7 +20,7 @@ Then the eVDC will set-up autonomously, and you should be able to deploy workloa
 
 You can pay by scanning the QR code on the Threefold Connect app.
 
-> Note: Only ThreeFold Connect can read the QR info; address, amount, currency and memo text. We do not guarantee that this QR code is readable by other Stellar wallets). 
+> Note: Only ThreeFold Connect can read the QR info; address, amount, currency and memo text. We do not guarantee that this QR code is readable by other Stellar wallets. 
 
 The amount to be paid is calculated according to your eVDC [monthly package](evdc_pricing)
 
