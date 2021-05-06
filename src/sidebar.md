@@ -15,7 +15,7 @@
   - [What is eVDC?](evdc)
   - [Get Started](evdc_getting_started)
     - [Create](evdc_create)
-    - [Access](evdc_acc ess)
+    - [Access](evdc_access)
     - [My VDC](evdc_my_evdc)
     - [Manage Compute Nodes](evdc_compute)
     - [Manage Storage Nodes](evdc_storage)

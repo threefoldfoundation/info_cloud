@@ -14,6 +14,5 @@ You should see a pop-up that will confirm the node deletion. Type the numerical 
 
 More Info:
 - Go back to the [Compute Nodes Management](evdc_compute) section.
-- [Upgrade your eVDC]((evdc_upgrade)) compute capacity by adding worker nodes.
+- [Upgrade your eVDC](evdc_upgrade) compute capacity by adding worker nodes.
 - How to [Manage your Kubernetes Cluster](evdc_k8s).
-

@@ -10,16 +10,9 @@ You will be redirected to the 'Compute Nodes' page within your eVDC management p
 
 ![](img/computenodes.png)
 
-More info:
-- [Upgrade your eVDC]((evdc_upgrade)) compute capacity by adding worker nodes.
-- [Downgrade your eVDC](evdc_downgrade) compute capacity by removing worker nodes.
-- How to [Manage your Kubernetes Cluster](evdc_k8s).
-
-
 ## More Info:
 
   - [Upgrade your eVDC](evdc_upgrade) - A guide on  how to upgrade your eVDC compute and storage.
   - [Downgrade your eVDC](evdc_downgrade) compute capacity by removing worker nodes.
   - [Remove an eVDC](evdc_remove) - A guide on how to downgrade your eVDC compute and storage.
   - [How to Manage your Kubernetes Cluster](evdc_k8s).
-  

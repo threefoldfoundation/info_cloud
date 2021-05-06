@@ -13,7 +13,7 @@ Through this panel, you can easily deploy and manage pre-configured applications
 
  If you already have your eVDC deployed, you can skip that step. 
 
- > Note: To learn the ins and outs of your eVDC, we invite you to go through [eVDC Get Started](evdc_get_started). 
+ > Note: To learn the ins and outs of your eVDC, we invite you to go through [eVDC Get Started](evdc_getting_started). 
 
 ## How to access the Marketplace
 

@@ -16,4 +16,4 @@ Two types of back-ups are available:
 
 !!!include:evdc_restore
 
-!!!include: evdc_backup_delete
+!!!include:evdc_backup_delete
