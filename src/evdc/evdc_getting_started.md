@@ -15,7 +15,18 @@ Once set-up you can upgrade or downgrade your VDC:
 
 - [Upgrade your VDC](evdc_upgrade)
 - [Remove your VDC](evdc_remove)
+=======
+Steps
 
-You can find all the information on the different packages of storage and compute resources you need to run your eVDC [here](evdc_pricing).
+- [Create your VDC](evdc_create)
+- [Access your VDC](evdc_access)
+- [Manage Your VDC](evdc_my_evdc)
+- [Upgrade your VDC](evdc_upgrade)
+- [Remove your VDC](evdc_remove)
+- [Price Sheet](evdc_pricing)
+- [Where to buy TFT](buy_tft)
 
-To get started, reserve your packages and run your eVDC, you will need TFT. You can find a guide on how to get TFT [here](buy_tft).
+## Where to ask questions
+
+- Feel free to ask us any questions you might have on [our forum](https://forum.threefold.io) in the feedback category.
+- We also have a Telegram Group for TF Grid testers [here](https://t.me/joinchat/BwOvOxxgK59GmRoZ2_sM0w).

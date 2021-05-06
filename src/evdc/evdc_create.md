@@ -4,6 +4,7 @@ You can create your own edge Virtual Data Center in just a few clicks.
 
 Go to the [eVDC deployer website](https://vdc.testnet.grid.tf) and log in using your [Threefold Connect App](threefold:threefold_connect).
 
+
 You'll see the option to deploy your own Virtual Data Center.
 
 ![](img/00_vdc_homepage.png ':size=600') 

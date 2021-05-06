@@ -10,7 +10,7 @@ The Threefold grid has very attractive pricing models.
 | cloud unit type   | description                                | pricing level   |
 | ----------------- | ------------------------------------------ | --------------- |
 | Compute Unit (CU) | typically 2 vcpu, 4 GB mem, 50 GB storage  | 10-12 USD/month |
-| Storage Unit (SU) | typically 1 TB of netto usable storage (*) | 10-15 USD/month |
+| Storage Unit (SU) | typically 1 TB of netto usable storage (*) | 6-15 USD/month  |
 | Network Unit (NU) | 1 GB transfer                              | free for now    |
 
 
