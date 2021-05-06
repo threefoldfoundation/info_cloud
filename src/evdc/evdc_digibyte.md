@@ -56,7 +56,7 @@ When you click on the url, it will re-direct you to the stats page of your new D
 
 To find and access the DigiByte node you just deployed, simply go to the DigiByte widget on your Admin Panel. Click on `My Workloads` to go to the list of your successfully deployed DigiByte nodes.
 
-![](img/evdc_digibyte_myworkload.png ':size=600')
+![](img/evdc_digibyte_myworkload.png ':size=300')
 
 The link will lead you to your deployed DigiByte node stats page.
 
