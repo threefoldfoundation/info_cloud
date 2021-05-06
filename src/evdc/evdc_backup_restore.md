@@ -1,17 +1,19 @@
 # eVDC Backup and Restore
 
-Each eVDC is backed up at regular intervals (for now, daily). Next to these regular backups, manual back-ups can also be made. 
-Back-ups are available for one month and are then deleted automatically. 
+Each eVDC is backed-up at regular intervals (for now, daily). Next to these regular backups, manual back-ups can also be made. 
+
+Back-ups remain available for a month and are then deleted automatically. 
 
 ![](img/evdc_backup_restore.png)
 
-Two types of back-ups are available : 
-- entries starting with `config` are the backups of the cluster configurations and secrets
-- entries starting with `vdc` are back-ups of the data on the deployed solutions. 
-**Remark**: the backups taken will only refer to the eVDC data, not to the persistent storage volumes that are part of the deployed solutions. If these volumes are backed up and recovered, they require specific action within the deployed solution.
+Two types of back-ups are available: 
+- entries starting with `config` represent the backups of the cluster configurations and secrets
+- entries starting with `vdc` represent the back-ups of the data on the deployed solutions. 
 
-> Read more on [__Manual Backup__](evdc_manual_backup)
+> Note: the backups only refer to the eVDC data, not to the persistent storage volumes that are part of the deployed solutions. If these volumes are backed up and recovered, they require specific action within the deployed solution.
 
-> Read more on [__Restore__](evdc_restore)
+!!!include:evdc_manual_backup
 
-> Read more on [__Delete Backup__](evdc_backup_delete)
+!!!include:evdc_restore
+
+!!!include: evdc_backup_delete
