@@ -47,4 +47,6 @@ Live on testnet - May 14, 2021.
 - Improved Tokenstats on wiki.threefold.io
 
 ## ZOS 0.4.11
--
+- Updated 'zdb' to it's latest version and use 'release' mode by default.
+
+
