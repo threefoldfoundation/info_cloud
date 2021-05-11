@@ -1,7 +1,7 @@
 
  # ThreeFold Cloud 2.7.1
  
-Live on testnet - April 2, 2021.
+Live on testnet - May 14, 2021.
 
 ## JS-SDK v11.2.1
 
@@ -11,38 +11,30 @@ Live on testnet - April 2, 2021.
 - [Virtual Datacenter VDC](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/vdc)
 
 #### VDC v2.7.1
+- Added new reliable backup servers
+- Backup and Restore feature improvement: simplified restore mechanism by clicking restore on just one backup item
+- Added 'VDC Alerts' on the VDC Dashboard for notifications
+- Added services in vdc deployer to check the health of VDC:  containers health, IPs availability, and IPV4 units
+- Added eVDC API: Rest based API which containing all features executable via VDC UI
+- Enables backup status info on the VDC API
+- Added OpenAPI support for vdc Controller
+- Allows choosing SSD/HDD for ZDB nodes addons in the chatflow, with eVDC API
+- Improved user's email notification system
+- Enables soft-delete on VDC Deployer
+- Removed fixed price on add-ons worker nodes
+- Re-enabled adding worker nodes with public IPs in chatflow and the rest API
+- Removed workload deployments on access nodes except for networks
+- Namespace and workload cleanup after a failed deployment
+- Improved Node Deployment Capacity Allocation mechanism
+- Improved user interactions auditing mechanism on VDC deployer and on VDC controller 
+- Enables compute farms configuration
+- Improved error messages on deployment failures.
 
 
-#### 3Bot SDK v2.6.0
+#### 3Bot SDK v2.7.1
+- Added new reliable backup servers
+- Allows exporting the 3Bot configurations 
+- Allows exporting 3Bot logs/alerts from the system
 
-
-### New on QSFS V0.4.0
-
-- Add support for Etcd as metadata backend
-- Time-based upload using z-stor for all storage containers
-- Support index dirty detection in 0-DB
-- Upload changed (dirty) index, use ETCD to keep required metadata
-- Multi level ZDB stor to support millions of backend files
-- Retrieve and restore: esily recreate and restore data by retrieving it from the metadata store
-- Added rust-based monitoring / repair tool to check backend health and prevent data loss
-
-### 0-stor-v2 v0.2
-- Use build time optimization to reduce the size of the final binaries
-- Implement real error types, improving feedback to users
-- Better handling of some code paths
-- Test connectivity to the metadata cluster before starting
-- Added a Test subcommand to verify the configuration file, metadata cluster connectivity, and 0-DB backend connectivity
-- Zstor.log. : Add a logfile for operations.
-- Verified 0-DB namespace for sufficient capacity before writing and sharding attempt
-- Support unhealthy backends when writing
-
-## ZOS 0.4.10
-- Made ZOS do flist cache periodic clean up
-- Support small memory containers (100MB)
-- Replaced Firecracker to Cloud-hypervisor for virtualization
-- Support new k8s special size
-- Fixed CPU limits on container
-- Upgraded the 0-db's running on the grid
-- Add support for creating and using macVtap interfaces for public traffic on vms
-- Disable COW on vm disk backends
-- Better VM cleanup
+## ZOS 0.4.11
+-
