@@ -11,7 +11,6 @@ Live on testnet - May 14, 2021.
 - [Virtual Datacenter VDC](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/vdc)
 
 #### VDC v2.7.1
-- Added new reliable backup servers
 - Backup and Restore feature improvement: simplified restore mechanism by clicking restore on just one backup item
 - Added 'VDC Alerts' on the VDC Dashboard for notifications
 - Added services in vdc deployer to check the health of VDC:  containers health, IPs availability, and IPV4 units
@@ -32,7 +31,6 @@ Live on testnet - May 14, 2021.
 
 
 #### 3Bot SDK v2.7.1
-- Added new reliable backup servers
 - Allows exporting the 3Bot configurations 
 - Allows exporting 3Bot logs/alerts from the system
 
