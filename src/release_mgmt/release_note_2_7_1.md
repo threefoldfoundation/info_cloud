@@ -36,5 +36,17 @@ Live on testnet - May 14, 2021.
 - Allows exporting the 3Bot configurations 
 - Allows exporting 3Bot logs/alerts from the system
 
+
+### ThreeFold Connect App 2.7.1
+- Added TFT Vesting feature
+- Added BTC deposit and withdrawal feature
+- Added BTC - TFT Exchange feature
+- Added auto notifications for new terms and conditions
+
+### TFT v1.0
+- Added TFT - Binance Smart Chain Bridge integration
+- Added Vesting Wallet feature
+- Improved Tokenstats on wiki.threefold.io
+
 ## ZOS 0.4.11
 -
