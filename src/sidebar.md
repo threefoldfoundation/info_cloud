@@ -11,7 +11,7 @@
   - [Architecture](cloud_architecture)
   - [Web2 vs Web3 vs P2P](cloud_compare)
   - [Neutral Cloud](cloud_neutral)
-- [EVDC](evdc_overview)
+- [eVDC](evdc_overview)
   - [What is eVDC?](evdc)
   - [Get Started](evdc_getting_started)
     - [Create](evdc_create)
