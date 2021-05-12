@@ -35,7 +35,7 @@ Live on testnet - May 14, 2021.
 - Allows exporting 3Bot logs/alerts from the system
 
 
-### ThreeFold Connect App 2.7.1
+# ThreeFold Connect App 2.7.1
 - Added TFT Vesting feature
 - Added BTC deposit, withdrawal and transfer feature
 - Added the option to Buy TFT with BTC 
