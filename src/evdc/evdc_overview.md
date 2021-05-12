@@ -1,8 +1,8 @@
 # Overview
 
-Welcome to the ThreeFold Edge Virtual Data Center (EVDC) knowledge base.
+Welcome to the ThreeFold Edge Virtual Data Center (eVDC) knowledge base.
 
-In this section, you will learn about EVDC, what it is and how to get started.
+In this section, you will learn about eVDC, what it is and how to get started.
 
   - [What is eVDC?](evdc) - An introduction to the eVDC solution.
   - [Get Started](evdc_getting_started) - An overview of how to get started with eVDC.
