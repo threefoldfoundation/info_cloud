@@ -10,7 +10,7 @@
     - [Sovereign](usp_sovereign)
   - [Architecture](cloud_architecture)
   - [Web2 vs Web3 vs P2P](cloud_compare)
-  - [Neutral Cloud](cloud_neutral)
+  - [Carbon Neutral Cloud](cloud_neutral)
 - [eVDC](evdc_overview)
   - [What is eVDC?](evdc)
   - [Get Started](evdc_getting_started)
