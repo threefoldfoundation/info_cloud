@@ -60,7 +60,7 @@ Including upgrades on:
 - Improvements and bug fixes throughout the app
 
 
-### ThreeFold Token Services
+### ThreeFold Token
 - TFT implemented as a cross-chain asset (BToken) on the [Binance Smart Chain (BSC)](https://www.binance.org/en/smartChain).
 - Implemented support TFT buying with BTC
 - Improvements to the token statistics service
