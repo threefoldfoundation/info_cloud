@@ -4,7 +4,7 @@
 Live on testnet - May 14, 2021.
 
 Including upgrades on:
-- **JS-SDK v11.2.1** = Component upgrades for products:
+- **JS-SDK v11.4** = Component upgrades for products:
    - [3Bot Deployer](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/threebot_deployer)
    - [Solution Marketplace](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/marketplace)
    - [Virtual Datacenter VDC](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/vdc)
