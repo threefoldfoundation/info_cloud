@@ -1,14 +1,21 @@
 
- # ThreeFold Cloud 2.7.1
+ # ThreeFold Cloud and Services 2.7.1
  
 Live on testnet - May 14, 2021.
 
-## JS-SDK v11.2.1
+Including upgrades on:
+- **JS-SDK v11.2.1** = Component upgrades for products:
+   - [3Bot Deployer](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/threebot_deployer)
+   - [Solution Marketplace](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/marketplace)
+   - [Virtual Datacenter VDC](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/vdc)
+   - [3Bot SDK](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/tfgrid_solutions)
+- **Service Grid v2.7.1** = Lower level component upgrades
+- **ThreeFold Connect App v2.7.0** = ThreeFold's mobile authenticator, wallet, news and support app
+- **ThreeFold Token** = Service Improvements related to ThreeFold Token
 
-### Component Upgrades
-- [3Bot Deployer](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/threebot_deployer)
-- [Solution Marketplace](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/marketplace)
-- [Virtual Datacenter VDC](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/vdc)
+## Details
+ 
+### JS-SDK v11.2.1
 
 #### VDC v2.7.1
 - Simplified backup and restore mechanism by clicking 'restore' on just one backup item
@@ -29,25 +36,33 @@ Live on testnet - May 14, 2021.
 - Enables compute farms configuration
 - Improved error messages on deployment failures.
 
-
 #### 3Bot SDK v2.7.1
 - Allows exporting the 3Bot configurations 
 - Allows exporting 3Bot logs/alerts from the system
 
 
-# ThreeFold Connect App 2.7.1
-- Added TFT Vesting feature
-- Added BTC deposit, withdrawal and transfer feature
-- Added the option to Buy TFT with BTC 
+### Service Grid v2.7.1
+
+#### ZOS v0.4.11
+- Updated 'zdb' to it's latest version and use 'release' mode by default.
+
+### 0-DB-FS v0.1.4
+- Fixed bugs related to incorrectly parsed fuse argument
+- Enables fully static binary build
+- Enables backtrace when zdbfs crash
+- Prepared improvements regarding database header blocks
+
+
+### ThreeFold Connect App v2.7.1
+- Implemented TFT Vesting feature
+- Implemented BTC deposit, withdrawal and transfer feature
+- Implemented the option to Buy TFT with BTC 
 - Improvements and bug fixes throughout the app
 
 
-### TFT v1.0
-- Added TFT - Binance Smart Chain Bridge integration
-- Added Vesting Wallet feature
-- Improved Tokenstats on wiki.threefold.io
-
-## ZOS 0.4.11
-- Updated 'zdb' to it's latest version and use 'release' mode by default.
-
+### ThreeFold Token Services
+- TFT implemented as a cross-chain asset (BToken) on the [Binance Smart Chain (BSC)](https://www.binance.org/en/smartChain).
+- Implemented support TFT buying with BTC
+- Improvements to the token statistics service
+- Implemented TFT vesting service
 
