@@ -11,7 +11,7 @@ Including upgrades on:
    - [3Bot SDK](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/tfgrid_solutions)
 - **Service Grid v2.7.1** = Lower level component upgrades
 - **ThreeFold Connect App v2.7.0** = ThreeFold's mobile authenticator, wallet, news and support app
-- **ThreeFold Token** = Service Improvements related to ThreeFold Token
+- **ThreeFold Token v2.7.1** = Service Improvements related to ThreeFold Token
 
 ## Details
  
@@ -60,7 +60,7 @@ Including upgrades on:
 - Improvements and bug fixes throughout the app
 
 
-### ThreeFold Token
+### ThreeFold Token v2.7.1
 - TFT implemented as a cross-chain asset (BToken) on the [Binance Smart Chain (BSC)](https://www.binance.org/en/smartChain).
 - Implemented support TFT buying with BTC
 - Improvements to the token statistics service
