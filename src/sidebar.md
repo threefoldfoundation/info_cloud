@@ -30,6 +30,7 @@
   - [Monitoring Stack](evdc_monitoring_stack)
   - [Monitoring Locally](evdc_monitoring_local)
 - [Quantum Safe Filesystem](threefold_filesystem)
+  - [Getting Started](evdc_qsfs_get_started)
 - [Marketplace](evdc_marketplace_overview)
   - [Introducing Marketplace](evdc_tfnow)
   - [Get Started](evdc_marketplace)
