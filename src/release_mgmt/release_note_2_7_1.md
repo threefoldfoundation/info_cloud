@@ -47,7 +47,16 @@ Live on testnet - May 14, 2021.
 - Added Vesting Wallet feature
 - Improved Tokenstats on wiki.threefold.io
 
-## ZOS 0.4.11
-- Updated 'zdb' to it's latest version and use 'release' mode by default.
+
+## ZOS v0.6.0
+- Fixed bugs related to CPU limit for containers
+- Replaced Firecracker to Cloud-hypervisor
+- Cleaned up stale VMs
+- Updated 0-DB to its latest version
+- Updated various ZOS basic services to its latest version
+- Better memory capacity planning to improve node stability against workload overload
+- Exposed node exporter for both testnet and devnet.
+- Protected 0-FS processes against OOM
+
 
 
