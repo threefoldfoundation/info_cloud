@@ -26,7 +26,7 @@ QSFS offers the following storage benefits:
 - Self-healing capability of the P2P Cloud ensures your data remains available at all times. 
 - Hyper-competitive pricing.
 
-More information on QSFS [here](https://threefold.io/info/cloud#/threefold__threefold_fs)
+More information on QSFS [here](https://threefold.io/info/cloud#/threefold__quantum_safe_filesystem)
 
 ![](img/evdc.png)
 
