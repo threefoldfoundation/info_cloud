@@ -1,6 +1,6 @@
 ![](img/planet_fs.png)
 
-# ThreeFold Quantum Safe Filesystem (QSFS)
+# ThreeFold zstor filesystem (zstor)
 
 Part of the eVDC is a set of Storage Nodes, which can be used as a storage infrastructure for files in any format. 
 

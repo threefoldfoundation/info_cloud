@@ -33,7 +33,7 @@ Live on testnet - April 2, 2021.
 - Email notification for expiring pools empty wallets
 - Rebranded 3Bot Marketplace as 3Bot Apps
 
-## Quantum FileSystem (QSFS) V0.4.0
+## Quantum FileSystem (zstor) V0.4.0
 
 ### Component Upgrades
 - [0-DB](https://github.com/threefoldtech/0-db)
@@ -41,7 +41,7 @@ Live on testnet - April 2, 2021.
 - [0-Stor-v2](https://github.com/threefoldtech/0-stor)
 
 
-### New on QSFS V0.4.0
+### New on zstor V0.4.0
 
 - Add support for Etcd as metadata backend
 - Time-based upload using z-stor for all storage containers

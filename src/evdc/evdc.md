@@ -14,7 +14,7 @@ eVDC offers the following computing benefits:
 - Easy to set-up, orchestrate, and manage Kubernetes clusters as well as containers hosted on external clouds (hybrid cloud management).
 - Docker compatible
 - Create and scale your development environment easily with autonomous container management, load balancing and web gateways.
-- Data is stored in QSFS (see elsewhere in this wiki), offering the highest standard of security. 
+- Data is stored in zstor (see elsewhere in this wiki), offering the highest standard of security. 
 - Self-healing and self-driving functionalities to ensure your workloads are always up and running.
 - Hyper-competitive prices considering the advanced technology stack
 

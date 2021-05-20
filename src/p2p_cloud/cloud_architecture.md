@@ -37,7 +37,8 @@ The ThreeFold Grid is the first autonomous cloud grid in the world and is comple
 
 All 3Nodes connected to the ThreeFold Grid are booted with the Zero-OS operating system. The 3Nodes will register themselves autonomously to the blockchain database called the TF Directory. Once registered in the TF Directory, the capacity of the 3Nodes will become available on the TF Grid Explorer. We call this proof-of-capacity. This brings a major benefit to users as compared to many blockchain protocols that run on public cloud providers.
 
-You can have your own dedicated node, while others use load balancers to distribute activity across nodes. Almost all compute (eVDC) and storage (QSFS) services are extremely easy to work with, making it easy to switch 3Nodes or even to switch between your compute and storage dedicated 3Nodes.
+
+You can have your own dedicated node, while others use load balancers to distribute activity across nodes. Almost all compute (eVDC) and storage (zstor) services are extremely easy to work with, making it easy to switch 3Nodes or even to switch between your compute and storage dedicated 3Nodes.
 
 It's important to note that 3Nodes do not store private information such as private keys. All these remains available only to your virtual system administrator - 3bot.
 
@@ -54,7 +55,7 @@ While sticking to these principles, it provides the basis to consider and descri
 
 Everything from the reservation of storage and compute to the management of your development environment is handled by the Smart Contract for IT. The smart contract creates and registers the IT requirements in the blockchain database. Zero-OS nodes then cooperate with the smart contract execution code. 
 
-Learn more about smart contract for IT [here](tftech:smart_contract_for_it).
+Learn more about smart contract for IT [here](tftech:smartcontract_it).
 
 ## The virtual system administrator: 3Bot
 3Bot is a virtual system administrator that manages the user’s IT workloads. It can manage millions of objects and remains fully private to its owner as every 3Bot is equipped of a private key. This ensures an immutable record of any workload as well as a self-healing functionality to restore these workloads if/when needed.
@@ -89,7 +90,7 @@ Learn more about 3Bot [here](threefold:part4_3bot_digital_avatar_digital_self).
 
 - [P2P Cloud Products](cloud_products) - An introduction to the core products of ThreeFold P2P Cloud.
 - [eVDC Get Started](evdc_getting_started) - Start your peer-to-peer cloud journey with eVDC
-- [QSFS Get Started](threefold_filesystem) - Learn how to store peer-to-peer with QSFS
+- [zstor Get Started](threefold_filesystem) - Learn how to store peer-to-peer with zstor
 - [Marketplace Get Started](evdc_marketplace) - Deploy peer-to-peer apps on top of your eVDC.
 - [P2P Cloud Benefits](usp) - A walk through the benefits of using ThreeFold P2P Cloud.
 - [Architecture](cloud_architecture) - Dive into the architecture that powers the ThreeFold P2P Cloud.

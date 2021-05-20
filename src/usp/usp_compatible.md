@@ -27,4 +27,4 @@ A [nice guide](https://helm.sh/docs/chart_template_guide/) describes all ins and
 
 # Filesystem
 
-For storage, any file system will be supported; see our [planetary_filesystem](threefold:threefold_fs) for more detail.
+For storage, any file system will be supported; see our [planetary_filesystem](threefold:quantum_safe_filesystem) for more detail.
