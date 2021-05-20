@@ -52,7 +52,8 @@ Including upgrades on:
 - Better memory capacity planning to improve node stability against workload overload
 - Exposed node exporter for both testnet and devnet.
 - Protected 0-FS processes against OOM
-
+- Overall system stability improvement
+- Various bug fixes 
 
 ### 0-DB-FS v0.1.4
 - Fixed bugs related to incorrectly parsed fuse argument
