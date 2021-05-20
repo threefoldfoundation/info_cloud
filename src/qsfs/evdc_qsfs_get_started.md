@@ -6,7 +6,7 @@ Any Quantum-Safe File System has 4 storage layers :
 - ZDB-FS fuse layer
 - ZSTOR for the dispersed storage
 
-Now, there are 2 ways to run the Quantum Safe Filesystem: 
+Now, there are 2 ways to run the zstor filesystem: 
 - In self-management mode for the metadata;
 - A 'Quantum Storage Enabled' mode.
 
@@ -29,7 +29,7 @@ As described in [Manage Storage Nodes](evdc_storage), this file contains the nec
 
 #### Bootstrap Executable
 
-Download now the Quantum Safe Filesystem bootstrap, available [here](https://github.com/threefoldtech/quantum-storage/releases/download/v0.0.1/planetaryfs-bootstrap-linux-amd64).
+Download now the zstor filesystem bootstrap, available [here](https://github.com/threefoldtech/quantum-storage/releases/download/v0.0.1/planetaryfs-bootstrap-linux-amd64).
 
 
 > __Remark__: 
