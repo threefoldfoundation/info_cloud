@@ -61,13 +61,21 @@ Including upgrades on:
 - Enables backtrace when zdbfs crash
 - Prepared improvements regarding database header blocks
 
-
 ### ThreeFold Connect App v2.7.1
 - Implemented TFT Vesting feature
 - Implemented BTC deposit, withdrawal and transfer feature
 - Implemented the option to Buy TFT with BTC 
 - Improvements and bug fixes throughout the app
 
+## ZOS v0.6.0
+- Fixed bugs related to CPU limit for containers
+- Replaced Firecracker to Cloud-hypervisor
+- Cleaned up stale VMs
+- Updated 0-DB to its latest version
+- Updated various ZOS basic services to its latest version
+- Better memory capacity planning to improve node stability against workload overload
+- Exposed node exporter for both testnet and devnet.
+- Protected 0-FS processes against OOM
 
 ### ThreeFold Token v2.7.1
 - TFT implemented as a cross-chain asset (BToken) on the [Binance Smart Chain (BSC)](https://www.binance.org/en/smartChain).

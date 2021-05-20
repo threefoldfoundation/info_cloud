@@ -7,7 +7,7 @@
 <!-- - [Quantum Safe Compute Concept](threefold:quantumsafe_compute_concept)
   - [Zero-OS Filesystem](threefold:zos_fs) --> 
 - [Quantum Safe Storage Concept](threefold:quantumsafe_storage_concept)
-  - [ThreeFold Filesystem](threefold:threefold_fs)
+  - [ThreeFold Filesystem](threefold:quantum_safe_filesystem)
 - [Quantum Safe Network Concept](threefold:quantumsafe_network_concept)
   - [Zero-OS Network](sdk:capacity_network)
   - [ThreeFold Network = Planetary Network](threefold:threefold_network)

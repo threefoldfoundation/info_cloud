@@ -40,5 +40,5 @@ Like ThreeFold, these docs are a community effort. Create a PR if you see mistak
 - [Edge Virtual Data Center Pricing](evdc_pricing) - Explore the different pricing packages for mainnet and testnet.
 - [Where to get tokens](buy_tft) - How and where to get ThreeFold Tokens, the official currency of ThreeFold P2P Cloud.
 - [Kubernetes and Docker](evdc_k8s) - An introduction to the industry standards running on ThreeFold P2P Cloud.
-- [Quantum Safe Filesystem](threefold_filesystem) - An introduction to the first autonomous, quantum-safe, peer-to-peer storage solution.
+- [zstor filesystem](threefold_filesystem) - An introduction to the first autonomous, quantum-safe, peer-to-peer storage solution.
 - [ThreeFold Marketplace](evdc_marketplace) - A marketplace of peer-to-peer applications and tools ready to be deployed on top of edge Virtual Data Center.
