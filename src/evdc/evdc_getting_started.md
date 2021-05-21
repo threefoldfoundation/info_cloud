@@ -15,7 +15,7 @@ Once set-up you can upgrade or downgrade your VDC:
 
 - [Upgrade your VDC](evdc_upgrade)
 - [Remove your VDC](evdc_remove)
-=======
+
 Steps
 
 - [Create your VDC](evdc_create)
