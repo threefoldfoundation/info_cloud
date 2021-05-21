@@ -4,10 +4,11 @@
 
 ## Current Version
 
-- [2.7.0](release_notes_2_7_0) 
-
+- [2.7.0](release_notes_2_7_1) 
 
 ## Version History
+
+- [2.7.0](release_notes_2_7_0) 
 - [2.6.0](release_notes_2_6_0) 
 - [2.5.0](release_notes_2_5_0) 
 - [2.4.0](release_notes_2_4_0) 

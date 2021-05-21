@@ -13,37 +13,44 @@ By using eVDC you can now deploy and host your own wiki on top of the ThreeFold_
 
 ## Get Started
 
-In the marketplace, click on the `DEPLOY` button of the `Wiki` widget.
+Once you're logged in to eVDC, find the `Wiki` widget in Marketplace, on your admin panel and click on `Deploy` button.
 
 ![](img/evdc_wiki_01_widget.png ':size=200')
 
-Give your solution a name.
+Create a name for your new wiki. This name will be used to identify your deployment on your 'Deployed Solutions' list.
 
 ![](img/evdc_wiki_02_chatflow_name.png ':size=600')
 
-You can choose to create a url which is part of your own domain, or have one auto-generated.
+You can choose to create a url which is part of your domain, or have one auto-generated.
+
+Select the domain type for your wiki:
+- For deployment with **random subdomain**, select `Choose subdomain for me on a gateway`. 
+- For deployment with a particular **available subdomain**, select `Choose a custom subdomain on a gateway`. 
+- To host a blog using **your own domain**, select `choose a custom domain`.
 
 ![](img/evdc_wiki_03_chatflow_subdomain.png ':size=600')
 
-Depending on the size of you wiki, you choose bigger or smaller amount of hardware resources to be reserved.
+Choose the size of the capacity that you want to reserve for this solution, both in terms of compute power and memory capacity for your wiki.
 
 ![](img/evdc_wiki_04_chatflow_config_size.png ':size=600')
 
-Configure the setup of your threefold: info on source code (like the Github repo, branch and source location), and give it a title.
+Add your website repository files to the deployment:
+- Repository URL: the URL address of your blog's source codes on github.
+- Branch: the main official working version of your project. Read more about github branch [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
+- Source directory: the name of the main folder in your github repository where all your html codes, css, index.html page, and other codes that make up your blog pages live.
 
 ![](img/evdc_wiki_05a_chatflow_config_wiki.png ':size=600')
 
-With all this info, the wiki can get published.
+By now, all the information necessary to deploy the wiki has been provided.
 
 ![](img/evdc_wiki_06_chatflow_init.png ':size=600')
 
-Done !
+Congratulations, you just successfully hosted a wiki on the ThreeFold Grid!
 
 ![](img/evdc_wiki_07_chatflow_success.png ':size=600')
 
-You can directly visit the published wiki through the indicated url.
+Click on the website domain to open and preview your newly hosted website.
 
 ![](img/evdc_wiki_11_wiki_result.png)
 
-Remember, you can always go back to your forked wiki template and customize your wiki content even after its deployed. Add the command `/force_update` at the end in the url to push the latest content.
-Always remember which github repo and branch you are using for the hosted wiki, and happy coding!
+Update and complete your website in the forked template on Github. You can customize your wiki after deployment. Always remember which Github repo you are using.

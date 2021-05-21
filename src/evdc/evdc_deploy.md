@@ -1,8 +1,9 @@
 # Deploy a New eVDC
 
+
 To provision any workload using TF eVDC, there are some pre-requisites that need to be done:
 
-- Get ThreeFold Connect App;ThreeFold Connect is a mobile app that facilitate you with your own 3Bot Wallet where and 3Bot ID; your digital identity on top of the ThreeFold_Grid.
+- Get ThreeFold Connect App - a mobile app that facilitate you with your own 3Bot Wallet where and 3Bot ID; your digital identity on top of the ThreeFold_Grid.
 - Get and store TFT into your TF Connect Wallet to reserve IT Capacity and pay for your workload on top of the TF Grid.
 
 > Read more on the prerequisites on [**TF Getting Started Manual**](sdk:all_getting_started)
@@ -21,19 +22,19 @@ Define the name and password of your new eVDC, as well as the size / plan of the
 
 ![](img/evdc_signup.png)
 
-Depending on your selected eVDC size / dplan, you will now be redirected to the payment page consisting of the QR Code of the payment address and the ampunt of TFT you would need to pay to activate your new eVDC.
+Depending on your selected eVDC size / plan, you will be redirected to the payment page consisting of a QR Code. The QR code contains the payment address and the amount of TFT needed to activate your new eVDC.
 
 ![](img/evdc_payment.png)
 
-Scan the QR page using your TFT Wallet on your TF Connect Mobile App, send the TFT to the displayed wallet address and confirm your payment.
+Scan the QR page using your TFT Wallet on your TF Connect Mobile App, send the TFT to the displayed wallet address and confirm the payment.
 
 ![](img/scanqr.jpeg)
 
-The payment screen will automatically reload itself if payment is successful and start to deploy the new eVDC immidiately. The new eVDC deployment will take a few minutes, please do not close this deployment window in the meantime until it succeeded.
+The payment screen will automatically reload itself once the payment is processed and will start the deployment of the new eVDC. The new eVDC deployment will take a few minutes, please do not close this deployment window while it loads.
 
 ![](img/deploy_vdc.png)
 
-You will be notified once the new eVDC deployment is finished. Click on Finish to access your deployed eVDCs list.
+You will be notified once the new eVDC deployment is finished. Click on `Finish` to access your deployed eVDCs list.
 
 ![](img/newvdc.png)
 

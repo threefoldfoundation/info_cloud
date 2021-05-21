@@ -21,7 +21,7 @@ Live on testnet - Monday, January 11, 2021.
 
 ### Introducing: 0-DB-FS v0.1.0
 
-- A backend component of TF Quantum Safe Filesystem (Coming Soon).
+- A backend component of TF zstor filesystem (Coming Soon).
 - An efficient hybrid file system: store data remotely in a very secure way and presenting this storage facility in the most used and understood interface supporting all operations.
 - No local storage needed, using 0-DB as a single backend.
 - Release Note: [0-DB-FS v0.1.0](https://github.com/threefoldtech/0-db-fs/releases/tag/v0.1.0)

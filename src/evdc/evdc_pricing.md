@@ -1,37 +1,42 @@
-# Payment and Billing
+# Pricing and Billing
 
-## Price
+## Pricing
 
-An eVDC comes in different shapes. The price of the monthly subscription fees is expressed here in USD. The equivalent amount in TFT at a TFT price of 0.10 USD will be billed.
+There are different packages offered for your eVDC. 
 
-- Silver: 15 USD per month for a small Kubernetes Controller and 1 worker node, 4 GB memory, 100 GB ZDB Storage, a Network Gateway
-- Gold: 30 USD per month for a small Kubernetes Controller and 1 worker node, 4 GB memory, 2TB ZDB Storage, a Network Gateway
-- Platinum: 80 USD per month for a small Kubernetes Controller and 2 worker nodes, 8 GB memory, 10TB ZDB storage, a Network Gateway 
-- Diamond: 200 USD per month for a small Kubernetes Controller and 4 worker nodes, 32 GB memory, 10TB ZDB storage, a Network Gateway
+The price of the monthly subscription fees is expressed in USD. The equivalent amount in TFT will be billed on your eVDC.
 
-**Note:** Above pricing is for Mainnet. Testnet pricing will be 1/10 of the Mainnet pricing. Please consider that Testnet is not meant for production: continuity of the operations for your eVDC is not guaranteed, and the available capacity is inferior to the mainnet one.
+- **Silver Pack**: 15 USD per month for a small Kubernetes Controller and 1 worker node, 4 GB memory, 100 GB ZDB Storage, a Network Gateway
+- **Gold Pack**: 30 USD per month for a small Kubernetes Controller and 1 worker node, 4 GB memory, 2TB ZDB Storage, a Network Gateway
+- **Platinum Pack**: 80 USD per month for a small Kubernetes Controller and 2 worker nodes, 8 GB memory, 10TB ZDB storage, a Network Gateway 
+- **Diamond Pack**: 200 USD per month for a small Kubernetes Controller and 4 worker nodes, 32 GB memory, 10TB ZDB storage, a Network Gateway
+
+> Note: The above pricing is for Mainnet. Testnet pricing will be 1/10 of the Mainnet pricing. 
+
+> Disclaimer: Please consider that Testnet is not meant for production. The continuity of the operations for your eVDC is not guaranteed, and the available capacity is inferior to Mainnet.
 
 ### Adding nodes
 
-For additional Kubernetes node, following prices apply:
+You can always add more Kubernetes nodes to your cluster. The pricing for Kubernetes nodes extension are:
 
-- 24 USD for a medium node extension: 4vcpu, 8 GB mem, 50 GB SSD storage
-- 48 USD for a big node extension: 8vcpu, 32 GB mem, 100 GB SSD storage
+- **Medium node extension**: 24 USD for 4vcpu, 8 GB mem, 50 GB SSD storage
+- **Big node extension**: 48 USD for 8vcpu, 32 GB mem, 100 GB SSD storage
 
 ## Billing
 
-A user prepays the setup of his eVDC according to the above prices with an eVDC provider. Once the payment is issued, the provisioning of hardware for Kubernetes clusters can start.
+A user prepays the setup of his eVDC according to the above prices with an eVDC provider. Once the payment is issued, the provisioning of compute and storage capacity for the Kubernetes clusters can start.
 
 ## Top-up
 
-After the creation of your eVDC, you have transferred an amount that is sufficient for your VDC to remain up and running for 1 month. 
+After the creation of your eVDC, you should always make sure that there is sufficient funds within your wallet to keep your VDC up and running for the upcoming month.
 
-Two weeks before expiration, you will receive a request to top up your wallet so that it has sufficient funding available to remain available. 
+Two weeks before the expiration of your VDC (due to insufficient funds), you will receive a request to top-up your wallet to ensure sufficient funding is available to to keep your VDC alive.
 
 ![](img/evdc_expiration_warning.png ':size=400')
 
-You can top up your VDC wallet by transferring TFTs to the indicated address or by scanning the QR code in the `Wallet Information`.
+You can top-up your VDC wallet by transferring TFTs to the indicated address or by scanning the QR code in the `Wallet Information`.
 
-## How to buy TFT
+## More Info
 
-All info on how to buy TFT can be found [here](threefold:how_to_buy_and_sell)
+- Learn how to buy TFT [here](threefold:how_to_buy_and_sell).
+- See how to manage your [Wallet](evdc_wallet).

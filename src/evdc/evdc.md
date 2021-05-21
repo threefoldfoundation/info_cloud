@@ -1,19 +1,26 @@
-# ThreeFold eVDC
+# ThreeFold Edge Virtual Data Center
 
-ThreeFold edge-Virtual Data Center (eVDC) is your private scalable cloud on the ThreeFold_Grid, currently available on TF Grid 2.5 testnet.
+EVDC is the first peer-to-peer kubernetes compatible cloud solution on the market. It provides the agility to create and deploy containers on the edge and allows for micro-services architectures with automation frameworks executed via Helm Scripts. An EVDC can be deployed in a matter of a few clicks. 
 
-ThreeFold has created the largest active peer-to-peer cloud (the TF Grid) on the planet, which runs any Unix IT workload.
+It comes with a marketplace of solutions that offer Docker containerizations as well as monitoring tools such as Prometheus and Grafana for the Kubernetes clusters. 
 
-The eVDC is a virtual data center (out of the box) that creates easy and industry standard ways to deploy, scale and manage Unix workloads. It present the most popular tooling available in the market to run applications.
+EVDC makes it easy to set-up and manage the execution of containers and the interaction between them. It also offers DNS and IP addresses, automated load balancing at high traffic, automated rollbacks and rollouts and a self-healing architecture.  
 
-The eVDC offers the tooling for:
+This enables any IT developer working with those standards to deploy their IT workloads on the ThreeFold P2P Cloud in the format they already use today.
 
-- Deploying containerized Unix IT applications on the grid
-- Setting up Kubernetes clusters that able to orchestrate and manage containers running on the ThreeFold_Grid and containers hosted on external clouds (hybrid cloud management)
-- Storing data in a very secure way and presenting this storage facility in the most used and understood interface: a file system
+EVDC offers the following computing benefits:
 
-> To read more information about ThreeFold eVDC, please go to [**ThreeFold eVDC Website**](https://vdc.threefold.io)
+- Any containerized Unix IT applications can be deployed.
+- Easy to set-up, orchestrate, and manage Kubernetes clusters as well as containers hosted on external clouds (hybrid cloud management).
+- Docker compatible
+- Create and scale your development environment easily with autonomous container management, load balancing and web gateways.
+- Data is stored in zstor (see elsewhere in this wiki), offering the highest standard of security. 
+- Self-healing and self-driving functionalities to ensure your workloads are always up and running.
+- Hyper-competitive prices considering the advanced technology stack
 
-## Deploy eVDC
+## More info:
 
-Follow the instructions on [eVDC Deployer](evdc_deployer) to deploy an eVDC; your private scalable cloud on the ThreeFold_Grid.
+  - [Get Started](evdc_getting_started) - An overview of how to get started with eVDC.
+  - [Create a VDC](evdc_create) - How to create your eVDC.
+  - [Pricing](evdc_pricing) - An overview of the pricing packages for eVDC.
+  - [Where to get tokens](buy_tft) - Explains where and how you can get TFT to run your eVDC.

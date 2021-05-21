@@ -1,6 +1,6 @@
 ![](img/tfgrid_pricing.png)
 
-# PROMOTION: Grid Pricing Q1 2021 for DIY capacity
+# PROMOTION: Grid Pricing Q1 2021 for TFGrid 2.7 Beta Release
 
 > Prices on testnet are 1/10 of prices mentioned below. 
 
@@ -9,15 +9,18 @@
 
 |                   |                                            |              |
 | ----------------- | ------------------------------------------ | ------------ |
-| Compute Unit (CU) | typically 2 vcpu, 4 GB mem, 50 GB storage  | 10 USD/month |
-| Storage Unit (SU) | typically 1 TB of netto usable storage (*) | 8 USD/month  |
+| Compute Unit (CU) | typically 2 vcpu, 4 GB mem, 50 GB storage  | 80 TFT/month |
+| Storage Unit (SU) | typically 1 TB of netto usable storage (*) | 50 TFT/month |
 | Network Unit (NU) | 1 GB transfer                              | free for now |
 
-> A good site to compare is cloudorado: https://www.cloudorado.com/
+> NOTE: THIS IS A SPECIAL PROMOTION PRICE !!!
+
+> A good site to compare is cloudorado: https://www.cloudorado.com/ <BR>
+> TFT price April 12 = 0.12 USD per TFT
 
 (*) if policy of 16+4 and on Harddisk Storage tier
 
-## Virtual Planetary Scale Datacenter Pricing 
+## eVDC Datacenter Pricing 
 
 - Each basic package has
   - 1 kubernetes controller (1GB mem) 
@@ -27,16 +30,16 @@
   - Y chosen STORAGE capacity
 
 - eVDC starter packages
-  - silver: 15 USD per month for 100GB storage + max 1 CU compute capacity (1 worker)
-  - gold: 30 USD per month for max 2TB storage + max 2 CU compute capacity (1 worker)
-  - platinum: 80 USD per month for max 10TB storage + max 4 CU compute capacity (2 workers)
+  - silver: 160 TFT per month for 100GB storage + max 1 CU compute capacity (1 worker)
+  - gold: 300 TFT per month for max 2TB storage + max 2 CU compute capacity (1 worker)
+  - platinum: 800 TFT per month for max 10TB storage + max 4 CU compute capacity (2 workers)
   
+> TODO: prices need to be checked for 2.7 TFGrid
 
 - Additional Capacity (not available testnet)
-  - 1 IP address with basic bandwidth: 1-5 EUR per month (depends on farmer)
-  - dedicated CPU node (128 GB mem, 48 virtual cpu cores, 500 GB SSD) (BetterToken)
-  - CPU & Storage capacity, see pricing as done by farmers, typicall around 10-15 USD per CU, and 5 to 10 USD per SU.
-
+  - 1 IPv4 address with basic bandwidth: 100 TFT per month
+  - CPU & Storage capacity see CU/SU price above.
+  - dedicated CPU node (128 GB mem, 48 virtual cpu cores, 500 GB SSD) (BetterToken): 1500 TFT per month, TFGrid 2.8 or TFGrid 2.9
 
 - Each Virtual Datacenter has its own wallet, minimum amount of TFT to start with is the 1 month usage of starting package.
 - Billing is done per day = the max resources used in that day.

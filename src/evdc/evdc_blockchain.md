@@ -1,17 +1,19 @@
-# Blockchain Node Deployment on eVDC
+# Blockchain Node Deployment
 
 ![](img/evdc_mktplace_blockchain.png)
 
-TF eVDC aims to give you a solution to deploy blockchain nodes with ease and efficiency within just a few click. Node operators and community members can now deploy a specific blockchain solution using the ThreeFold NOW Marketplace within their eVDC, which will allow them to deploy their respective nodes on a true peer-to-peer cloud infrastructure.
+Blockchains can deploy their nodes on top of the ThreeFold Grid wihtin a few clicks and benefit from a truly decentralized cloud infrastructure.
+
+Deploying on top of ThreeFold enables blockchains to achieve more efficiency, scalability and sustainability.
 
 ## Blockchain Node Deployment List
 
-- [__Digibyte Full Node__](evdc_digibyte) 
-- [__Presearch Node__](evdc_presearch) 
-- [__Polygon Node__](evdc_polygon) 
+- [Digibyte Full Node](evdc_digibyte) 
+- [Presearch Node](evdc_presearch) 
+- [Polygon Node](evdc_polygon) 
 
 
-Coming soon :
+## Coming soon
 - CasperLabs
 - Dash
 - Elrond

@@ -1,34 +1,51 @@
-# How to Upgrade eVDC Capacity
+# How to Upgrade eVDC Compute Capacity
 
-To upgrade eVDC Capacity, you can extend your kubernetes cluster by adding an additional worker node, simply through a few clicks.
+To upgrade your eVDC compute capacity, you can extend your kubernetes cluster by adding additional worker nodes.
 
-On your __Compute Nodes__ page, click on __Add Node__ button on the top right corner of the page.
+On your `Compute Nodes` page, click on the `Add Node` button on the top right corner of the page.
 
 ![](img/addnode.png)
 
-Select the preferred node size you would like to add onto your Kubernetes Cluster, and click 'Next' button.
+Select the preferred node size you would like to add onto your Kubernetes Cluster and and click `Next`.
 
 ![](img/nodesize.png ':size=600')
 
-On the next page you will be asked of whether you would like to use your existing TFT balance within your eVDC Wallet, or transfer TFT exclusively to pay for this new node. 
-You can either scan the QR code or transfer the requested amount of TFTs to the indicated wallet address (remark: you need to also copy the Memo Text !). On this tutorial we assume that you use the QR scan option.
+On the next page you will be asked whether you would like to use your existing TFT balance within your eVDC Wallet, or transfer TFT exclusively to pay for the new nodes. 
+
+You can either scan the QR code or transfer the requested amount of TFTs to the indicated wallet address 
+
+> Note: You also need to copy the `Memo Text (Message)`. 
+
+On this tutorial we assume that you use the QR scan option.
 
 ![](img/paymethod.png ':size=600') 
 
-On the payment page, you would be instructed to transfer some TFT to pay for your new node, by sending your TFT from an external Stellar wallet to your eVDC Wallet. In this tutorial we would be using inside the ThreeFold Connect Mobile App as our medium of transfer.
+On the payment page, you will be instructed to transfer TFT in order to pay for your new node. This can be done by sending your TFT from the ThreeFold Connect App or an external Stellar wallet to your eVDC Wallet. 
+
+> Note: We do not guarantee that external Stellar Wallets will be able to scan the QR Code.
+
+In this tutorial we use the ThreeFold Connect Mobile App as our medium of transfer.
 
 ![](img/paynode.png ':size=600')
 
-Scan the QR Code by using ThreeFold Connect app on your phone and confirm your payment. 
+Scan the QR Code by using ThreeFold Connect app on your phone and confirm the payment. 
 
 ![](img/scanqr.jpeg ':size=400')
 
-The payment screen will automatically reload itself if payment is successful and start to deploy the new node immidiately. The new node deployment will take a few minutes, please do not close this deployment window in the meantime.
+The payment screen will automatically reload itself when the payment is successful and the new node will be deployed immediately. 
+
+> Note: The new node deployment will take a few minutes, please do not close this deployment window while it loads.
 
 ![](img/extendnodeprocess.png ':size=600')
 
-Once the new node deployment is finished, you will be directed to the final screen that shows that your eVDC has been extended / upgraded successfuly. You can now go back to 'My VDC' page and see that a new worker node has been deployed successfully.
+Once the new node deployment is finished, you will be directed to the final screen that will show that your VDC has been extended / upgraded successfully. 
+
+You can then go back to your `Compute Nodes` section and it will display the new nodes added to your VDC.
 
 ![](img/newnode.png)
 
-> Go back to [__'Compute Nodes Management Manual'__](evdc_compute)
+## More info:
+
+- Go back to the [Compute Nodes Management](evdc_compute) section.
+- Learn how to [Downgrade your eVDC](evdc_downgrade) compute capacity by removing worker nodes.
+- How to [Manage your Kubernetes Cluster](evdc_k8s).

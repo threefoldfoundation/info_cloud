@@ -1,50 +1,63 @@
-# How to Deploy Digibyte Node on eVDC
+# Deploy a Digibyte Node
 
-Our partnership with the DigiByte Foundation empowers the DGB community with a decentralized cloud infrastructure to deploy DigiByte nodes and help secure and expand the DGB network across the geographical edges.
+Decentralize the [DigiByte](https://digibyte.org/) network by deploying a DigiByte node on ThreeFold P2P Cloud. 
 
-- Anyone can contribute and build upon the DigiByte Blockchain using the ThreeFold P2P cloud and its developer tools that provide significant advantages over centralized cloud providers.
-- Thousands of people are running DigiByte software all across the planet.
-- Any server, computer, tablet or mobile phone connected to the DigiByte network becomes a node that helps relay transactions.
+Anyone can contribute and build upon the DigiByte Blockchain using the ThreeFold P2P Cloud. The available developer tools provide significant advantages over centralized cloud providers.
 
-# Get Started
+Any server, computer, tablet or mobile phone connected to the DigiByte network becomes a node that helps relay transactions of the DigiByte blockchain.
 
-You can now deploy your DigiByte full Node via the ThreeFold Now Marketplace's dashboard on your eVDC admin panel in a few clicks.
+### Prerequisites
 
-First, find the **Digibyte Widget** on the marketplace and click on **'Deploy'** button. You will now be directed to the chat flow of the deployment process.
+- A Digibyte node requires a minimum of 8vcpu and 32 GB of memory. So, minimum VDC requirements are a Gold VDC plus an additional big worker node.
 
-![](img/digibyte_widget.png)
+### Get Started
 
-Create a name for your new node deployment. You will use this name to identify your deployment on your 'Deployed Solutions' list.
+When logged in to eVDC, find the `DigiByte` widget in Marketplace, on your admin panel and click on the `Deploy` button. 
+
+You will be directed to a chat flow for the deployment process.
+
+![](img/evdc_digibyte_widget.png ':size=300')
+
+Create a name for your DigiByte node. This name will be used to identify your deployment on your `Deployed Solutions` list.
 
 ![](img/digibyte_create.png ':size=600')
 
-Select the domain type for your Digibyte Node. For deployment with random subdomain, select 'Choose subdomain for me on a gateway',. For deployment with a particular available subdomain, select 'Choose a custom subdomain on a gateway. To deploy a Digibyte Node using your own domain, select 'choose a custom domain'.
+You can choose to create a URL which is part of your domain, or have one auto-generated.
+
+Select the domain type for your Cryptpad:
+- For deployment with **random subdomain**, select `Choose subdomain for me on a gateway`. 
+- For deployment with a particular **available subdomain**, select `Choose a custom subdomain on a gateway`. 
+- To host a blog using **your own domain**, select `choose a custom domain`.
+
 
 ![](img/digibyte_domain.png ':size=600')
 
-Create a new username and password to access your new Digibyte Node.
+Create a username and password to access your DigiByte Node.
 
-![](img/digibyte_username.png)
+![](img/digibyte_username.png ':size=600')
 
-Select the vdc capacity plan for your Digibyte Node workload usage.
 
-![](img/digibyte_plan.png)
+Choose the size of the capacity that you want to reserve for your Digibyte Node workload usage, both in terms of compute power and memory capacity. 
+A Gold flavor configuration (CPU 4000m / 12000Mi) is sufficient at this moment. 
 
-Congratulations! you just successfully deployed a Digibyte Node on the ThreeFold_Grid! You can now click on the given link to access your new Digibyte Node.
+![](img/evdc_digibyte_flavor.png ':size=600')
 
-![](img/digibyte_success.png)
+Congratulations! You just successfully deployed a DigiByte node. 
 
-When you clicked it, you will then be directed to the Node stat page of your new Digibyte Node, where you can find all the information you need to start building solutions on top of your Digibyte Node.
+![](img/evdc_digibyte_success.png ':size=600')
 
-![](img/digibyte_stat1.png)
-![](img/digibyte_stat1.png)
+The url that gives access to your DigiByte node can be found on the next screen, or in the deployed solutions overview.
 
-## Accessing Your Deployed Node
+When you click on the url, it will re-direct you to the stats page of your new DigiByte Node. There, you can find all the information you can follow the synchronisation status of your Digibyte Node.
 
-To find and access the Digibyte Node you just deployed, simply go to your eVDC Admin Panel home and find the Digibyte Widget. Click on **My Workloads** to go to the list of your successfully deployed Digibyte Nodes.
+![](img/evdc_digibyte_synchro1.png ':size=600')
+![](img/evdc_digibyte_synchro2.png ':size=600')
+![](img/evdc_digibyte_synchro3.png ':size=600')
 
-![](img/digibyte_myworkload.png)
+To find and access the DigiByte node you just deployed, simply go to the DigiByte widget on your Admin Panel. Click on `My Workloads` to go to the list of your successfully deployed DigiByte nodes.
 
-You can now click the link to go to your deployed Digibyte Node Stats Page.
+![](img/evdc_digibyte_myworkload.png ':size=300')
 
-![](img/digibyte_access.png)
+The link will lead you to your deployed DigiByte node stats page.
+
+![](img/evdc_digibyte_access.png ':size=600')
