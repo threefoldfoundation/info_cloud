@@ -1,7 +1,7 @@
 
  # ThreeFold Cloud and Services 2.7.1
  
-Live on testnet - May 14, 2021.
+Live on testnet - May 17, 2021.
 
 Including upgrades on:
 - **JS-SDK v11.4** = Component upgrades for products:
@@ -43,6 +43,8 @@ Including upgrades on:
 
 ## Service Grid v2.7.1
 
+Live on testnet - May 17, 2021.
+
 ### ZOS v0.5.0
 - Fixed bugs related to CPU limit for containers
 - Replaced Firecracker to Cloud-hypervisor
@@ -62,12 +64,18 @@ Including upgrades on:
 - Prepared improvements regarding database header blocks
 
 ## ThreeFold Connect App v2.7.1
+
+Live on production - May 17, 2021.
+
 - Implemented TFT Vesting feature
 - Implemented BTC deposit, withdrawal and transfer feature
 - Implemented the option to Buy TFT with BTC 
 - Improvements and bug fixes throughout the app
 
 ## ThreeFold Token v2.7.1
+
+Live on production - May 17, 2021.
+
 - TFT implemented as a cross-chain asset (BToken) on the [Binance Smart Chain (BSC)](https://www.binance.org/en/smartChain).
 - Implemented support TFT buying with BTC
 - Improvements to the token statistics service
