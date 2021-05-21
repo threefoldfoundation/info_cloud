@@ -1,5 +1,5 @@
 
- # ThreeFold Cloud and Services 2.7.1
+ # ThreeFold Products and Services 2.7.1
  
 Live on testnet - May 17, 2021.
 
