@@ -2,7 +2,7 @@
 
 [Cryptpad](https://cryptpad.fr/) is a private-by-design office tools alternative. It has most of the crucial functionalities you would be using in Google Docs and Microsoft Office.
 
-Content stored on CryptPad is fully encrypted, which means no one can access the documents without shared permissions.  
+Content stored on CryptPad is fully encrypted, which means no one can access the documents without shared permissions. Encryption happens in the browser that is used to access the "pads" – and therefore the central storage facility used does not see un-encrypted data and only sees encrypted data passing by.
 
 ## Get Started
 
