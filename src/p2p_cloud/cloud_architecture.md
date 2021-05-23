@@ -29,7 +29,7 @@ There is no shell, local nor remote attached to Zero-OS. It does not allow for i
 
 The compute, storage and network primitives can only be accessed via a 'Smart Contract for IT'.
 
-Learn more about Zero-OS [here](threefold:part2_3node_primitive_workloads). 
+Learn more about Zero-OS [here](threefold:zos). 
 
 ## The servers: 3Nodes
 
