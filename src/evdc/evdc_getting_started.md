@@ -1,15 +1,15 @@
 # Get started with eVDC
 
-## Steps to start your eVDC journey:
+## Steps to start your VDC journey:
 
-1. [Create your eVDC](evdc_create)
-2. [Access your eVDC](evdc_access)
-3. [Manage Your eVDC](evdc_my_evdc)
-4. [Upgrade your eVDC](evdc_upgrade)
-5. [Remove your eVDC](evdc_remove)
+1. [Create your VDC](evdc_create)
+2. [Access your VDC](evdc_access)
+3. [Manage Your VDC](evdc_my_evdc)
+4. [Upgrade your VDC](evdc_upgrade)
+5. [Remove your VDC](evdc_remove)
 
 
-## Manage your eVDC:
+## Manage your VDC:
 - [Manage Compute Nodes](evdc_compute) 
 - [Manage Storage Nodes](evdc_storage)
 - [Wallet](evdc_wallet) 

@@ -37,7 +37,7 @@ The ThreeFold Grid is the first autonomous cloud grid in the world and is comple
 
 All 3Nodes connected to the ThreeFold Grid are booted with the Zero-OS operating system. The 3Nodes will register themselves autonomously to the blockchain database called the TF Directory. Once registered in the TF Directory, the capacity of the 3Nodes will become available on the TF Grid Explorer. We call this proof-of-capacity. This brings a major benefit to users as compared to many blockchain protocols that run on public cloud providers.
 
-You can have your own dedicated node, while others use load balancers to distribute activity across nodes. Almost all compute (EVDC) and storage (zstor) services are extremely easy to work with, making it easy to switch 3Nodes or even to switch between your compute and storage dedicated 3Nodes.
+You can have your own dedicated node, while others use load balancers to distribute activity across nodes. Almost all compute (eVDC) and storage (zstor) services are extremely easy to work with, making it easy to switch 3Nodes or even to switch between your compute and storage dedicated 3Nodes.
 
 It's important to note that 3Nodes do not store private information such as private keys. All these remains available only to your virtual system administrator - 3bot.
 

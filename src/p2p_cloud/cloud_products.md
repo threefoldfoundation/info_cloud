@@ -30,17 +30,17 @@ More information on zstor [here](https://threefold.io/info/cloud#/threefold__qua
 
 ![](img/evdc.png)
 
-## Edge Virtual Data Center (EVDC) = P2P Compute 
+## Edge Virtual Data Center (eVDC) = P2P Compute 
 
-EVDC is the first peer-to-peer compute solution on the market. It provides the agility to create and deploy containers on the edge and allows for micro-services architectures. An EVDC can be deployed in a matter of a few clicks. 
+eVDC is the first peer-to-peer compute solution on the market. It provides the agility to create and deploy containers on the edge and allows for micro-services architectures. An eVDC can be deployed in a matter of a few clicks. 
 
-EVDC makes it easy to set-up and manage the execution of containers and the interaction between them. It also offers DNS and IP addresses, automated load balancing at high traffic, automated rollbacks and rollouts and a self-healing architecture.  
+eVDC makes it easy to set-up and manage the execution of containers and the interaction between them. It also offers DNS and IP addresses, automated load balancing at high traffic, automated rollbacks and rollouts and a self-healing architecture.  
 
 It comes with the most widely used tools and frameworks such as Kubernetes and Helm Scripts. It is also fully compatible with industry standards such as Docker and major frameworks such as Grafana snd Prometheus. 
 
 This enables any IT developer working with those standards to deploy their IT workloads on the ThreeFold P2P Cloud in the format they already use today.
 
-EVDC offers the following compute benefits:
+eVDC offers the following compute benefits:
 
 - Any containerized Unix IT applications can be deployed.
 - Easy to set-up, orchestrate, and manage Kubernetes clusters as well as containers hosted on external clouds (hybrid cloud management).
@@ -49,11 +49,11 @@ EVDC offers the following compute benefits:
 - Self-healing and self-driving functionalities to ensure your workloads are always up and running.
 - Hyper-competitive prices considering the advanced technology stack
 
-More information on EVDC [here](https://threefold.io/info/cloud#/cloud__evdc)
+More information on eVDC [here](https://threefold.io/info/cloud#/cloud__evdc)
 
 ## Planetary Network = P2P Network
 
-Planetary network is a smart network that enables the true peer-to-peer abilities of EVDC and zstor. All nodes on the ThreeFold Grid have their own IPv6 address and are securely interconnected in the defined network. All traffic on the network is end-to-end encrypted.
+Planetary network is a smart network that enables the true peer-to-peer abilities of eVDC and zstor. All nodes on the ThreeFold Grid have their own IPv6 address and are securely interconnected in the defined network. All traffic on the network is end-to-end encrypted.
 
 There is no TCP/IP traffic allowed from the outside, data is picked up from the inside, making it an incredibly secure and private environment to build IT workloads on. The link between applications and the outside world is managed through the web gateways. These web gateways terminate all incoming traffic to the server and initiate new client service connections to the real application servers. This internal client server connection is initiated by the real application server, not from the outside. This only allows external traffic that is initiated and accepted from the inside.
 
@@ -66,7 +66,7 @@ Planetary network offers the following benefits:
 A marketplace of ready-to-deploy peer-to-peer applications. 
 
 You can find:
-- A Monitoring stack that comes with Grafana and Prometheus for your EVDC.
+- A Monitoring stack that comes with Grafana and Prometheus for your eVDC.
 - Hosting tools such as Gitea.
 - CRM to grow your business.
 - Office and publishing (blog, wiki, website) tools
