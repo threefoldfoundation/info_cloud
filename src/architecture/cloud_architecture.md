@@ -6,11 +6,11 @@
 
 <!-- - [Quantum Safe Compute Concept](threefold:quantumsafe_compute_concept)
   - flist_fs--> 
-- [Quantum Safe Storage Concept](threefold:quantumsafe_storage_concept)
+- [Quantum Safe Storage Concept](threefold:quantumsafe_storage)
   - [ThreeFold Filesystem](threefold:quantumsafe_filesystem)
 - [Quantum Safe Network Concept](threefold:quantumsafe_network_concept)
   - [Zero-OS Network](sdk:capacity_network)
-  - [ThreeFold Network = Planetary Network](threefold:threefold_network)
+  - [ThreeFold Network = Planetary Network](internet4:planetary_network)
   - [Web Gateway](sdk:archi_webgateway)
 - TFGrid
   - [3Node](threefold:3node)
