@@ -11,9 +11,9 @@ The price of the monthly subscription fees is expressed in USD. The equivalent a
 - **Platinum Pack**: 80 USD per month for a small Kubernetes Controller and 2 worker nodes, 8 GB memory, 10TB ZDB storage, a Network Gateway 
 - **Diamond Pack**: 200 USD per month for a small Kubernetes Controller and 4 worker nodes, 32 GB memory, 10TB ZDB storage, a Network Gateway
 
-> Note: The above pricing is for Mainnet. Testnet pricing will be 1/10 of the Mainnet pricing. 
+> **Note:** The above pricing is for Mainnet. Testnet pricing will be 1/10 of the Mainnet pricing. 
 
-> Disclaimer: Please consider that Testnet is not meant for production. The continuity of the operations for your eVDC is not guaranteed, and the available capacity is inferior to Mainnet.
+> **Disclaimer:** Please consider that Testnet is not meant for production. The continuity of the operations for your eVDC is not guaranteed, and the available capacity is inferior to Mainnet.
 
 ### Adding nodes
 
@@ -38,5 +38,5 @@ You can top-up your VDC wallet by transferring TFTs to the indicated address or 
 
 ## More Info
 
-- Learn how to buy TFT [here](threefold:how_to_buy_and_sell).
-- See how to manage your [Wallet](evdc_wallet).
+- Learn how to buy TFT [here](threefold:how_to_buy_and_sell)
+- See how to manage your [Wallet](evdc_wallet)
