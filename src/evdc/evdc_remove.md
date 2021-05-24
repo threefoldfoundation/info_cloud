@@ -13,5 +13,5 @@ The remaining money on the prepaid wallet will be sent back to the originator ac
 ## More Info:
 
 More info:
-- Go back to the [Compute Nodes Management](evdc_compute) section.
-- How to [Manage your Kubernetes Cluster](evdc_k8s).
+- Go back to the [Compute Nodes Management](evdc_compute) section
+- How to [Manage your Kubernetes Cluster](evdc_k8s)

@@ -1,6 +1,6 @@
 # ThreeFold Edge Virtual Data Center
 
-eVDC is the first peer-to-peer kubernetes compatible cloud solution on the market. It provides the agility to create and deploy containers on the edge and allows for micro-services architectures with automation frameworks executed via Helm Scripts. An eVDC can be deployed in a matter of a few clicks. 
+eVDC is the first peer-to-peer kubernetes compatible cloud solution on the market. It provides the agility to create and deploy containers on the edge and allows for micro-services architectures with automation frameworks executed via Helm Scripts. An EVDC can be deployed in a matter of a few clicks. 
 
 It comes with a marketplace of solutions that offer Docker containerizations as well as monitoring tools such as Prometheus and Grafana for the Kubernetes clusters. 
 
