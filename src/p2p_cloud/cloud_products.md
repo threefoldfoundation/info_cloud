@@ -26,7 +26,7 @@ zstor offers the following storage benefits:
 - Self-healing capability of the P2P Cloud ensures your data remains available at all times. 
 - Hyper-competitive pricing.
 
-More information on zstor [here](https://threefold.io/info/cloud#/threefold__quantum_safe_filesystem)
+More information on zstor [here](https://threefold.io/info/cloud#/threefold__quantumsafe_filesystem)
 
 ![](img/evdc.png)
 

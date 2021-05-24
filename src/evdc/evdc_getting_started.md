@@ -21,5 +21,5 @@
 
 ### Support
 
-- Ask us any questions you might have on [our forum](https://forum.threefold.io) (please use feedback category)
-- Join our Telegram Group for TF Grid testers [here](https://t.me/joinchat/BwOvOxxgK59GmRoZ2_sM0w)
+- Feel free to ask us any questions you might have on [our forum](https://forum.threefold.io) in the feedback category.
+- We also have a Telegram Group for TF Grid testers [here](https://t.me/joinchat/BwOvOxxgK59GmRoZ2_sM0w).
