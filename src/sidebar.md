@@ -30,7 +30,7 @@
   - [Monitoring Stack](evdc_monitoring_stack)
   - [Monitoring Locally](evdc_monitoring_local)
 - [zstor filesystem](threefold_filesystem)
-  - [Getting Started](evdc_zstor_get_started)
+  - [Getting Started](evdc_qsfs_get_started)
 - [Marketplace](evdc_marketplace_overview)
   - [Introducing Marketplace](evdc_tfnow)
   - [Get Started](evdc_marketplace)
@@ -57,6 +57,8 @@
   - [Link to your domain name](evdc_marketplace_webdomain)
 - [Release Notes](release_notes)
 - [Support](support)
+
+
 <!--- - [Architecture](cloud_architecture)
   - [3Node](threefold:3node)
   - [Kubernetes](evdc_k8s)
