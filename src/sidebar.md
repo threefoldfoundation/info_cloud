@@ -62,7 +62,7 @@
 <!--- - [Architecture](cloud_architecture)
   - [3Node](threefold:3node)
   - [Kubernetes](evdc_k8s)
-  - [Quantum Safe Storage](threefold:quantumsafe_storage)
+  - [Quantum Safe Storage](quantumsafestorage:qsss)
   - [Quantum Safe Network](threefold:quantumsafe_network_concept)
   - [Planetary Secure Network](internet4:planetary_network)
   - [0-Container Virtual FS](sdk:architecture_flist)

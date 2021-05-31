@@ -4,9 +4,8 @@
 
 **More info:**
 
-<!-- - [Quantum Safe Compute Concept](threefold:quantumsafe_compute_concept)
-  - flist_fs--> 
-- [Quantum Safe Storage Concept](threefold:quantumsafe_storage)
+
+- [Quantum Safe Storage Concept](quantumsafestorage:qsss)
   - [ThreeFold Filesystem](threefold:quantumsafe_filesystem)
 - [Quantum Safe Network Concept](threefold:quantumsafe_network_concept)
   - [Zero-OS Network](sdk:capacity_network)
@@ -19,8 +18,8 @@
   - [AutoPay](twin:autopay)
   - [TFGrid Wallet](cloud_wallet)
 
-<!--- >> Coming soon: webgateway
-> Coming soon: zos_network --->
-
+<!-- Coming soon: webgateway
+> Coming soon: zos_network -->
+<!-- - [Quantum Safe Compute Concept](qsss)
+  - flist_fs--> 
 <!-- Need to add: quantumsafe_compute_concept on threefold main wiki -->
-
