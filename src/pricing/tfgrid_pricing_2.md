@@ -4,7 +4,6 @@
 
 > Prices on testnet are 1/10 of prices mentioned below. 
 
-- DIY = Do It Yourself Capacity
 - pricing is done based on cloud units (see [cloud_units](threefold:cloud_units))
 
 |                   |                                            |              |
@@ -47,4 +46,4 @@
 
 ## How to get started
 
-see [Get started on TFGrid](threefold:use_tfgrid)
+see [Get started on TFGrid](threefold:grid_use)

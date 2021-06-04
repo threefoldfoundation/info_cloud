@@ -2,7 +2,6 @@
 
 The Threefold grid has very attractive pricing models.
 
-- DIY = Do It Yourself Capacity
 - pricing is done based on cloud units (see [cloud_units](threefold:cloud_units))
 
 ### Typically the price is in the range of
@@ -29,7 +28,7 @@ ThreeFold tries to have a price which is less than half of centralized cloud ven
 - experts: use our cloud tools (SDK, eVDC control panel, ...) see the [manuals](threefold:wiki_overview) section.
 - marketplace: see [http://now.threefold.io](http://now.threefold.io) , with a couple of clicks you can use our grid.
 
-More info about [how to use the grid see here](threefold:use_tfgrid)
+More info about [how to use the grid see here](threefold:grid_use)
 
 ### Pricing Details
 
