@@ -1,4 +1,4 @@
-# Release notes TF Grid 2.2.0
+# Release notes ThreeFold Cloud 2.2.0
 
 This release introduces a major change in the way capacity is reserved on the Grid. In previous version, the deployment of workloads and the payment of capacity was done in a single step. This lead to different types of issues and a bad user experience.
 
@@ -14,11 +14,6 @@ For a complete detail and rational about this new feature, head to the [specific
 ## Higlights
 
 Some other new features also introduces in this version:
-
-### Zero-OS
-
-* Hard drive disk are now automatically shutdown when not used. This feature should greatly improve the power consumption of servers with a lot of disks but few actual usage.
-* A new networking option is available for your container. You can now ask a container to have an extra interface that is connected to  the [Yggdrasil network](https://yggdrasil-network.github.io). This allow you to seamlessly expose service on Yggdrasil
 
 ### Jumpscale
 
