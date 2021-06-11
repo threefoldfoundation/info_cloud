@@ -1,4 +1,4 @@
-# TF Grid 2.4.0 Release Note
+# TF Cloud 2.4.0 Release Note
 
 Live on testnet - Monday, January 11, 2021.
 
