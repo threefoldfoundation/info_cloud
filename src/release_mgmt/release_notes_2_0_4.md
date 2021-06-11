@@ -1,4 +1,4 @@
-# Release notes TF Grid 2.0.4.beta
+# Release notes ThreeFold Cloud 2.0.4.beta
 
 **Experts and scripters only**
 
