@@ -68,6 +68,6 @@ Several minor improvements on VDC's performance, recovery, processes, and user e
 - Enable ETCD cluster installation on 3Nodes
 
 ## History
- [ThreeFold Cloud 2.7.1](release_note_2.7.1.md)
+- [ThreeFold Cloud 2.7.1](release_note_2.7.1.md)
 - [ThreeFold Cloud 2.7](release_note_2.7.md)
 - [ThreeFold Cloud 2.6](release_note_2.6.md)
