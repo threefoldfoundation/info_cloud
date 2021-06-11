@@ -1,4 +1,4 @@
-# Release notes TF Cloud 2.0.5 beta
+# Release notes ThreeFold Cloud 2.0.5 beta
 
 TF Grid 2.0.5 beta is a minor release which is focus on bug fixing and stability improvement. It also include an update in the way how billing works for reservations.
 
