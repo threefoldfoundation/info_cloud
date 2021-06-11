@@ -63,15 +63,7 @@ TF Grid 2.0.6 beta is a minor release which is focus on bug fixing and stability
 - Flist deploy uses hru instead of mru
 - Secret could contain any special characters
 
-### Zero-OS
 
-- You could now configure the size and type of the root filesystem of the containers
-- Better report of the node health
-- Report of the network configuration of a node to the farmer
-
-### TFExplorer
-
-- The node marked as free to use could now also be paid in other currencies. This should help resorbed the split in the network created by the different currencies to be used to reserve capacity.
 
 ## Component versions
 
