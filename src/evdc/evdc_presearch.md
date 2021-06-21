@@ -14,7 +14,7 @@ You will be directed to a chat flow for the deployment process.
 
 ![](img/presearch_widget.png)
 
-Create a name for your DigiByte node. This name will be used to identify your deployment on your `Deployed Solutions` list.
+Create a name for your Presearch node. This name will be used to identify your deployment on your `Deployed Solutions` list.
 
 ![](img/presearch_create.png ':size=600')
 
@@ -42,7 +42,7 @@ Congratulations! you just successfully deployed a Presearch node. on the ThreeFo
 
 ![](img/presearch_success.png ':size=600')
 
-The url that gives access to your DigiByte node can be found on the next screen, or in the deployed solutions overview.
+The url that gives access to your Presearch node can be found on the next screen, or in the deployed solutions overview.
 
 When you click it, you will be re-directed to the stats page of your node. There, you can find all the information you need to monitor your node, including the log data showing your node activity. 
 
