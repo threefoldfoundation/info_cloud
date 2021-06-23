@@ -19,3 +19,5 @@
 - [ThreeFold Cloud 2.0.5 beta](release_notes_2_0_5)
 - [ThreeFold Cloud 2.0.4 beta](release_notes_2_0_4)
 
+## Other Rekease Notes
+- [ThreeFold Grid Release Notes](threefold:release_mgmt)
