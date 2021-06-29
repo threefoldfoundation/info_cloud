@@ -1,6 +1,6 @@
 ## Minio deployment
 Minio is an object storage server with a nice ui and S3 APIs.
-This solution will help create a Minio deployment in a Single or Master/Slave mode.
+This solution will help create a Minio deployment in a Single or Primary/Secondary mode.
 
 ## Steps
 
