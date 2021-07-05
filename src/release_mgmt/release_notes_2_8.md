@@ -2,7 +2,7 @@
 
 # ThreeFold Cloud v2.8.0
 
-New Features, improvements and component releases related to The ThreeFold Cloud; ThreeFold's Virtual Data Center (VDC), 3Bot SDK Admin, as well as Marketplace Solutions.
+New Features, improvements and component releases related to The ThreeFold Cloud: ThreeFold's Virtual Data Center (VDC), 3Bot SDK Admin, as well as Marketplace Solutions.
 
 ## Components
 
@@ -16,12 +16,12 @@ New Features, improvements and component releases related to The ThreeFold Cloud
 
 ### VDC Deployment Speed Improvement
 
-A VDC Deployment consists of numeourous creation processess of different entailing components- such as the creation of VDC Wallets, capacity pools, VDC controller, compute nodes, storage containers, and many more. On this release, we investigated different entailing components and classified how some processes could be improved to fasten the speed of the VDC deployment process as a whole. 
+A VDC Deployment consists of numerous creation processess of different entailing components such as the creation of VDC Wallets, capacity pools, VDC controller, compute nodes, storage containers, and many more. On this release, we investigated different entailing components and classified how some processes could be improved to increase the speed of the VDC deployment process as a whole. 
 
 #### Highlights
 - Speed up component creation processes
-- Reorder component deployment flow
-- Adf interactive UI for different stages of the deployment processes (creation, initialization...)
+- Re-order component deployment flow
+- ADF Interactive UI for different stages of the deployment processes (creation, initialization...)
 - VDC recovery improvement
 
 #### Changelogs
@@ -33,11 +33,11 @@ A VDC Deployment consists of numeourous creation processess of different entaili
 
 ### VDC Recovery Improvement
 
-Based on reported feedback regarding VDC’s stability and self-healing quality on the previous release, on this released we worked on improving its recovery and monitoring mechanism. We created services on different entailing components to improve recovery processes if unexpected incidents happen, in order to avoid data and capacity loss, automate recovery, and many more.
+Based on reported feedback regarding VDC’s stability and self-healing quality on the previous release, on this release we worked on improving its recovery and monitoring mechanism. We created services on different entailing components to improve recovery processes if unexpected incidents happen, in order to avoid data and capacity loss, automate recovery, and many more.
 
 #### Changelogs
 - Allow VDC master redeployment option 
-- Improved of VDC Controller dashboard speed by 50%
+- Improved VDC Controller dashboard speed by 50%
 - Allow API keys to interact with the VDC 
 - Improved billing service reliability
 
@@ -47,7 +47,7 @@ On this release we are allowing users to deploy Dash Blockchain Full Node on top
 
 #### Highlights
 
-- Allow Dash Full Node deployment that on VDC. Dash Full Node allows users build applications and services with Node.js. 
+- Allow Dash Full Node deployment on VDC. Dash Full Node allows users build applications and services with Node.js. 
 
 #### Changelogs
 
