@@ -16,7 +16,7 @@ New Features, improvements and component releases related to The ThreeFold Cloud
 
 ### VDC Deployment Speed Improvement
 
-A VDC Deployment consists of numeourous creation processess of different entailing components- such as the creation of VDC Wallets, capacity pools, VDC controller, compute nodes, storage containers, and many more. On this release, we investigated different entailing components and classified how some processes could be improved to fasten the speed VDC deployment process as a whole. 
+A VDC Deployment consists of numeourous creation processess of different entailing components- such as the creation of VDC Wallets, capacity pools, VDC controller, compute nodes, storage containers, and many more. On this release, we investigated different entailing components and classified how some processes could be improved to fasten the speed of the VDC deployment process as a whole. 
 
 #### Highlights
 - Speed up component creation processes
