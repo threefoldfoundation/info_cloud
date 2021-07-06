@@ -5,8 +5,8 @@
 **More info:**
 
 
-- [Quantum Safe Storage Concept](quantumsafestorage:qsss)
-  - [ThreeFold Filesystem](threefold:quantumsafe_filesystem)
+- [Quantum Safe Storage Concept](tftech:vdc_storage)
+  - [ThreeFold Filesystem](threefold_filesystem)
 - [Quantum Safe Network Concept](threefold:quantumsafe_network_concept)
   - [Zero-OS Network](sdk:capacity_network)
   - [ThreeFold Network = Planetary Network](internet4:planetary_network)

@@ -1,10 +1,10 @@
-# ThreeFold P2P Cloud architecture explained 
+# ThreeFold P2P Cloud architecture explained
 
 ## Introduction
 
-Using public clouds today became a comprise to data privacy and security. On the other hand, running your own nodes can be complicated, especially when getting started and wanting to scale fast. Many independent people and organizations connect compute and storage capacity in the form of hardware/servers called 3Nodes to the ThreeFold P2P Grid, the backbone of ThreeFold P2P Cloud. 
+Using public clouds today became a threat to data privacy and security. On the other hand, running your own nodes can be complicated, especially when getting started and wanting to scale fast. Many independent people and organizations connect compute and storage capacity in the form of hardware/servers called 3Nodes to the ThreeFold P2P Grid, the backbone of ThreeFold P2P Cloud.
 
-All 3Nodes connected to the ThreeFold Grid are registered in a database called the TF Directory, that displays the capacity available on the TF Grid Explorer. We call this proof-of-capacity. 
+All 3Nodes connected to the ThreeFold Grid are registered in a database called the TF Directory, that displays the capacity available on the TF Grid Explorer. We call this proof-of-capacity.
 
 Users can find the capacity they need on the TF Grid Explorer and reserve it via their 3Bot - a virtual system administrator that executes the commands and functions (reservation of capacity, editing workloads, etc.) directly on the operating system level via a smart contract for IT.
 
@@ -16,20 +16,21 @@ TFT is the official currency of ThreeFold P2P Cloud. It is a decentralized digit
 
 Learn more about TFT [here](threefold:token_home).
 
-## The operating system: Zero-OS 
+## The operating system: Zero-OS
 
 Zero-OS was built from scratch on a Linux Kernel to remove all the unnecessary complexity found on contemporary OS’s. Zero-OS supports a small number of primitives, and performs low-level functions natively.
 
 It delivers 3 primitive functions:
-- storage capacity compatible to any file system and format
-- compute capacity in the form of highly-optimized containers
-- network capacity to run the network services
+
+- Storage capacity compatible to any file system and format;
+- Compute capacity in the form of highly-optimized containers;
+- Network capacity to run the network services.
 
 There is no shell, local nor remote attached to Zero-OS. It does not allow for inbound network connections to happen. Also, given its shell-less nature, the people and organizations that run 3Nodes cannot issue any commands nor access its features. In that sense, Zero-OS enables a “zero people” (autonomous) Internet, meaning hackers cannot get in, while also eliminating human error from the paradigm.
 
 The compute, storage and network primitives can only be accessed via a 'Smart Contract for IT'.
 
-Learn more about Zero-OS [here](threefold:zos). 
+Learn more about Zero-OS [here](threefold:zos).
 
 ## The servers: 3Nodes
 
