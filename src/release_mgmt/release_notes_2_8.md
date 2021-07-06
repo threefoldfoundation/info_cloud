@@ -70,4 +70,4 @@ Several minor improvements on VDC's performance, recovery, processes, and user e
 ## History
 - [ThreeFold Cloud 2.7.1](release_notes_2_7_1)
 - [ThreeFold Cloud 2.7](release_notes_2_7_0)
-- [ThreeFold Cloud 2.6](release_note_2_6_0)
+- [ThreeFold Cloud 2.6](release_notes_2_6_0)
